@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: 8201-24H8FH
+slug: cisco-8201-24h8fh
+part_number: 8201-24H8FH
+u_height: 1.0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex4300.html
+max_throughput:
+  value: 928.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 1100.0
+  unit: W
+  description: Provides up to 1100 W PoE++ power
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 1400.0
+    unit: W
+    description: EX4300-48MP supports 715 W, 1100 W, and 1400 W AC power supplies
+  number_of_modules: 2
+  part_number: null

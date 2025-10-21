@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS250-24P
+slug: cisco-meraki-ms250-24p
+part_number: MS250-24P-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS250_Overview_and_Specifications
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

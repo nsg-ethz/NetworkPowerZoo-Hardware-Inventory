@@ -1,0 +1,26 @@
+manufacturer: Juniper
+series: null
+model: EX4100-24T
+slug: juniper-ex4100-24t
+part_number: EX4100-24T
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products/switches/ex-series/ex4100-line-of-ethernet-switches-datasheet.html
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4100-line-of-ethernet-switches-datasheet.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 328.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating:
+    value: 150.0
+    unit: W
+    description: null
+  part_number: JPSU-150-AC-AFO

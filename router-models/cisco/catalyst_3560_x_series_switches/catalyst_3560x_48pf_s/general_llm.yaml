@@ -1,0 +1,25 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3750-x-series-switches/data_sheet_c78-584733.html
+max_throughput:
+  value: 160.0
+  unit: Gbps
+typical_power_draw:
+  value: 136.2
+  unit: W
+  description: Weighted average power consumption for 3560X-48PF
+max_power_draw:
+  value: 137.4
+  unit: W
+  description: 100% Traffic power consumption for 3560X-48PF
+is_poe_capable: true
+max_poe_draw:
+  value: 800.0
+  unit: W
+  description: Available PoE power for 3560X-48PF
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: C3KX-PWR-1100WAC

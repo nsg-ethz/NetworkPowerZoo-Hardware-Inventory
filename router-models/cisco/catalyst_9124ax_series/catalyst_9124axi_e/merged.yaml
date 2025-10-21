@@ -1,0 +1,27 @@
+manufacturer: Cisco
+series: Catalyst 9124AX Series
+model: Catalyst 9124AXI-E
+slug: cisco-c9124axi-e
+part_number: C9124AXI-E
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9124-ser-ap-ds-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9124-ser-ap-ds-cte-en.pdf
+release_date: '2021-03-30'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 5.38
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 60.0
+  unit: W
+  description: "Max PoE draw when powered from UPOE or 802.3bt inline power source\
+    \ or DC input with external power supply rated \u2265 60W"
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

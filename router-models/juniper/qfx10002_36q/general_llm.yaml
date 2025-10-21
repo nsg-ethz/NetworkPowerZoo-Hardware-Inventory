@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx10002/qfx10002.pdf
+max_throughput:
+  value: 2.88
+  unit: Tbps
+typical_power_draw:
+  value: 560.0
+  unit: W
+  description: AC, DC
+max_power_draw:
+  value: 800.0
+  unit: W
+  description: AC, DC
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: JPSU-1600W-AC-AFO

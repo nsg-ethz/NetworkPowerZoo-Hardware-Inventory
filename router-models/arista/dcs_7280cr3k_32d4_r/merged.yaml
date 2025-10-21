@@ -1,0 +1,34 @@
+manufacturer: Arista
+series: null
+model: DCS-7280CR3K-32D4-R
+slug: arista-dcs-7280cr3k-32d4-r
+part_number: DCS-7280CR3K-32D4-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7280R3-Data-Sheet.pdf
+datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 4.8
+  unit: Tbps
+max_power_draw:
+  value: 851.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 100% load on
+    all ports
+typical_power_draw:
+  value: 535.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1000.0
+    unit: W
+    description: null
+  part_number: PWR-1011

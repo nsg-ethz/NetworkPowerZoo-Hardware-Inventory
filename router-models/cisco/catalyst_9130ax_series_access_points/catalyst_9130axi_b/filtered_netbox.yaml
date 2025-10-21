@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 9130AXI-B
+slug: cisco-c9130axi-b
+part_number: C9130AXI-B
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat-9130-ser-ap-ds-cte-en.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

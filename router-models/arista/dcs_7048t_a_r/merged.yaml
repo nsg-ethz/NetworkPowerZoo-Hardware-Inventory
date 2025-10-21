@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7048T-A-R
+slug: arista-dcs-7048t-a-r
+part_number: DCS-7048T-A-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7048T-A_DataSheet.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 176.0
+  unit: Gbps
+max_power_draw:
+  value: 212.0
+  unit: W
+  description: Operating Maximum Power Draw
+typical_power_draw:
+  value: 174.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 460.0
+    unit: W
+    description: null
+  part_number: PWR-460AC-R

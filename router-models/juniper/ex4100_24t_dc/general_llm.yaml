@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4100-line-of-ethernet-switches-datasheet.pdf
+max_throughput:
+  value: 328.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 150.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: JPSU-150-DC-AFO

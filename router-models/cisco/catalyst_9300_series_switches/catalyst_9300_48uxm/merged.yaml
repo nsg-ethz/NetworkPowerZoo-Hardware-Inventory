@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: Catalyst 9300 Series Switches
+model: Catalyst 9300-48UXM
+slug: cisco-c9300-48uxm
+part_number: C9300-48UXM
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-ser-data-sheet-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-ser-data-sheet-cte-en.pdf
+release_date: '2017-06-20'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 580.0
+  unit: Gbps
+max_power_draw:
+  value: 277.2
+  unit: W
+  description: 100% Full port traffic
+typical_power_draw:
+  value: 258.0
+  unit: W
+  description: Weighted average Pw
+is_poe_capable: true
+max_poe_draw:
+  value: 1290.0
+  unit: W
+  description: 1290W for upgrade PoE, 490W for default PoE
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1900.0
+    unit: W
+    description: 1100W as default version of the power supply
+  part_number: PWR-C1-1900WAC-P

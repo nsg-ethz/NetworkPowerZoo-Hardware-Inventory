@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4650-ethernet-switch-datasheet.pdf
+max_throughput:
+  value: 4.0
+  unit: Tbps
+typical_power_draw:
+  value: 260.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 450.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: JPSU-650W-AC-AFI

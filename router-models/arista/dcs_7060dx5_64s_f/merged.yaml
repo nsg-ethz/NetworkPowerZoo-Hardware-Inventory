@@ -1,0 +1,33 @@
+manufacturer: Arista
+series: null
+model: DCS-7060DX5-64S-F
+slug: arista-dcs-7060dx5-64s-f
+part_number: DCS-7060DX5-64S-F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7060X5-Datasheet.pdf
+datasheet_pdf: https://www.arista.com/en/products/7060x5-series
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 25.6
+  unit: Tbps
+max_power_draw:
+  value: 1716.0
+  unit: W
+  description: Maximum power consumption
+typical_power_draw:
+  value: 489.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load, excludes
+    transceivers
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2400.0
+    unit: W
+    description: PWR-2411-AC-RED/BLUE and PWR-2411-DC-RED/BLUE are 2400W
+  part_number: PWR-2411-AC-RED/BLUE

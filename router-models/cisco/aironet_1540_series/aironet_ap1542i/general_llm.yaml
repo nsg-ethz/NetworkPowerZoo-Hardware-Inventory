@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1540-series/datasheet-c78-738585.pdf
+max_throughput:
+  value: 1.1
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 13.9
+  unit: W
+  description: Max power draw with 100 meters Category 5 cable
+is_poe_capable: true
+max_poe_draw:
+  value: 13.9
+  unit: W
+  description: Achieves full operation on standard 802.3af power
+psu: null

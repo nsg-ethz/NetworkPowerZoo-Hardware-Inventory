@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS410-16
+slug: cisco-meraki-ms410-16
+part_number: ms410-16
+u_height: 1.0
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS410_Overview_and_Specifications
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/350x-series-stackable-managed-switches/datasheet-c78-735986.pdf
+max_throughput:
+  value: 480.0
+  unit: Gbps
+typical_power_draw:
+  value: 146.7
+  unit: W
+  description: 110V typical power consumption
+max_power_draw:
+  value: 144.7
+  unit: W
+  description: 220V typical power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu: null

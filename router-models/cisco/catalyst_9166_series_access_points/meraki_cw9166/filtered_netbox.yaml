@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki CW9166
+slug: cisco-meraki-cw9166
+part_number: CW9166
+u_height: 0.0
+datasheet_url: https://meraki.cisco.com/product-collateral/cw9166-datasheet/?file
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

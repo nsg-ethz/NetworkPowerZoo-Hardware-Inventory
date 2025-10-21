@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: 350 Series Managed Switches
+model: SG350-28
+slug: cisco-sg350-28
+part_number: SG350-28-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data-sheet-c78-737359.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data-sheet-c78-737359.pdf
+release_date: '2015-06-30'
+end_of_sale: '2023-01-29'
+end_of_support: '2028-01-31'
+max_throughput:
+  value: 56.0
+  unit: Gbps
+max_power_draw:
+  value: 19.9
+  unit: W
+  description: 220V typical power consumption
+typical_power_draw:
+  value: 19.7
+  unit: W
+  description: 110V typical power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 20
+  part_number: iec-60320-c14

@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: PTX10002-36QDD
+slug: juniper-ptx10002-36qdd
+part_number: null
+u_height: 2.0
+datasheet_url: https://www.juniper.net/us/en/products/routers/ptx-series/ptx10002-fixed-configuration-packet-transport-routers-datasheet.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

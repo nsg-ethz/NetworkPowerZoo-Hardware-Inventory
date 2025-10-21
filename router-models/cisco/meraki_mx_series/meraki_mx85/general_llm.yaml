@@ -1,0 +1,18 @@
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/5619/pdf/MX85%2bDatasheet.pdf?stylesheet=default
+max_throughput:
+  value: 1.0
+  unit: Gbps
+typical_power_draw:
+  value: 12.0
+  unit: W
+  description: idle
+max_power_draw:
+  value: 55.0
+  unit: W
+  description: max
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: PoE+ on GbE Port 4
+psu: null

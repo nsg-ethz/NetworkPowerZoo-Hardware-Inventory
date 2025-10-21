@@ -1,0 +1,18 @@
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/5621/pdf/MX95%252F105%2bDatasheet.pdf?stylesheet=default
+max_throughput:
+  value: 2.0
+  unit: Gbps
+typical_power_draw:
+  value: 42.0
+  unit: W
+  description: Power load at idle
+max_power_draw:
+  value: 109.0
+  unit: W
+  description: Power load at max
+is_poe_capable: true
+max_poe_draw:
+  value: 2.5
+  unit: Gbps
+  description: 1x RJ45 / 2.5 Gigabit Ethernet port (WAN) with PoE+ capabilities
+psu: null

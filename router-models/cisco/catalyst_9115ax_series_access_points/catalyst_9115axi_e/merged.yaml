@@ -1,0 +1,24 @@
+manufacturer: Cisco
+series: Catalyst 9115AX Series Access Points
+model: Catalyst 9115AXI-E
+slug: cisco-c9115axi-e
+part_number: C9115AXI-E
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-741988.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-741988.pdf
+release_date: '2019-03-22'
+end_of_sale: null
+end_of_support: null
+max_throughput: null
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 20.4
+  unit: W
+  description: null
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

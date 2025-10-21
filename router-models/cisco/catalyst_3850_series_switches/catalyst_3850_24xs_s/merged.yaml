@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Catalyst 3850 Series Switches
+model: Catalyst 3850-24XS-S
+slug: cisco-ws-c3850-24xs-s
+part_number: WS-C3850-24XS-S
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/datasheet_c78-720918.pdf
+datasheet_pdf: https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-3850-series-switches/cisco-catalyst-3850-series-switches-faq.pdf
+release_date: '2013-01-10'
+end_of_sale: '2022-04-30'
+end_of_support: '2027-04-30'
+max_throughput:
+  value: 640.0
+  unit: Gbps
+max_power_draw:
+  value: 205.5
+  unit: W
+  description: null
+typical_power_draw:
+  value: 187.2
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 715.0
+    unit: W
+    description: null
+  part_number: PWR-C1-715WAC

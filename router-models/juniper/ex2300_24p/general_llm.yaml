@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2300.html
+max_throughput:
+  value: 64.0
+  unit: Gbps
+typical_power_draw:
+  value: 80.0
+  unit: W
+  description: AC power consumption without PoE
+max_power_draw:
+  value: 370.0
+  unit: W
+  description: Total PoE power budget
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: Total PoE power budget
+psu: null

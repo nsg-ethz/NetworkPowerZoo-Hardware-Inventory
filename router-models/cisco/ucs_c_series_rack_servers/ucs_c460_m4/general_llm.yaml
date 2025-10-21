@@ -1,0 +1,14 @@
+datasheet_pdf: http://www.cisco.com
+max_throughput: null
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1400.0
+    unit: W
+    description: Maximum output power at 200 - 240 VAC
+  number_of_modules: 4
+  part_number: null

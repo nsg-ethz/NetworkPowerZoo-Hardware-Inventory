@@ -1,0 +1,25 @@
+datasheet_pdf: http://www.arista.com/en/products/ccs-710p-16p-datasheet
+max_throughput:
+  value: 104.0
+  unit: Gbps
+typical_power_draw:
+  value: 40.0
+  unit: W
+  description: System power requirement
+max_power_draw:
+  value: 51.0
+  unit: W
+  description: Max power excluding PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 229.0
+  unit: W
+  description: 280W AC external PS
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 280.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: PWR-280-ADP

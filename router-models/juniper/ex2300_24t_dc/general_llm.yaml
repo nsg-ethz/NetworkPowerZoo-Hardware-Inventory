@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2300.html
+max_throughput:
+  value: 64.0
+  unit: Gbps
+typical_power_draw:
+  value: 55.0
+  unit: W
+  description: Max system power consumption for EX2300-24T
+max_power_draw:
+  value: 55.0
+  unit: W
+  description: Max system power consumption for EX2300-24T
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: null

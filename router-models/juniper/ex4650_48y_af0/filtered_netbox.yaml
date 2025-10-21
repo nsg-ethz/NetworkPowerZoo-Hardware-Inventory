@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4650-48Y-AF0
+slug: juniper-ex4650-48y-afo
+part_number: EX4650-48Y-AFO
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products/switches/ex-series/ex4650-ethernet-switch-datasheet.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 5.12
+  unit: Tbps
+typical_power_draw:
+  value: 315.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+max_power_draw:
+  value: 800.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 100% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: 1100W AC power supply for Arista 7260QX Series Switches
+  number_of_modules: 2
+  part_number: null

@@ -1,0 +1,35 @@
+manufacturer: Arista
+series: null
+model: CCS-720XP-24Y6-F
+slug: arista-ccs-720xp-24y6-f
+part_number: CCS-720XP-24Y6-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720XP-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 348.0
+  unit: Gbps
+max_power_draw:
+  value: 90.0
+  unit: W
+  description: 100% @46C
+typical_power_draw:
+  value: 67.0
+  unit: W
+  description: 20% traffic @24C
+is_poe_capable: true
+max_poe_draw:
+  value: 583.0
+  unit: W
+  description: Default Available PoE Power
+psu:
+  number_of_modules: 2
+  efficiency_rating: Gold
+  power_rating:
+    value: 1050.0
+    unit: W
+    description: Default Power Supply(ies) 1050 W, 650 W
+  part_number: PWR-1021-AC

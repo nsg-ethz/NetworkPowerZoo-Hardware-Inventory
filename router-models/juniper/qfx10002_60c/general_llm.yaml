@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx10002/qfx10002.pdf
+max_throughput:
+  value: 12.0
+  unit: Tbps
+typical_power_draw:
+  value: 2000.0
+  unit: W
+  description: Typical power draw for QFX10002-60C
+max_power_draw:
+  value: 2500.0
+  unit: W
+  description: Maximum power draw for QFX10002-60C
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: 1600 W AC/DC power supply for QFX10002-60C
+  number_of_modules: 4
+  part_number: JPSU-1600W-AC-AFO

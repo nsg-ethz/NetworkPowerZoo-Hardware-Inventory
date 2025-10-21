@@ -1,0 +1,34 @@
+manufacturer: Arista
+series: null
+model: DCS-7150SC-64-CLD-F
+slug: arista-dcs-7150sc-64-cld-f
+part_number: DCS-7150SC-64-CLD-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7150S_Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.28
+  unit: Tbps
+max_power_draw:
+  value: 455.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 100% load on
+    all ports
+typical_power_draw:
+  value: 224.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 460.0
+    unit: W
+    description: null
+  part_number: PWR-460AC-F

@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-732103.pdf
+max_throughput:
+  value: 10.0
+  unit: Gbps
+typical_power_draw:
+  value: 80.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 110.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 2
+  part_number: null

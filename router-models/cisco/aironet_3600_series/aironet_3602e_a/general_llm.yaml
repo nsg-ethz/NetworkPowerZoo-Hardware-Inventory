@@ -1,0 +1,12 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3600-series/data_sheet_c78-686782.pdf
+max_throughput:
+  value: 450.0
+  unit: Mbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 19.6
+  unit: W
+  description: 19.6W with 802.11ac Module
+psu: null

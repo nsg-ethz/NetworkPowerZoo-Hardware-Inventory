@@ -1,0 +1,25 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 56.45
+  unit: W
+  description: Measured at 115VAC with 0.01%/EEE traffic
+max_power_draw:
+  value: 69.87
+  unit: W
+  description: Measured at 115VAC with 100% traffic
+is_poe_capable: true
+max_poe_draw:
+  value: 1440.0
+  unit: W
+  description: Available PoE power with additional secondary power supply
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 1000.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-C6-1KWAC

@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/documentation/us/en/software/license/licensing/topics/concept/flex-licenses-for-ex.html
+max_throughput:
+  value: 72.0
+  unit: Gbps
+typical_power_draw:
+  value: 55.0
+  unit: W
+  description: Max System Power Consumption (Input Power without PoE)
+max_power_draw:
+  value: 55.0
+  unit: W
+  description: Max System Power Consumption (Input Power without PoE)
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 75.0
+    unit: W
+    description: Power adapter for EX4100-F-12T switch
+  number_of_modules: 1
+  part_number: null

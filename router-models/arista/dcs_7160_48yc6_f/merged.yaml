@@ -1,0 +1,34 @@
+manufacturer: Arista
+series: null
+model: DCS-7160-48YC6-F
+slug: arista-dcs-7160-48yc6-f
+part_number: DCS-7160-48YC6-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7160-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 3.6
+  unit: Tbps
+max_power_draw:
+  value: 382.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+typical_power_draw:
+  value: 168.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: null
+  part_number: PWR-500AC

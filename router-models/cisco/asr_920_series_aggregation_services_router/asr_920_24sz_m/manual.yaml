@@ -1,0 +1,11 @@
+max_throughput:
+  value: 10.0
+  unit: Gbps
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 400.0
+    unit: W
+    description: The power supply part numbers are A920-PWR400-A and A920-PWR400-D.
+  part_number: null

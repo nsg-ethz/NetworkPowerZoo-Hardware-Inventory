@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ASR-920-12CZ-D
+slug: cisco-asr-920-12cz-d
+part_number: ASR-920-12CZ-D
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-732103.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 110
+  part_number: dc-terminal

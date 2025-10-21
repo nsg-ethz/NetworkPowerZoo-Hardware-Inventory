@@ -1,0 +1,23 @@
+manufacturer: Juniper
+series: null
+model: ACX7100-48L-AC-AO
+slug: juniper-acx7100-48l-ac-ao
+part_number: ACX7100-48L-AC-AO
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/us/en/hardware/acx7100-48L/topics/topic-map/acx7100-48L-system-overview.html
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/topics/concept/acx7100-48l-system-overview.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 4.8
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: JPSU-1600W-1UACAFO

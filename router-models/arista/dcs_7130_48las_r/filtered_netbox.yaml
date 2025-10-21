@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7130-48LAS-R
+slug: arista-dcs-7130-48las-r
+part_number: DCS-7130-48LAS-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7130LS-Series-Data-Sheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 190
+  part_number: null

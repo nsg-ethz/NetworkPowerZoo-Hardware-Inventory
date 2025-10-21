@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ISR4331
+slug: cisco-isr4331
+part_number: ISR4331/K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-732542.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 250
+  part_number: iec-60320-c14

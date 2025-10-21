@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: IE-3200-8P2S
+slug: cisco-ie-3200-8p2s
+part_number: IE-3200-8P2S
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-ie3200-rugged-series/cat-ie3200-rugged-series-ds.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: dc-terminal

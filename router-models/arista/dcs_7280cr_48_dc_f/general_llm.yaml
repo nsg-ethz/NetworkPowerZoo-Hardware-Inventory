@@ -1,0 +1,24 @@
+datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7280R_Series_Datasheet.pdf
+max_throughput:
+  value: 10.24
+  unit: Tbps
+typical_power_draw:
+  value: 1363.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+max_power_draw:
+  value: 1710.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1900.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: null

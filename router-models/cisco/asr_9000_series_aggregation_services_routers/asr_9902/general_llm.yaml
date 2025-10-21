@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744663.pdf
+max_throughput:
+  value: 800.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: '1.6 kW AC or DC power module, up to 2 modules, redundancy: 1+1'
+  number_of_modules: 2
+  part_number: null

@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Nexus 5000 Series Switches
+model: Nexus 5548UP
+slug: cisco-n5k-c5548up
+part_number: N5K-C5548UP
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.pdf
+release_date: '2008-04-08'
+end_of_sale: '2021-05-05'
+end_of_support: '2026-05-31'
+max_throughput:
+  value: 960.0
+  unit: Gbps
+max_power_draw:
+  value: 730.0
+  unit: W
+  description: Maximum power with Layer 3 daughter card for AC power supply
+typical_power_draw:
+  value: 390.0
+  unit: W
+  description: Typical operating power for AC power supply
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 750.0
+    unit: W
+    description: 750W for AC power supply, 680W for DC power supply
+  part_number: N55-PAC-750W

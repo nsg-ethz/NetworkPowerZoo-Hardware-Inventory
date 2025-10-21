@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 7201
+slug: cisco-c7201
+part_number: C7201
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/7201-router/product_data_sheet0900aecd80630b58.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

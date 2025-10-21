@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 9105AXI-E
+slug: cisco-c9105axi-e
+part_number: C9105AXI-E
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-744062.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

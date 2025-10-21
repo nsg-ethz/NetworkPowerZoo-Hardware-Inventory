@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/1000-series-integrated-services-routers-isr/datasheet-c78-739512.pdf
+max_throughput:
+  value: 1889.0
+  unit: Mbps
+typical_power_draw: null
+max_power_draw:
+  value: 26.8
+  unit: W
+  description: C1116-4PLTE
+is_poe_capable: true
+max_poe_draw:
+  value: 115.0
+  unit: W
+  description: Requires 115W power supply for optional PoE and PoE+
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 115.0
+    unit: W
+    description: Requires 115W power supply for optional PoE and PoE+
+  number_of_modules: 1
+  part_number: null

@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: Catalyst 2960-S Series Switches
+model: Catalyst 2960S-48TS-L
+slug: cisco-ws-c2960s-48ts-l
+part_number: WS-C2960S-48TS-L
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-s-series-switches/data_sheet_c78-726680.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-s-series-switches/data_sheet_c78-726680.pdf
+release_date: '2010-03-26'
+end_of_sale: '2015-11-06'
+end_of_support: '2020-11-30'
+max_throughput:
+  value: 176.0
+  unit: Gbps
+max_power_draw:
+  value: 52.0
+  unit: W
+  description: Measured at 100 Percent Throughput
+typical_power_draw:
+  value: 50.0
+  unit: W
+  description: Measured at 5 Percent Throughput
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 52
+  part_number: iec-60320-c14

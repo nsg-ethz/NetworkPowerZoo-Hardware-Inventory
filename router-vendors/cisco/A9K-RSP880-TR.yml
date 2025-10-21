@@ -1,9 +1,0 @@
-model_id: 'A9K-RSP880-TR'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-733763.html'
-release_date: # YYYY-MM-DD
-typical_power_W: # int
-typical_power_descr: # string
-max_power_W: # int
-max_power_descr: # string
-max_capacity_Tbps: # float

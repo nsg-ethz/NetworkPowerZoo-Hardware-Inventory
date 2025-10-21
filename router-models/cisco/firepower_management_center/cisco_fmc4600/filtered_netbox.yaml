@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Cisco FMC4600
+slug: cisco-fmc4600
+part_number: FMC4600
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/datasheet-c78-736775.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

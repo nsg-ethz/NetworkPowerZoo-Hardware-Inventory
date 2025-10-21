@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.arista.com/en/service
+max_throughput:
+  value: 2.56
+  unit: Tbps
+typical_power_draw:
+  value: 212.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 346.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1000.0
+    unit: W
+    description: PWR-1011-AC-RED/BLUE is 1000W, PWR-511-AC-RED/BLUE is 500W
+  number_of_modules: 2
+  part_number: PWR-1011-AC-RED/BLUE

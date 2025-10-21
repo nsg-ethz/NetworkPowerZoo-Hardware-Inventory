@@ -1,9 +1,0 @@
-model_id: 'N540X-8Z16G-SYS-A'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-744713.html'
-release_date: '2019-08-30'
-typical_power_W: 70
-typical_power_descr: 'at least 40W'
-max_power_W: 100
-max_power_descr: # string
-max_capacity_Tbps: # float

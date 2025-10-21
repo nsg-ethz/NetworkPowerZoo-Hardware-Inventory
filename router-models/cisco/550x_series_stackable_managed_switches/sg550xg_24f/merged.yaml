@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: 550X Series Stackable Managed Switches
+model: SG550XG-24F
+slug: cisco-sg550xg-24f-k9
+part_number: SG550XG-24F-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.pdf
+release_date: '2015-06-20'
+end_of_sale: '2022-07-30'
+end_of_support: '2027-07-31'
+max_throughput:
+  value: 480.0
+  unit: Gbps
+max_power_draw:
+  value: 77.5
+  unit: W
+  description: 220V typical power consumption
+typical_power_draw:
+  value: 76.6
+  unit: W
+  description: 110V typical power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 77
+  part_number: iec-60320-c14

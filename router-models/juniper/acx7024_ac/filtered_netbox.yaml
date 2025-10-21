@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: ACX7024-AC
+slug: juniper-acx7024-ac
+part_number: ACX7024
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products/routers/acx-series/acx7000-family-cloud-metro-routers/acx7000-line/acx7024-acx7024x-cloud-metro-routers-datasheet.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

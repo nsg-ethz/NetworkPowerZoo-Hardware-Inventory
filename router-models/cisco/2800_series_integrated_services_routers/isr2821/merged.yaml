@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: 2800 Series Integrated Services Routers
+model: ISR2821
+slug: cisco-isr2821
+part_number: CISCO2821
+u_height: 2
+datasheet_url: https://www.cisco.com/c/dam/global/de_at/assets/unified_partners/smb/vertriebliche-positionierung/routing/downloads/isr_2800_datenblatt_e.pdf
+datasheet_pdf: http://www.cisco.com/en/US/products/hwithrouters/
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.6
+  unit: Gbps
+max_power_draw:
+  value: 240.0
+  unit: W
+  description: 819 BTU/hr
+typical_power_draw:
+  value: 170.0
+  unit: W
+  description: 580 BTU/hr
+is_poe_capable: true
+max_poe_draw:
+  value: 360.0
+  unit: W
+  description: 1128 BTU/hr
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating:
+    value: 280.0
+    unit: W
+    description: 955 BTU/hr
+  part_number: iec-60320-c14

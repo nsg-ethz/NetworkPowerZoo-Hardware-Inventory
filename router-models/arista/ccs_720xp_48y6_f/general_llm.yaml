@@ -1,0 +1,25 @@
+datasheet_pdf: http://www.arista.com/en/products/transceivers-cables
+max_throughput:
+  value: 396.0
+  unit: Gbps
+typical_power_draw:
+  value: 68.0
+  unit: W
+  description: Typical 20% traffic @24C
+max_power_draw:
+  value: 93.0
+  unit: W
+  description: max:100% @46C
+is_poe_capable: true
+max_poe_draw:
+  value: 982.0
+  unit: W
+  description: Default Available PoE Power
+psu:
+  efficiency_rating: Gold
+  power_rating:
+    value: 1050.0
+    unit: W
+    description: Default Power Supply(ies) 1050 W
+  number_of_modules: 2
+  part_number: PWR-1021-AC

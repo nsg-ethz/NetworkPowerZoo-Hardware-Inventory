@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: EX4100-F-48P
+slug: juniper-ex4100-f-48p
+part_number: EX4100-F-48P
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4100-f-line-of-ethernet-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/us/en/software/license/licensing/topics/concept/flex-licenses-for-ex.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 256.0
+  unit: Gbps
+max_power_draw:
+  value: 100.0
+  unit: W
+  description: Max System Power Consumption (Input Power without PoE)
+typical_power_draw:
+  value: 70.0
+  unit: W
+  description: Max System Power Consumption (Input Power without PoE)
+is_poe_capable: true
+max_poe_draw:
+  value: 740.0
+  unit: W
+  description: PoE Power Budget
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 850
+  part_number: iec-60320-c14

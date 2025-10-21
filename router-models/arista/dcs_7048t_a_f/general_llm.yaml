@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 174.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+max_power_draw:
+  value: 212.0
+  unit: W
+  description: Maximum power draw
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 460.0
+    unit: W
+    description: Spare 460 Watt AC power supply for Arista 7048-A Switches
+  number_of_modules: 2
+  part_number: PWR-460AC-F

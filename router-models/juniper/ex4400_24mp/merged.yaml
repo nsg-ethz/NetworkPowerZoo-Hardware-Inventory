@@ -1,0 +1,24 @@
+manufacturer: Juniper
+series: null
+model: EX4400-24MP
+slug: juniper-ex4400-24mp
+part_number: EX4400-24MP
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-system-overview.html
+datasheet_pdf: https://junipernetworks.allegiancetech.com/surveys/images/MRVCXM/juniper_logo.jpg
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput: null
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 90.0
+  unit: W
+  description: Providing power of up to 90 W per port.
+psu:
+  number_of_modules: 2 and 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

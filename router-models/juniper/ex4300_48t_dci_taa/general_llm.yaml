@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex4300.html
+max_throughput:
+  value: 496.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 550.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: null

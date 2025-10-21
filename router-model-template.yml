@@ -1,0 +1,32 @@
+manufacturer: # string (mandatory)
+series: # string
+model: # string (mandatory)
+slug: # string
+part_number: # string
+u_height: # int
+datasheet_url: # string
+datasheet_pdf: # string
+release_date: # YYYY-MM-DD
+end_of_sale: # YYYY-MM-DD
+end_of_support: # YYYY-MM-DD
+max_throughput:
+  value: # float
+  unit: Tbps
+max_power_draw:
+  value: # float
+  unit: W
+  description: # string
+typical_power_draw:
+  value: # float
+  unit: W
+  description: # string
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: # string
+  efficiency_rating: null
+  power_rating:
+    value: # float
+    unit: W
+    description: # string
+  part_number: # string

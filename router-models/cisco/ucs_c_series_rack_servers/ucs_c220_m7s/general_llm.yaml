@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c-series-rack-servers/datasheet-listing.html
+max_throughput: null
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2300.0
+    unit: W
+    description: Maximum rated output is limited to 1200W when operating at low-line
+      input voltage (100-127V)
+  number_of_modules: 2
+  part_number: null

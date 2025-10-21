@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: ASR 9000 Series Aggregation Services Routers
+model: ASR-9901
+slug: cisco-asr-9901
+part_number: ASR-9901
+u_height: 2
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-740540.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-740540.pdf
+release_date: '2008-11-11'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 456.0
+  unit: Gbps
+max_power_draw:
+  value: 1100.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 850.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: 1600W AC or DC power supply options available
+  part_number: A9K-1600W-AC / A9K-1600W-DC

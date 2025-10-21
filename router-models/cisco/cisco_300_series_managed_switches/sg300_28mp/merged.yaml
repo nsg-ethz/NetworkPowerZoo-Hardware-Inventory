@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Cisco 300 Series Managed Switches
+model: SG300-28MP
+slug: cisco-sg300-28mp-k9
+part_number: SG300-28MP-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data_sheet_c78-610061.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data_sheet_c78-610061.pdf
+release_date: '2010-08-01'
+end_of_sale: '2018-10-04'
+end_of_support: '2023-10-31'
+max_throughput:
+  value: 56.0
+  unit: Gbps
+max_power_draw:
+  value: 445.0
+  unit: W
+  description: 110V worst case power consumption with PoE
+typical_power_draw:
+  value: 42.4
+  unit: W
+  description: 110V typical power consumption
+is_poe_capable: true
+max_poe_draw:
+  value: 375.0
+  unit: W
+  description: PoE+ supported
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 445
+  part_number: iec-60320-c14

@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7020SR-24C2-F
+slug: arista-dcs-7020sr-24c2-f
+part_number: DCS-7020SR-24C2-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7020R-48_Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

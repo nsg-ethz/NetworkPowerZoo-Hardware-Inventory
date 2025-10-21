@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: CCS-710P-16P
+slug: arista-ccs-710p-16p
+part_number: CCS-710P-16P
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-710P-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/products/ccs-710p-16p-datasheet
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 104.0
+  unit: Gbps
+max_power_draw:
+  value: 51.0
+  unit: W
+  description: Max power excluding PoE
+typical_power_draw:
+  value: 40.0
+  unit: W
+  description: System power requirement
+is_poe_capable: true
+max_poe_draw:
+  value: 229.0
+  unit: W
+  description: 280W AC external PS
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: '280 and {''value'': 280.0, ''unit'': ''W'', ''description'': None}'
+  part_number: dc-terminal and PWR-280-ADP

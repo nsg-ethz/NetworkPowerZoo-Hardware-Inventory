@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 1.28
+  unit: Tbps
+typical_power_draw:
+  value: 125.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 220.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 460.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-460AC-F

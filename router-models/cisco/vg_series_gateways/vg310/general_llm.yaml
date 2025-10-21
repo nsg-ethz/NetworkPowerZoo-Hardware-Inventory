@@ -1,0 +1,10 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/unified-communications/vg-series-gateways/product_data_sheet09186a00801d87f6.pdf
+max_throughput: null
+typical_power_draw: null
+max_power_draw:
+  value: 135.0
+  unit: W
+  description: Maximum power consumption for VG310
+is_poe_capable: false
+max_poe_draw: null
+psu: null

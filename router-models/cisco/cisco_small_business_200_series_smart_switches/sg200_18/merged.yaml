@@ -1,0 +1,23 @@
+manufacturer: Cisco
+series: Cisco Small Business 200 Series Smart Switches
+model: SG200-18
+slug: cisco-sg200-18
+part_number: SLM2016T
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-200-series-smart-switches/data_sheet_c78-634369.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-100-series-unmanaged-switches/data_sheet_c78-667827.html
+release_date: '2010-12-06'
+end_of_sale: '2018-10-04'
+end_of_support: '2023-10-31'
+max_throughput:
+  value: 36.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 23
+  part_number: iec-60320-c14

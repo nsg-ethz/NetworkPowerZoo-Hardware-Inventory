@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: FPR2120-NGFW-K9
+slug: cisco-fpr2120-ngfw-k9
+part_number: FPR2120-NGFW-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firepower-2100-series/datasheet-c78-742473.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 250
+  part_number: iec-60320-c14

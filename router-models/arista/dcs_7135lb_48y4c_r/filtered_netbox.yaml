@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7135LB-48Y4C-R
+slug: arista-dcs-7135lb-48y4c-r
+part_number: DCS-7135LB-48Y4C-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7135LB-Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 1000
+  part_number: null

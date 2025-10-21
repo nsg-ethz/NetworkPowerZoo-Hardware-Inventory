@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX3500-48S4Q
+slug: juniper-qfx3500-48s4q
+part_number: null
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/hardware/qfx-series/qfx3500.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

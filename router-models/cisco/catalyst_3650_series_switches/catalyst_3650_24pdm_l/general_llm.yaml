@@ -1,0 +1,25 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.pdf
+max_throughput:
+  value: 92.0
+  unit: Gbps
+typical_power_draw:
+  value: 71.9
+  unit: W
+  description: null
+max_power_draw:
+  value: 76.2
+  unit: W
+  description: null
+is_poe_capable: true
+max_poe_draw:
+  value: 390.0
+  unit: W
+  description: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 640.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: null

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: FPR1120-NGFW-K9
+slug: cisco-fpr1120-ngfw-k9
+part_number: FPR1120-NGFW-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firepower-1000-series/datasheet-c78-742469.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 100
+  part_number: iec-60320-c14

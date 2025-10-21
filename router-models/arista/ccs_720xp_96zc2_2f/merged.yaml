@@ -1,0 +1,35 @@
+manufacturer: Arista
+series: null
+model: CCS-720XP-96ZC2-2F
+slug: arista-ccs-720xp-96zc2-2f
+part_number: CCS-720XP-96ZC2-2F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720XP-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/products/ccs-720xp-campus-switches
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1160.0
+  unit: Gbps
+max_power_draw:
+  value: 236.0
+  unit: W
+  description: Max 100% traffic @46C
+typical_power_draw:
+  value: 216.0
+  unit: W
+  description: Typical 20% traffic @24C
+is_poe_capable: true
+max_poe_draw:
+  value: 1707.0
+  unit: W
+  description: Default Available PoE Power
+psu:
+  number_of_modules: 2 and 4
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Maximum power rating for PWR-2021-AC-RED
+  part_number: PWR-2021-AC-RED

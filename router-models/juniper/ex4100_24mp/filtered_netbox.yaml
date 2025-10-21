@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4100-24MP
+slug: juniper-ex4100-24mp
+part_number: EX4100-24MP
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products/switches/ex-series/ex4100-line-of-ethernet-switches-datasheet.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

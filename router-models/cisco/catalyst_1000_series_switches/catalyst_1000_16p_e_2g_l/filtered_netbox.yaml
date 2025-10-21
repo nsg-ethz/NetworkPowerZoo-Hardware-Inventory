@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 1000-16P-E-2G-L
+slug: cisco-c1000-16p-e-2g-l
+part_number: C1000-16P-E-2G-L
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 200
+  part_number: dc-terminal

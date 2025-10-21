@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS120-8
+slug: cisco-meraki-ms120-8
+part_number: MS120-8-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS120_Overview_and_Specifications
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

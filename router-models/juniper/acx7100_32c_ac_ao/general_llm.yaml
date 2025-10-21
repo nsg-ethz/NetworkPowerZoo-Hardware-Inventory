@@ -1,0 +1,16 @@
+datasheet_pdf: https://junipernetworks.allegiancetech.com/surveys/images/MRVCXM/juniper_logo.jpg
+max_throughput:
+  value: 4.8
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: Each PSM provides power to all components in the router.
+  number_of_modules: 2
+  part_number: JPSU-1600W-1UACAFO

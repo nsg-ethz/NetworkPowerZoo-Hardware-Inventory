@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MX105
+slug: cisco-meraki-mx105
+part_number: MX105
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX95%2F%2F105_Datasheet
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

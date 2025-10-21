@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.pdf
+max_throughput:
+  value: 128.0
+  unit: Gbps
+typical_power_draw:
+  value: 53.8
+  unit: W
+  description: 110V typical power draw
+max_power_draw:
+  value: 471.2
+  unit: W
+  description: 110V max power draw with PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 382.0
+  unit: W
+  description: null
+psu: null

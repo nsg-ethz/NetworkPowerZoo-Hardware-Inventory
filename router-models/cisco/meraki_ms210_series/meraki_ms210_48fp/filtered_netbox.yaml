@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS210-48FP
+slug: cisco-meraki-ms210-48fp
+part_number: MS210-48FP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS210_Overview_and_Specifications
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 882
+  part_number: dc-terminal

@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Catalyst 9105AX Series Access Points
+model: Catalyst 9105AXI-E
+slug: cisco-c9105axi-e
+part_number: C9105AXI-E
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-744062.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-744062.pdf
+release_date: '2020-08-31'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.488
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 15.4
+  unit: W
+  description: 802.3af PoE
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

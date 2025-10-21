@@ -1,0 +1,33 @@
+manufacturer: Juniper
+series: null
+model: EX4600-40F
+slug: juniper-ex4600-40f
+part_number: EX4600-40F
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4600-ethernet-switch-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex4600/ex4600.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.44
+  unit: Tbps
+max_power_draw:
+  value: 392.0
+  unit: W
+  description: EX4600-40F-DC-AFO with 1 4x40GbE QIC card with 4 40G-SR4 optics
+typical_power_draw:
+  value: 279.0
+  unit: W
+  description: EX4600-40F-AFO with fixed 10GbE ports and 10G-USR optics, all ports
+    forwarding (line rate), <10 m
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  part_number: null

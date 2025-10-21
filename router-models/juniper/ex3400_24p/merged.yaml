@@ -1,0 +1,35 @@
+manufacturer: Juniper
+series: null
+model: EX3400-24P
+slug: juniper-ex3400-24p
+part_number: EX3400-24P
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex3400-ethernet-switch-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/us/en/products-services/switching/ex-series/ex3400/ex3400.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 336.0
+  unit: Gbps
+max_power_draw:
+  value: 150.0
+  unit: W
+  description: Input power without PoE
+typical_power_draw:
+  value: 110.0
+  unit: W
+  description: Input power without PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 720.0
+  unit: W
+  description: With 2 power supplies
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 920.0
+    unit: W
+    description: Maximum power rating with 2 power supplies
+  part_number: null

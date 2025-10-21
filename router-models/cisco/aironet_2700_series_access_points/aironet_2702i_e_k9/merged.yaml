@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: Aironet 2700 Series Access Points
+model: Aironet 2702I-E-K9
+slug: cisco-air-cap2702i-e-k9
+part_number: AIR-CAP2702I-E-K9
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/datasheet-c78-730593.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/datasheet-c78-730593.pdf
+release_date: '2014-03-25'
+end_of_sale: '2019-04-30'
+end_of_support: '2024-04-30'
+max_throughput:
+  value: 1.3
+  unit: Gbps
+max_power_draw: null
+typical_power_draw:
+  value: 15.0
+  unit: W
+  description: AP2700 typical power draw
+is_poe_capable: true
+max_poe_draw:
+  value: 15.0
+  unit: W
+  description: AP2700 max PoE draw
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6880-x-switch/data_sheet_c78-728228.pdf
+max_throughput:
+  value: 2.0
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 3000.0
+    unit: W
+    description: 'AC: 3000W, DC: 3000W'
+  number_of_modules: 2
+  part_number: null

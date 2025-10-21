@@ -1,0 +1,31 @@
+manufacturer: Cisco
+series: Network Convergence System 540 Series Routers
+model: N540-24Z8Q2C-M
+slug: cisco-n540-24z8q2c-m
+part_number: N540-24Z8Q2C-M
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-740296.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-740296.pdf
+release_date: '2019-08-30'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 300.0
+  unit: Mpps
+max_power_draw:
+  value: 250.0
+  unit: W
+  description: Maximum power consumption for Cisco Network Convergency System 540
+    Medium Density Routers
+typical_power_draw:
+  value: 200.0
+  unit: W
+  description: Typical power consumption for Cisco Network Convergency System 540
+    Medium Density Routers
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: null
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

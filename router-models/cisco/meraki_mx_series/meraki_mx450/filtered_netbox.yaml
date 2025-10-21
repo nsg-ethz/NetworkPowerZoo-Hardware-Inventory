@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MX450
+slug: cisco-meraki-mx450
+part_number: MX450
+u_height: 1
+datasheet_url: https://meraki.cisco.com/de-de/product/security-sd-wan/large-branch-campus-concentrator/mx450/
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

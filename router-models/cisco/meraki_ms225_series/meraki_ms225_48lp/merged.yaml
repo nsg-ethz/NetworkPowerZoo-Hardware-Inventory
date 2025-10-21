@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MS225 Series
+model: Meraki MS225-48LP
+slug: cisco-meraki-ms225-48lp
+part_number: MS225-48LP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS225_Overview_and_Specifications
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/952/pdf/MS225%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 176.0
+  unit: Gbps
+max_power_draw:
+  value: 490.0
+  unit: W
+  description: Power Load (max)
+typical_power_draw:
+  value: 53.0
+  unit: W
+  description: Power Load (idle)
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: PoE/PoE+ Capable
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

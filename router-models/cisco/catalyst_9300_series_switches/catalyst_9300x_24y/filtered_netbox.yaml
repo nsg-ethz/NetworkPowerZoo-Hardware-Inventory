@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 9300X-24Y
+slug: cisco-c9300x-24y
+part_number: C9300X-24Y
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-ser-data-sheet-cte-en.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

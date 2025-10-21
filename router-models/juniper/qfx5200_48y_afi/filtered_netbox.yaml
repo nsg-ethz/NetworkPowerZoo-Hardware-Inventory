@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX5200-48Y-AFI
+slug: juniper-qfx5200-48y-afi
+part_number: QFX5200-48Y-AFI
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5200-switch-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

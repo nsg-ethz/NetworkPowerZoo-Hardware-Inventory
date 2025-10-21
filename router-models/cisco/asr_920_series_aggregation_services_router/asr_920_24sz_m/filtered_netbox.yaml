@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ASR-920-24SZ-M
+slug: cisco-asr-920-24sz-m
+part_number: ASR-920-24SZ-M
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-733397.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 145
+  part_number: iec-60320-c16

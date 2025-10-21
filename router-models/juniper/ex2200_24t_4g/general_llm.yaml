@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex2200/ex2200.pdf
+max_throughput:
+  value: 56.0
+  unit: Gbps
+typical_power_draw:
+  value: 50.0
+  unit: W
+  description: Typical power consumption for EX2200-24T-4G
+max_power_draw:
+  value: 50.0
+  unit: W
+  description: Maximum power consumption for EX2200-24T-4G
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 100.0
+    unit: W
+    description: Power supply output for EX2200-24T-4G
+  number_of_modules: 1
+  part_number: null

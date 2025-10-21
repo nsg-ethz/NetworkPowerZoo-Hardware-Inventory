@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-ie3200-rugged-series/cat-ie3200-rugged-series-ds.pdf
+max_throughput: null
+typical_power_draw:
+  value: 32.0
+  unit: W
+  description: Power consumption for PoE supported model is measured at 54V. Power
+    consumption does not include PoE power.
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 240.0
+  unit: W
+  description: Supports up to 8 PoE/PoE+ ports with a power budget of 240W.
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: null

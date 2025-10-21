@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS225-48LP
+slug: cisco-meraki-ms225-48lp
+part_number: MS225-48LP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS225_Overview_and_Specifications
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

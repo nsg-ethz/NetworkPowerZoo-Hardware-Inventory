@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Business 350 Series Managed Switches
+model: CBS350-24P-4G
+slug: cisco-cbs350-24p-4g
+part_number: WCBS350-24P-4G
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.pdf
+release_date: '2015-06-30'
+end_of_sale: '2023-01-29'
+end_of_support: '2028-01-31'
+max_throughput:
+  value: 56.0
+  unit: Gbps
+max_power_draw:
+  value: 239.7
+  unit: W
+  description: 110V power consumption with PoE
+typical_power_draw:
+  value: 33.09
+  unit: W
+  description: 220V typical power consumption
+is_poe_capable: true
+max_poe_draw:
+  value: 195.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 236
+  part_number: iec-60320-c14

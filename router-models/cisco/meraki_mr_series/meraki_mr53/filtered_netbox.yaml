@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MR53
+slug: cisco-meraki-mr53
+part_number: MR53
+u_height: 0
+datasheet_url: https://meraki.cisco.com/product-collateral/mr53-datasheet/?file](https://meraki.cisco.com/product-collateral/mr53-datasheet/?file
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

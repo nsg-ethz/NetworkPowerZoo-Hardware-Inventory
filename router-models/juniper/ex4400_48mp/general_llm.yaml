@@ -1,0 +1,18 @@
+datasheet_pdf: https://junipernetworks.allegiancetech.com/surveys/images/MRVCXM/juniper_logo.jpg
+max_throughput: null
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 90.0
+  unit: W
+  description: Providing power of up to 90 W per port.
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Supported with dual PSU operating in AC High voltage line for higher
+      PoE budgets.
+  number_of_modules: 2
+  part_number: null

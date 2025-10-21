@@ -1,0 +1,27 @@
+manufacturer: Juniper
+series: null
+model: PTX10002-36QDD
+slug: juniper-ptx10002-36qdd
+part_number: null
+u_height: 2.0
+datasheet_url: https://www.juniper.net/us/en/products/routers/ptx-series/ptx10002-fixed-configuration-packet-transport-routers-datasheet.html
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/routers/ptx10002-fixed-configuration-packet-transport-routers-datasheet.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 28.8
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 3000.0
+    unit: W
+    description: 2x3000 Watts (AC / DC) for 36 x 800G or 72 x 400G; 2x2200 Watts (AC
+      / DC) for 36 x 400G mode
+  part_number: JNP-3000W-AC-AFO

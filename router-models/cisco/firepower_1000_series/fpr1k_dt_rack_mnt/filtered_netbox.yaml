@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: FPR1K-DT-RACK-MNT
+slug: cisco-fpr1k-dt-rack-mnt
+part_number: FPR1K-DT-RACK-MNT
+u_height: 2.0
+datasheet_url: https://www.cisco.com/c/en/us/td/docs/security/firepower/1010/hw/guide/hw-install-1010/mount.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

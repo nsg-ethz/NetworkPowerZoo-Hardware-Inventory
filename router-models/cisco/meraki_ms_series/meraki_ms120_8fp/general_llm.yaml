@@ -1,0 +1,22 @@
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/949/pdf/MS120%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+max_throughput:
+  value: 20.0
+  unit: Gbps
+typical_power_draw:
+  value: 9.0
+  unit: W
+  description: Power Load (idle)
+max_power_draw:
+  value: 161.0
+  unit: W
+  description: Power Load (max)
+is_poe_capable: true
+max_poe_draw:
+  value: 124.0
+  unit: W
+  description: null
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: null

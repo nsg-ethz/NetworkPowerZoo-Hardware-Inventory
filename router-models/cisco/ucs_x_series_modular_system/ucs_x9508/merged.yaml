@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: UCS X-Series Modular System
+model: UCS-X9508
+slug: cisco-ucs-x9508
+part_number: UCS-X9508
+u_height: 7
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 100.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 6
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2800.0
+    unit: W
+    description: 2800W @200-240 VAC Nominal, 1400W @100-127 VAC Nominal
+  part_number: null

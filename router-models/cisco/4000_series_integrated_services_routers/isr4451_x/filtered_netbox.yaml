@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ISR4451-X
+slug: cisco-isr4451-x
+part_number: ISR4451-X/K9
+u_height: 2
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-732542.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 450
+  part_number: iec-60320-c14

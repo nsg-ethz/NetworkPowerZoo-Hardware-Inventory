@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: ASR 920 Series Aggregation Services Router
+model: ASR-920-24SZ
+slug: cisco-asr-920-24sz
+part_number: null
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-733397.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-733397.pdf
+release_date: '2014-06-30'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 200.0
+  unit: Gbps
+max_power_draw:
+  value: 180.0
+  unit: W
+  description: Maximum power consumption for ASR-920-24SZ-IM
+typical_power_draw:
+  value: 130.0
+  unit: W
+  description: Typical power consumption for ASR-920-24SZ-IM
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 400.0
+    unit: W
+    description: 400W AC or DC PSU
+  part_number: null

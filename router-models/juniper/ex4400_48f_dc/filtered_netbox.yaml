@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4400-48F-DC
+slug: juniper-ex4400-48f-dc
+part_number: EX4400-48F-DC
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-system-overview.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

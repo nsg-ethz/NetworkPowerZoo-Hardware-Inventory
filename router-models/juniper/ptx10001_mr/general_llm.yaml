@@ -1,0 +1,9 @@
+datasheet_pdf: https://www.juniper.net/us/en/products/routers/ptx-series/ptx10001-ptx10003-fixed-configuration-packet-transport-routers-datasheet.html
+max_throughput:
+  value: 9.6
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

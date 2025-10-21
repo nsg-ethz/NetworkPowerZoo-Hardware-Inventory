@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7050CX4-24D8-R
+slug: arista-dcs-7050cx4-24d8-r
+part_number: DCS-7050CX4-24D8-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7050X4-Datasheet.pdf
+datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 8.0
+  unit: Tbps
+max_power_draw:
+  value: 465.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 226.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1500.0
+    unit: W
+    description: Includes PWR-1512-AC-RED/BLUE and PWR-1511-DC-RED/BLUE options
+  part_number: PWR-1512-AC-RED/BLUE

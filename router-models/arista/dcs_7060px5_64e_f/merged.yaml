@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7060PX5-64E-F
+slug: arista-dcs-7060px5-64e-f
+part_number: DCS-7060PX5-64E-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7060X5-Datasheet.pdf
+datasheet_pdf: https://www.arista.com/en/products/transceivers-cables
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 25.6
+  unit: Tbps
+max_power_draw:
+  value: 1387.0
+  unit: W
+  description: Measured at 25C ambient with 50% load, excludes transceivers
+typical_power_draw:
+  value: 596.0
+  unit: W
+  description: Measured at 25C ambient with 50% load, excludes transceivers
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2400.0
+    unit: W
+    description: null
+  part_number: PWR-2411-AC-RED

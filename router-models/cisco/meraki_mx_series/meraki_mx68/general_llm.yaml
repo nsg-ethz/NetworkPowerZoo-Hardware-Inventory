@@ -1,0 +1,25 @@
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/1561/pdf/MX67%2band%2bMX68%2bDatasheet.pdf?stylesheet=default
+max_throughput:
+  value: 700.0
+  unit: Mbps
+typical_power_draw:
+  value: 11.0
+  unit: W
+  description: idle power load
+max_power_draw:
+  value: 79.0
+  unit: W
+  description: max power load
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: 2x GbE RJ45 LAN Ports
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 100.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: MA-PWR-100WAC

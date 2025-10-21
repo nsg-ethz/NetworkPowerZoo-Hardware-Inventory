@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2700-series-access-point/datasheet-c78-730593.pdf
+max_throughput:
+  value: 1.3
+  unit: Gbps
+typical_power_draw:
+  value: 15.0
+  unit: W
+  description: AP2700 typical power draw
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 15.0
+  unit: W
+  description: AP2700 max PoE draw
+psu: null

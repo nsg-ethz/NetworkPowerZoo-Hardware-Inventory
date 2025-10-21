@@ -1,0 +1,12 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9120ax-series-access-points/datasheet-c78-742115.pdf
+max_throughput:
+  value: 5.2
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 25.5
+  unit: W
+  description: null
+psu: null

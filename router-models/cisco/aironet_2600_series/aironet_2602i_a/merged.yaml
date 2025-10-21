@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Aironet 2600 Series
+model: Aironet 2602I-A
+slug: cisco-air-cap2602i-a-k9
+part_number: AIR-CAP2602I-A-K9
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/data_sheet_c78-709514.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/data_sheet_c78-709514.pdf
+release_date: '2012-08-03'
+end_of_sale: '2016-12-29'
+end_of_support: '2021-12-31'
+max_throughput:
+  value: 450.0
+  unit: Mbps
+max_power_draw:
+  value: 15.4
+  unit: W
+  description: Total system power draw with PoE and cabling
+typical_power_draw:
+  value: 12.95
+  unit: W
+  description: AP2600 typical power draw
+is_poe_capable: true
+max_poe_draw:
+  value: 15.4
+  unit: W
+  description: Maximum power draw when using PoE
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

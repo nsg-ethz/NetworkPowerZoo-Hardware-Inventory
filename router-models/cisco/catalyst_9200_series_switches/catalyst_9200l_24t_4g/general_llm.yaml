@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 56.0
+  unit: Gbps
+typical_power_draw:
+  value: 35.546
+  unit: W
+  description: Weighted average power consumption
+max_power_draw:
+  value: 36.23
+  unit: W
+  description: 100% full port traffic
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 125.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-C5-125WAC

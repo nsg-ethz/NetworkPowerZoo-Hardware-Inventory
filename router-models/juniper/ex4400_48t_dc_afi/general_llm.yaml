@@ -1,0 +1,11 @@
+datasheet_pdf: https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-power-system.html
+max_throughput: null
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: null

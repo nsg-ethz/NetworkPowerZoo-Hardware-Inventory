@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ISR3845
+slug: cisco-isr3845
+part_number: ISR3845/K9
+u_height: 3
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-732542.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 300
+  part_number: iec-60320-c6

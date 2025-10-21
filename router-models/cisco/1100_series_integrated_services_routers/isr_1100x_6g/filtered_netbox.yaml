@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ISR 1100X-6G
+slug: cisco-isr1100x-6g
+part_number: ISR1100X-6G
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/1000-series-integrated-services-routers-isr/datasheet-c78-742893.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 30
+  part_number: dc-terminal

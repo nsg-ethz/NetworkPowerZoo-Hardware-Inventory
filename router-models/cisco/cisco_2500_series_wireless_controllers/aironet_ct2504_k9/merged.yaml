@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Cisco 2500 Series Wireless Controllers
+model: Aironet CT2504-K9
+slug: cisco-air-ct2504-k9
+part_number: AIR-CT2504-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/2500-series-wireless-controllers/data_sheet_c78-645111.pdf
+datasheet_pdf: http://www.cisco.com/en/US/products/ps6366/index.html
+release_date: '2011-04-08'
+end_of_sale: '2018-04-18'
+end_of_support: '2023-04-23'
+max_throughput:
+  value: 1.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: Two PoE ports available for access points
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 80
+  part_number: iec-60320-c14 and PWR-2504-AC=

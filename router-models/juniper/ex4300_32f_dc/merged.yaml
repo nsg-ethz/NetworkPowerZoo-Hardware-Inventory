@@ -1,0 +1,29 @@
+manufacturer: Juniper
+series: null
+model: EX4300-32F-DC
+slug: juniper-ex4300-32f-dc
+part_number: EX4300-32F-DC
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4300-line-of-ethernet-switches-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex4300/ex4300.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 464.0
+  unit: Gbps
+max_power_draw:
+  value: 550.0
+  unit: W
+  description: Maximum power draw for EX4300-32F-DC
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating:
+    value: 550.0
+    unit: W
+    description: Power supply rating for EX4300-32F-DC
+  part_number: null

@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX5210-64C
+slug: juniper-qfx5210-64c
+part_number: null
+u_height: 2
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5210-switch-datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 650
+  part_number: iec-60320-c14

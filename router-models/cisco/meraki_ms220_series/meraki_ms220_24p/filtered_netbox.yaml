@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS220-24P
+slug: cisco-meraki-ms220-24p
+part_number: MS220-24P-HW
+u_height: 1
+datasheet_url: https://meraki.cisco.com/lib/pdf/meraki_datasheet_ms_220_320_only.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 447
+  part_number: dc-terminal

@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/datasheet-c78-728232.html
+max_throughput:
+  value: 216.0
+  unit: Gbps
+typical_power_draw:
+  value: 37.3
+  unit: W
+  description: Weighted average power consumption for 2960XR-24TD-I
+max_power_draw:
+  value: 38.1
+  unit: W
+  description: 100% traffic power consumption for 2960XR-24TD-I
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 250.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-C2-250WAC

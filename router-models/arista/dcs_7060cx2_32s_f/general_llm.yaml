@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 6.4
+  unit: Tbps
+typical_power_draw:
+  value: 187.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 333.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: 500W AC and 500W DC are available for the 7060CX2-32S.
+  number_of_modules: 2
+  part_number: PWR-500AC

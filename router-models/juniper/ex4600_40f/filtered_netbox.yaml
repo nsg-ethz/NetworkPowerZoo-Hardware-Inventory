@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4600-40F
+slug: juniper-ex4600-40f
+part_number: EX4600-40F
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4600-ethernet-switch-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

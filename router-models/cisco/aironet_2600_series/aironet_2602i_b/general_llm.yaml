@@ -1,0 +1,20 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/data_sheet_c78-709514.pdf
+max_throughput:
+  value: 450.0
+  unit: Mbps
+typical_power_draw:
+  value: 12.95
+  unit: W
+  description: AP2600 typical power draw
+max_power_draw:
+  value: 15.4
+  unit: W
+  description: Total system power draw (access point + cabling) when deployed using
+    PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 15.4
+  unit: W
+  description: Total system power draw (access point + cabling) when deployed using
+    PoE
+psu: null

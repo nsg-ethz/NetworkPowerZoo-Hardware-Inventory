@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7050S-52-R
+slug: arista-dcs-7050s-52-r
+part_number: DCS-7050S-52-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7050S_Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

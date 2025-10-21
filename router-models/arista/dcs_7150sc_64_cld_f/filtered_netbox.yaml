@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7150SC-64-CLD-F
+slug: arista-dcs-7150sc-64-cld-f
+part_number: DCS-7150SC-64-CLD-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7150S_Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: uBR10000 Series
+model: uBR 10012
+slug: cisco-ubr-10012
+part_number: null
+u_height: 18
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/video/ubr10000-series-universal-broadband-routers/product_data_sheet09186a00801ed384.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/video/ubr10000-series-universal-broadband-routers/product_data_sheet09186a00801ed384.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.0
+  unit: Gbps
+max_power_draw:
+  value: 3300.0
+  unit: W
+  description: Maximum power consumption with 230 VAC or DC input voltage
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 3300.0
+    unit: W
+    description: Maximum power consumption with 230 VAC or DC input voltage
+  part_number: null

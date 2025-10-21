@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Aironet 3700 Series Access Points
+model: Aironet 3702E-B
+slug: cisco-air-cap3702e-b-k9
+part_number: AIR-CAP3702E-B-K9
+u_height: 0
+datasheet_url: https://www.cisco.com/c/dam/global/en_ph/solutions/smb/velocity/Downloads/ap3700_datasheet.pdf
+datasheet_pdf: http://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3700-series/datasheet-c78-729421.html
+release_date: '2013-09-27'
+end_of_sale: '2019-04-30'
+end_of_support: '2024-04-30'
+max_throughput:
+  value: 1.3
+  unit: Gbps
+max_power_draw:
+  value: 19.6
+  unit: W
+  description: 3700 + Wireless Security Module 4x4:3 on 2.4/5 GHz + WSM
+typical_power_draw:
+  value: 16.1
+  unit: W
+  description: 3700 - No external module 4x4:3 on 2.4/5 GHz PoE+ installed
+is_poe_capable: true
+max_poe_draw:
+  value: 19.6
+  unit: W
+  description: 3700 + Wireless Security Module 4x4:3 on 2.4/5 GHz + WSM
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

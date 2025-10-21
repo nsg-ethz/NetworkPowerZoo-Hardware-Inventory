@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7060CX2-32S-R
+slug: arista-dcs-7060cx2-32s-r
+part_number: DCS-7060CX2-32S-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7060X_7260X_DS.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 6.4
+  unit: Tbps
+max_power_draw:
+  value: 333.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 50% load
+typical_power_draw:
+  value: 187.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: 500W AC and 500W DC power supplies available
+  part_number: null

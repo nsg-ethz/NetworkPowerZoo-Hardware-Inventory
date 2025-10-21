@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Catalyst 9200 Series Switches
+model: Catalyst C9200CX-12P-2XGH
+slug: cisco-c9200cx-12p-2xgh
+part_number: C9200CX-12P-2XGH
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+release_date: '2018-11-13'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 68.0
+  unit: Gbps
+max_power_draw:
+  value: 39.7
+  unit: W
+  description: Full port traffic power consumption
+typical_power_draw:
+  value: 39.1
+  unit: W
+  description: Weighted average power consumption
+is_poe_capable: true
+max_poe_draw:
+  value: 240.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: '315 and {''value'': 315.0, ''unit'': ''W'', ''description'': None}'
+  part_number: iec-60320-c14

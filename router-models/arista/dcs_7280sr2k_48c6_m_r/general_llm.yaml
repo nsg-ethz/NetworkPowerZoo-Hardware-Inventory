@@ -1,0 +1,24 @@
+datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7280R2_Datasheet.pdf
+max_throughput:
+  value: 2.88
+  unit: Tbps
+typical_power_draw:
+  value: 215.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+max_power_draw:
+  value: 370.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1900.0
+    unit: W
+    description: 1900W AC and 1900W DC power supplies available
+  number_of_modules: 2
+  part_number: null

@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: FirePOWER 3100 Series
+model: FirePOWER 3110 Next-Generation Firewall
+slug: cisco-firepower-3110-next-generation-firewall
+part_number: FPR3110-NGFW-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 18.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: null
+  power_rating:
+    value: 400.0
+    unit: W
+    description: Single 400W AC, Dual 400W AC optional. Single/Dual 400W DC optional
+  part_number: null

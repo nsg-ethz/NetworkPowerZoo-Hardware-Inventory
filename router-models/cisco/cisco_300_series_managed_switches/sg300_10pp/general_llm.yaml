@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data_sheet_c78-610061.pdf
+max_throughput:
+  value: 20.0
+  unit: Gbps
+typical_power_draw:
+  value: 13.37
+  unit: W
+  description: 110V typical power draw
+max_power_draw:
+  value: 83.47
+  unit: W
+  description: 110V worst case power draw with PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 62.0
+  unit: W
+  description: PoE+ supported
+psu: null

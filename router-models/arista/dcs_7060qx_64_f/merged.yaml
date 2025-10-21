@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7060QX-64-F
+slug: arista-dcs-7060qx-64-f
+part_number: DCS-7060QX-64-F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7060X_7260X_DS.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 5.12
+  unit: Tbps
+max_power_draw:
+  value: 800.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 315.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: 1100W AC power supply for Arista 7260QX Series Switches
+  part_number: null

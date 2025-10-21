@@ -1,0 +1,12 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/datasheet-c78-744062.pdf
+max_throughput:
+  value: 1.488
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 15.4
+  unit: W
+  description: 802.3af PoE
+psu: null

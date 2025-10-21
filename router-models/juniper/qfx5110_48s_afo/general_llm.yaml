@@ -1,0 +1,24 @@
+datasheet_pdf: https://www.juniper.net/us/en/products.html
+max_throughput:
+  value: 1.76
+  unit: Tbps
+typical_power_draw:
+  value: 190.0
+  unit: W
+  description: "Typical power consumption is measured at 25\xB0C ambient temperature\
+    \ with DACs, and at 50% load with IMIX traffic."
+max_power_draw:
+  value: 226.0
+  unit: W
+  description: "Max power consumption is measured at 40\xB0C ambient temperature with\
+    \ SR optics, and at 100% load with IMIX traffic."
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: JPSU-650W-AC-AFO

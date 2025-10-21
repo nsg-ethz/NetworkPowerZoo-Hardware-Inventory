@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
+max_throughput:
+  value: 8.0
+  unit: Tbps
+typical_power_draw:
+  value: 156.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 520.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1500.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-1512-AC-RED/BLUE

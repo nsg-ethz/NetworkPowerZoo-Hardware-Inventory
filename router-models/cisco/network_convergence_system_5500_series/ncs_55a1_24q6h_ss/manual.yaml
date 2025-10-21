@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Network Convergence System 5500 Series
+model: NCS-55A1-24Q6H-SS
+slug: cisco-ncs-55a1-24q6h-ss
+part_number: NCS-55A1-24Q6H-SS
+u_height: null
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-743998.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-743998.pdf
+release_date: '2015-11-16'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 900.0
+  unit: Gbps
+max_power_draw:
+  value: 550.0
+  unit: W
+  description: Maximum power consumption at 55 degrees Celsius
+typical_power_draw:
+  value: 400.0
+  unit: W
+  description: Typical power consumption at 27 degree Celsius
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 
+    value: 1100.0
+    unit: W
+    description: Support multiple PSU where the maximum power supply is 1100 W
+  part_number: null

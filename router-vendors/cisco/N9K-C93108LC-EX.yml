@@ -1,9 +1,0 @@
-model_id: "N9K-C93108LC-EX"
-vendor: "Cisco"
-datasheet_url: "https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742283.html"
-release_date: 2016-02-29 # YYYY-MM-DD
-typical_power_W: 220 # int
-typical_power_descr: # string
-max_power_W: 500 # int
-max_power_descr: # string
-max_capacity_Tbps: 2.3 # ((32*50)*2)/1000

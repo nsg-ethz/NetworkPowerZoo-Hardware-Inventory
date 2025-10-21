@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ASR-9903
+slug: cisco-asr-9903
+part_number: ASR-9903
+u_height: 3.0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744035.html
+psu:
+  number_of_modules: 4
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

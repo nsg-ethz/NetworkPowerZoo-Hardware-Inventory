@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-740296.pdf
+max_throughput:
+  value: 300.0
+  unit: Mpps
+typical_power_draw:
+  value: 200.0
+  unit: W
+  description: Typical power consumption for N540-28Z4C-SYS-D
+max_power_draw:
+  value: 250.0
+  unit: W
+  description: Maximum power consumption for N540-28Z4C-SYS-D
+is_poe_capable: false
+max_poe_draw: null
+psu: null

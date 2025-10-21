@@ -1,9 +1,0 @@
-model_id: 'WS-C6503-E'
-vendor: 'Cisco'
-datasheet_url: # string
-release_date: # YYYY-MM-DD
-typical_power_W: # int
-typical_power_descr: # string
-max_power_W: # int
-max_power_descr: # string
-max_capacity_Tbps: # float

@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-3850-series-switches/cisco-catalyst-3850-series-switches-faq.pdf
+max_throughput:
+  value: 640.0
+  unit: Gbps
+typical_power_draw:
+  value: 187.2
+  unit: W
+  description: null
+max_power_draw:
+  value: 205.5
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 715.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-C1-715WAC

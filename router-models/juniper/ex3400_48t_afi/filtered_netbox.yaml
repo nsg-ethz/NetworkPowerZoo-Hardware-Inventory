@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX3400-48T-AFI
+slug: juniper-ex3400-48t-afi
+part_number: EX3400-48T-AFI
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex3400-ethernet-switch-datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

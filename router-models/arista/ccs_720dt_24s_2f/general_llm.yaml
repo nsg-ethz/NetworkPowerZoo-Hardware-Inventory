@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 128.0
+  unit: Gbps
+typical_power_draw:
+  value: 50.7
+  unit: dB(A)
+  description: Typical sound power level
+max_power_draw:
+  value: 74.9
+  unit: dB(A)
+  description: Max sound power level
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 100.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: null

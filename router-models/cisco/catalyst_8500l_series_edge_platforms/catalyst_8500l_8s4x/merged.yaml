@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Catalyst 8500L Series Edge Platforms
+model: Catalyst 8500L-8S4X
+slug: cisco-c8500l-8s4x
+part_number: C8500L-8S4X
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.pdf
+release_date: '2021-01-25'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 39.0
+  unit: Gbps
+max_power_draw:
+  value: 82.0
+  unit: dBA
+  description: Maximum sound power
+typical_power_draw:
+  value: 64.0
+  unit: dBA
+  description: Typical sound power
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 424.0
+    unit: W
+    description: null
+  part_number: PWR-CH1-400WAC

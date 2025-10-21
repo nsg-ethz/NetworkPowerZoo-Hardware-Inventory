@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Nexus 5548P
+slug: cisco-n5k-c5548p
+part_number: N5K-C5548P
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

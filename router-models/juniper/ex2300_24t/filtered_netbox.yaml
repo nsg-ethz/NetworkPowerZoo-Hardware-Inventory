@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX2300-24T
+slug: juniper-ex2300-24t
+part_number: EX2300-24T
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex2300-ethernet-switch-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 55
+  part_number: iec-60320-c14

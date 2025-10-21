@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7130LBR-48S6QD-F
+slug: arista-dcs-7130lbr-48s6qd-f
+part_number: DCS-7130LBR-48S6QD-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7130LBR-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/products/7130lbr-series-layer-1-application-switch-data-sheet
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.5
+  unit: Tbps
+max_power_draw:
+  value: 2400.0
+  unit: W
+  description: Output power of the PWR-2421-HV power supply
+typical_power_draw:
+  value: 1500.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2400.0
+    unit: W
+    description: Output power of the PWR-2421-HV power supply
+  part_number: PWR-1511-AC or PWR-1511-DC

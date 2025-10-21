@@ -1,0 +1,34 @@
+manufacturer: Arista
+series: null
+model: DCS-7280PR3K-24-F
+slug: arista-dcs-7280pr3k-24-f
+part_number: DCS-7280PR3K-24-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7280R3-Data-Sheet.pdf
+datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 9.6
+  unit: Tbps
+max_power_draw:
+  value: 1100.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 50% load on
+    all ports
+typical_power_draw:
+  value: 650.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1500.0
+    unit: W
+    description: AC or DC, 1500W, FORWARD, 73.5MM
+  part_number: PWR-1511

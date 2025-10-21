@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 12.8
+  unit: Tbps
+typical_power_draw:
+  value: 1672.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 2090.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1900.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: null

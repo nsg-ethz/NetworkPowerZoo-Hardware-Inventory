@@ -1,0 +1,29 @@
+manufacturer: Arista
+series: null
+model: DCS-7010TX-48-R
+slug: arista-dcs-7010tx-48-r
+part_number: DCS-7010TX-48-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7010TX-Datasheet.pdf
+datasheet_pdf: https://www.arista.com/en/products/transceivers-cables
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 296.0
+  unit: Gbps
+max_power_draw:
+  value: 80.0
+  unit: W
+  description: Maximum power consumption
+typical_power_draw:
+  value: 61.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating: 106
+  part_number: iec-60320-c14

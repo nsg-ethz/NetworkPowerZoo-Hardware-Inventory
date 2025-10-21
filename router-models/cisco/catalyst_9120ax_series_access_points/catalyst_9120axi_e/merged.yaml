@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Catalyst 9120AX Series Access Points
+model: Catalyst 9120AXI-E
+slug: cisco-c9120axi-e
+part_number: C9120AXI-E
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9120ax-series-access-points/datasheet-c78-742115.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9120ax-series-access-points/datasheet-c78-742115.pdf
+release_date: '2019-04-28'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 5.2
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 25.5
+  unit: W
+  description: null
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

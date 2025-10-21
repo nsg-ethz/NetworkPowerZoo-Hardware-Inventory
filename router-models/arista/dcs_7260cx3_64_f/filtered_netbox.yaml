@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7260CX3-64-F
+slug: arista-dcs-7260cx3-64-f
+part_number: DCS-7260CX3-64-F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7260X3_Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

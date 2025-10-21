@@ -1,0 +1,9 @@
+datasheet_pdf: https://www.juniper.net/us/en/products/security/srx-series/srx5400-srx5600-srx5800-firewall-datasheet.html
+max_throughput:
+  value: 3.36
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

@@ -1,0 +1,13 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9124-ser-ap-ds-cte-en.pdf
+max_throughput:
+  value: 5.38
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 60.0
+  unit: W
+  description: "Max PoE draw when powered from UPOE or 802.3bt inline power source\
+    \ or DC input with external power supply rated \u2265 60W"
+psu: null

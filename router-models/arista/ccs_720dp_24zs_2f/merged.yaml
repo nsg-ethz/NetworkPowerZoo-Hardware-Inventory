@@ -1,0 +1,33 @@
+manufacturer: Arista
+series: null
+model: CCS-720DP-24ZS-2F
+slug: arista-ccs-720dp-24zs-2f
+part_number: CCS-720DP-24ZS-2F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720D-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/products/transceivers-cables
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 200.0
+  unit: Gbps
+max_power_draw:
+  value: 830.0
+  unit: W
+  description: System Power Budget
+typical_power_draw:
+  value: 100.0
+  unit: W
+  description: System Power (Max)
+is_poe_capable: true
+max_poe_draw:
+  value: 730.0
+  unit: W
+  description: Net of system power (Max)
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: '950 and {''value'': 950.0, ''unit'': ''W'', ''description'': ''Dual
+    AC power supplies (1 + 1 redundant)''}'
+  part_number: iec-60320-c14

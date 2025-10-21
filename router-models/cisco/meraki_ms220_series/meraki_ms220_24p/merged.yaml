@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MS220 Series
+model: Meraki MS220-24P
+slug: cisco-meraki-ms220-24p
+part_number: MS220-24P-HW
+u_height: 1
+datasheet_url: https://meraki.cisco.com/lib/pdf/meraki_datasheet_ms_220_320_only.pdf
+datasheet_pdf: https://meraki.cisco.com/lib/pdf/meraki_datasheet_sfp.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 48.0
+  unit: Gbps
+max_power_draw:
+  value: 447.0
+  unit: W
+  description: Full load power consumption
+typical_power_draw:
+  value: 30.0
+  unit: W
+  description: Idle power consumption
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 447
+  part_number: dc-terminal

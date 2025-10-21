@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MS225 Series
+model: Meraki MS225-24P
+slug: cisco-meraki-ms225-24p
+part_number: MS225-24P-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS225_Overview_and_Specifications
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/952/pdf/MS225%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 128.0
+  unit: Gbps
+max_power_draw:
+  value: 448.0
+  unit: W
+  description: Maximum power load
+typical_power_draw:
+  value: 21.0
+  unit: W
+  description: Idle power load
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 448
+  part_number: dc-terminal

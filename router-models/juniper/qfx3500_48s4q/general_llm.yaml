@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/topic-collections/hardware/qfx3500/qfx3500.pdf
+max_throughput:
+  value: 1.28
+  unit: Tbps
+typical_power_draw:
+  value: 230.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 365.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: null

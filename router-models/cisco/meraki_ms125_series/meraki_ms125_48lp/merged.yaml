@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MS125 Series
+model: Meraki MS125-48LP
+slug: cisco-meraki-ms125-48lp
+part_number: MS125-48LP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS125_Overview_and_Specifications
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/959/pdf/MS125%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 176.0
+  unit: Gbps
+max_power_draw:
+  value: 439.8
+  unit: W
+  description: max power load
+typical_power_draw:
+  value: 40.2
+  unit: W
+  description: idle power load
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

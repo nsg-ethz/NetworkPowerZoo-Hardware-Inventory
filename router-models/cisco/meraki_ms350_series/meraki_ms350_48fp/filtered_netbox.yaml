@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS350-48FP
+slug: cisco-meraki-ms350-48fp
+part_number: MS350-48FP-HW
+u_height: 1
+datasheet_url: https://meraki.cisco.com/product-collateral/ms350-series-datasheet/?file
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

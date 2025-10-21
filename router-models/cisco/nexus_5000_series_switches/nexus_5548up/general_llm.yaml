@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.pdf
+max_throughput:
+  value: 960.0
+  unit: Gbps
+typical_power_draw:
+  value: 390.0
+  unit: W
+  description: Typical operating power for AC power supply
+max_power_draw:
+  value: 730.0
+  unit: W
+  description: Maximum power with Layer 3 daughter card for AC power supply
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 750.0
+    unit: W
+    description: 750W for AC power supply, 680W for DC power supply
+  number_of_modules: 2
+  part_number: N55-PAC-750W

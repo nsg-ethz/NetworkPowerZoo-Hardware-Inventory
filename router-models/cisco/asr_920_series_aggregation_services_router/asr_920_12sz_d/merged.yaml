@@ -1,0 +1,27 @@
+manufacturer: Cisco
+series: ASR 920 Series Aggregation Services Router
+model: ASR-920-12SZ-D
+slug: cisco-asr-920-12sz-d
+part_number: ASR-920-12SZ-D
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-741006.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-741006.pdf
+release_date: '2014-06-30'
+end_of_sale: null
+end_of_support: null
+max_throughput: null
+max_power_draw:
+  value: 240.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 170.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 240
+  part_number: dc-terminal

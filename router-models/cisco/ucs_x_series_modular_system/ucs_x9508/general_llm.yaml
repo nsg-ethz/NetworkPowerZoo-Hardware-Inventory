@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.pdf
+max_throughput:
+  value: 100.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2800.0
+    unit: W
+    description: 2800W @200-240 VAC Nominal, 1400W @100-127 VAC Nominal
+  number_of_modules: 6
+  part_number: null

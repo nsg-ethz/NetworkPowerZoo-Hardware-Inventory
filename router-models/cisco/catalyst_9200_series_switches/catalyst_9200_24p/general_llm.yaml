@@ -1,0 +1,25 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 128.0
+  unit: Gbps
+typical_power_draw:
+  value: 53.14
+  unit: W
+  description: Weighted average power consumption for C9200-24P
+max_power_draw:
+  value: 54.3
+  unit: W
+  description: 100% full port traffic power consumption for C9200-24P
+is_poe_capable: true
+max_poe_draw:
+  value: 740.0
+  unit: W
+  description: Available PoE power with additional secondary power supply for C9200-24P
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 600.0
+    unit: W
+    description: Power rating for PWR-C6-600WAC
+  number_of_modules: 2
+  part_number: PWR-C6-600WAC

@@ -1,0 +1,33 @@
+manufacturer: Cisco
+series: Nexus 5000 Series Switches
+model: Nexus 5596UP
+slug: cisco-n5k-c5596up
+part_number: N5K-C5596UP
+u_height: 2
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.pdf
+release_date: '2008-04-08'
+end_of_sale: '2021-05-05'
+end_of_support: '2026-05-31'
+max_throughput:
+  value: 1920.0
+  unit: Gbps
+max_power_draw:
+  value: 972.0
+  unit: W
+  description: Maximum power with Layer 3 expansion module for Cisco Nexus 5596UP
+typical_power_draw:
+  value: 660.0
+  unit: W
+  description: Typical operating power for Cisco Nexus 5596UP
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: Cisco Nexus 5596UP PSU Front-to-Back Airflow module spare, A/C, 100-240V,
+      1100W
+  part_number: N55-PAC-1100W

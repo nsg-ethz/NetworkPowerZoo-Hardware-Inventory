@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4100-F-12P
+slug: juniper-ex4100-f-12p
+part_number: EX4100-F-12P
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4100-f-line-of-ethernet-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: dc-terminal

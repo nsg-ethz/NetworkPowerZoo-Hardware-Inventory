@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX5110-48S-DC-AFO
+slug: juniper-qfx5110-48s-dc-afo
+part_number: QFX5110-48S-DC-AFO
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5110-ethernet-switch-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: QFX5120-48YM-AFO
+slug: juniper-qfx5120-48ym-afo
+part_number: QFX5120-48YM-AFO
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5120-ethernet-switch-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/us/en/products.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 4.0
+  unit: Tbps
+max_power_draw:
+  value: 446.0
+  unit: W
+  description: Max power draw without MACsec
+typical_power_draw:
+  value: 310.0
+  unit: W
+  description: Typical power draw without MACsec
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 850.0
+    unit: W
+    description: null
+  part_number: JPSU-850W-AC-AFO

@@ -1,0 +1,9 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/day-one-books/DO_MX5G.pdf
+max_throughput:
+  value: 3.0
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

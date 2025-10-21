@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Aironet 3800 Series Access Points
+model: Aironet 3802I-B
+slug: cisco-air-ap3802i-b-k9
+part_number: AIR-AP3802I-B-K9
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3800-series-access-points/datasheet-c78-741682.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3800-series-access-points/datasheet-c78-741682.pdf
+release_date: '2016-02-09'
+end_of_sale: '2022-10-31'
+end_of_support: '2027-10-31'
+max_throughput:
+  value: 5.2
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: 30W at the PSE (25.5W at the PD) with the USB 2.0 port enabled
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

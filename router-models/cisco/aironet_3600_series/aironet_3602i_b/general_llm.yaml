@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3600-series/data_sheet_c78-686782.pdf
+max_throughput:
+  value: 450.0
+  unit: Mbps
+typical_power_draw:
+  value: 15.4
+  unit: W
+  description: PoE+ 802.3at, 3600 - No external module installed
+max_power_draw:
+  value: 22.0
+  unit: W
+  description: PoE 802.3af, 3600 + Universal Small Cell Module (USC5310)
+is_poe_capable: true
+max_poe_draw:
+  value: 22.0
+  unit: W
+  description: PoE 802.3af, 3600 + Universal Small Cell Module (USC5310)
+psu: null

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Nexus 9348D-GX2A
+slug: cisco-n9k-c9348d-gx2a
+part_number: N9K-C9348D-GX2A
+u_height: 2
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742282.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: 8000 Series Routers
+model: 8201-24H8FH
+slug: cisco-8201-24h8fh
+part_number: 8201-24H8FH
+u_height: 1.0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.pdf
+release_date: '2019-12-10'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 5.6
+  unit: Tbps
+max_power_draw: null
+typical_power_draw:
+  value: 205.0
+  unit: W
+  description: Typical system power at 5.6 Tbps
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

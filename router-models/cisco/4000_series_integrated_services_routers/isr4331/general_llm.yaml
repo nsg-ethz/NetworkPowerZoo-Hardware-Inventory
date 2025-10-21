@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf
+max_throughput:
+  value: 2.0
+  unit: Gbps
+typical_power_draw:
+  value: 42.0
+  unit: W
+  description: No modules
+max_power_draw:
+  value: 250.0
+  unit: W
+  description: No PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 250.0
+  unit: W
+  description: '4331-DC: PoE not supported'
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: null

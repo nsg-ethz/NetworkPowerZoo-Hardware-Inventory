@@ -1,0 +1,20 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf
+max_throughput:
+  value: 19.7
+  unit: Gbps
+typical_power_draw:
+  value: 82.0
+  unit: W
+  description: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 250.0
+    unit: W
+    description: PWR-CC1-250WAC is the default power supply for Catalyst 8300 1RU
+      platforms.
+  number_of_modules: 2
+  part_number: null

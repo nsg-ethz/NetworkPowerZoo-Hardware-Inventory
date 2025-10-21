@@ -1,0 +1,22 @@
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/951/pdf/MS210%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+max_throughput:
+  value: 128.0
+  unit: Gbps
+typical_power_draw:
+  value: 21.0
+  unit: W
+  description: Idle power load
+max_power_draw:
+  value: 448.0
+  unit: W
+  description: Max power load
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: null
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: null

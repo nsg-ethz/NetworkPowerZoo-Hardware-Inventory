@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4400-48F-AFI
+slug: juniper-ex4400-48f-afi
+part_number: EX4400-48F-AFI
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-system-overview.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MX Series
+model: Meraki MX85
+slug: cisco-meraki-mx85
+part_number: MX85
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX85_Datasheet
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/5619/pdf/MX85%2bDatasheet.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.0
+  unit: Gbps
+max_power_draw:
+  value: 55.0
+  unit: W
+  description: max
+typical_power_draw:
+  value: 12.0
+  unit: W
+  description: idle
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: PoE+ on GbE Port 4
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

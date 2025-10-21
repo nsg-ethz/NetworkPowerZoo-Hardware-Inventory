@@ -1,9 +1,0 @@
-model_id: 'ASR-920-24SZ-M'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-733397.html'
-release_date: # YYYY-MM-DD
-typical_power_W: 110
-typical_power_descr: # string
-max_power_W: 150
-max_power_descr: # string
-max_capacity_Tbps: # float

@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: QFX10002-36Q
+slug: juniper-qfx10002-36q
+part_number: QFX10002-36Q
+u_height: 2
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx10002-fixed-ethernet-switches.pdf
+datasheet_pdf: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx10002/qfx10002.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 2.88
+  unit: Tbps
+max_power_draw:
+  value: 800.0
+  unit: W
+  description: AC, DC
+typical_power_draw:
+  value: 560.0
+  unit: W
+  description: AC, DC
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: null
+  part_number: JPSU-1600W-AC-AFO

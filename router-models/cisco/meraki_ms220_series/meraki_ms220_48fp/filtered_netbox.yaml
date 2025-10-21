@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS220-48FP
+slug: cisco-meraki-ms220-48fp
+part_number: MS220-48FP-HW
+u_height: 1
+datasheet_url: https://meraki.cisco.com/lib/pdf/meraki_datasheet_ms_220_320_only.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 903
+  part_number: dc-terminal

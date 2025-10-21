@@ -1,0 +1,30 @@
+manufacturer: Cisco
+series: Catalyst 8300 Series Edge Platforms
+model: Catalyst 8300-1N1S-6T
+slug: cisco-c8300-1n1s-6t
+part_number: C8300-1N1S-6T
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf
+release_date: '2020-10-19'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 19.7
+  unit: Gbps
+max_power_draw: null
+typical_power_draw:
+  value: 82.0
+  unit: W
+  description: null
+is_poe_capable: true
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 250.0
+    unit: W
+    description: PWR-CC1-250WAC is the default power supply for Catalyst 8300 1RU
+      platforms.
+  part_number: null

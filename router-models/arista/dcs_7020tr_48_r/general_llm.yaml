@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 216.0
+  unit: Gbps
+typical_power_draw:
+  value: 105.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+max_power_draw:
+  value: 115.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-500AC

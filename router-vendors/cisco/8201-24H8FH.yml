@@ -1,9 +1,0 @@
-model_id: '8201-24H8FH'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html'
-release_date: # YYYY-MM-DD
-typical_power_W: 205
-typical_power_descr: 'at 5.6 Tbps'
-max_power_W: # int
-max_power_descr: # string
-max_capacity_Tbps: 5.6

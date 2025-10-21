@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: 4000 Series Integrated Services Routers
+model: ISR4321
+slug: cisco-isr4321
+part_number: ISR4321/K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-732542.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf
+release_date: '2014-09-16'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.5
+  unit: Gbps
+max_power_draw:
+  value: 125.0
+  unit: W
+  description: With AC power supply, no PoE
+typical_power_draw:
+  value: 36.0
+  unit: W
+  description: No modules
+is_poe_capable: true
+max_poe_draw:
+  value: 120.0
+  unit: W
+  description: Maximum endpoint PoE power available from PoE power supply
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 125
+  part_number: iec-60320-c6

@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MS Series
+model: Meraki MS120-8
+slug: cisco-meraki-ms120-8
+part_number: MS120-8-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS120_Overview_and_Specifications
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/949/pdf/MS120%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 20.0
+  unit: Gbps
+max_power_draw:
+  value: 161.0
+  unit: W
+  description: Power Load (max)
+typical_power_draw:
+  value: 9.0
+  unit: W
+  description: Power Load (idle)
+is_poe_capable: true
+max_poe_draw:
+  value: 124.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

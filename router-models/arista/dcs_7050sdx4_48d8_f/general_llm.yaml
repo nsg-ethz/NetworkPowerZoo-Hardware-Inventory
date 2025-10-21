@@ -1,0 +1,23 @@
+datasheet_pdf: https://www.arista.com/en/service
+max_throughput:
+  value: 8.0
+  unit: Tbps
+typical_power_draw:
+  value: 165.0
+  unit: W
+  description: Measured at 25C ambient with 50% load on all ports, excludes transceivers
+max_power_draw:
+  value: 520.0
+  unit: W
+  description: Measured at 25C ambient with 50% load on all ports, excludes transceivers
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1500.0
+    unit: W
+    description: PWR-1512-AC-RED/BLUE and PWR-1511-DC-RED/BLUE are 1500W, PWR-1011-AC-RED/BLUE
+      and PWR-1011-DC-RED/BLUE are 1000W
+  number_of_modules: 2
+  part_number: PWR-1512-AC-RED/BLUE

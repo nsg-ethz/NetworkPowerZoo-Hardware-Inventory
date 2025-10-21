@@ -1,0 +1,21 @@
+manufacturer: Cisco
+series: Firepower 1000 Series
+model: FPR1K-DT-RACK-MNT
+slug: cisco-fpr1k-dt-rack-mnt
+part_number: FPR1K-DT-RACK-MNT
+u_height: 2.0
+datasheet_url: https://www.cisco.com/c/en/us/td/docs/security/firepower/1010/hw/guide/hw-install-1010/mount.html
+datasheet_pdf: https://www.cisco.com/c/en/us/td/docs/security/firepower/1010/hw/guide/hw-install-1010.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput: null
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

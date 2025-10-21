@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MS210 Series
+model: Meraki MS210-48
+slug: cisco-meraki-ms210-48
+part_number: MS210-48-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS210_Overview_and_Specifications
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/951/pdf/MS210%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 176.0
+  unit: Gbps
+max_power_draw:
+  value: 882.0
+  unit: W
+  description: Maximum power consumption
+typical_power_draw:
+  value: 54.0
+  unit: W
+  description: Idle power load
+is_poe_capable: true
+max_poe_draw:
+  value: 740.0
+  unit: W
+  description: Maximum PoE+ power
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 42
+  part_number: dc-terminal

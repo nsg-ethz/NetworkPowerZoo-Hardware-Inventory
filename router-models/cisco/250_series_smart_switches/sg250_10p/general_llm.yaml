@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/250-series-smart-switches/datasheet-c78-737061.pdf
+max_throughput:
+  value: 20.0
+  unit: Gbps
+typical_power_draw:
+  value: 13.25
+  unit: W
+  description: 110V typical power consumption
+max_power_draw:
+  value: 85.19
+  unit: W
+  description: 110V power consumption with PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 62.0
+  unit: W
+  description: null
+psu: null

@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-s-series-switches/data_sheet_c78-726680.pdf
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 50.0
+  unit: W
+  description: Measured at 5 Percent Throughput
+max_power_draw:
+  value: 52.0
+  unit: W
+  description: Measured at 100 Percent Throughput
+is_poe_capable: false
+max_poe_draw: null
+psu: null

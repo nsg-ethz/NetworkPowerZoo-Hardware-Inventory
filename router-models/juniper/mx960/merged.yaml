@@ -1,0 +1,23 @@
+manufacturer: Juniper
+series: null
+model: MX960
+slug: juniper-mx960
+part_number: null
+u_height: 16
+datasheet_url: https://www.juniper.net/us/en/products-services/routing/mx-series/mx960/
+datasheet_pdf: https://www.juniper.net/documentation/en_US/day-one-books/DO_MX5G.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 12.0
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

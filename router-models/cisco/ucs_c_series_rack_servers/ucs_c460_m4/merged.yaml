@@ -1,0 +1,24 @@
+manufacturer: Cisco
+series: UCS C-Series Rack Servers
+model: UCS C460 M4
+slug: cisco-ucs-c460-m4
+part_number: UCSC-C460-M4
+u_height: 1
+datasheet_url: https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/c460m4_specsheet.pdf
+datasheet_pdf: http://www.cisco.com
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput: null
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 4
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1400.0
+    unit: W
+    description: Maximum output power at 200 - 240 VAC
+  part_number: null

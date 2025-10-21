@@ -1,0 +1,23 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf
+max_throughput:
+  value: 19.7
+  unit: Gbps
+typical_power_draw:
+  value: 275.0
+  unit: W
+  description: Typical power consumption for C8300-2N2S-4T2X with no modules, single
+    PSU
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 500.0
+  unit: W
+  description: PoE Budget for PWR-CC1-1000WAC
+psu:
+  efficiency_rating: Gold
+  power_rating:
+    value: 1000.0
+    unit: W
+    description: 'PWR-CC1-1000WAC with PoE Budget: 500W'
+  number_of_modules: 2
+  part_number: null

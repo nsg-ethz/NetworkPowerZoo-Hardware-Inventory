@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS425-16
+slug: cisco-meraki-ms425-16
+part_number: MS425-16-HW
+u_height: 1
+datasheet_url: https://meraki.cisco.com/product-collateral/ms425-datasheet/?file
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

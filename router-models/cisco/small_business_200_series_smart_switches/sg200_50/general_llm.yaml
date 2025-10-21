@@ -1,0 +1,9 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-100-series-unmanaged-switches/data_sheet_c78-667827.html
+max_throughput:
+  value: 1000.0
+  unit: Mbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

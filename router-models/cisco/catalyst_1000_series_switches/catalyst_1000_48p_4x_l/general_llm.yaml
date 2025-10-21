@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.pdf
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 45.81
+  unit: W
+  description: '1G: 45.81W, 10G: 46.31W'
+max_power_draw:
+  value: 62.26
+  unit: W
+  description: '1G: 61.66W, 10G: 62.26W'
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: null
+psu: null

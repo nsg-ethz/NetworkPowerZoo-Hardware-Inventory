@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-l-series-switches/nb-06-cat2960-l-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 36.0
+  unit: Gbps
+typical_power_draw:
+  value: 21.3
+  unit: W
+  description: Weighted average
+max_power_draw:
+  value: 22.0
+  unit: W
+  description: 100% traffic
+is_poe_capable: true
+max_poe_draw:
+  value: 120.0
+  unit: W
+  description: null
+psu: null

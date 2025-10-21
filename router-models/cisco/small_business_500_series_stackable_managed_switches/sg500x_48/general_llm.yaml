@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-500-series-stackable-managed-switches/c78-695646_data_sheet.pdf
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 60.3
+  unit: W
+  description: 110V typical power consumption
+max_power_draw:
+  value: 60.3
+  unit: W
+  description: 220V typical power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu: null

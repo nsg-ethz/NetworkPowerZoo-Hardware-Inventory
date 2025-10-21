@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: CBS350-48T-4G
+slug: cisco-cbs350-48t-4g
+part_number: WCBS350-48T-4G
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 236
+  part_number: iec-60320-c14

@@ -1,0 +1,24 @@
+datasheet_pdf: https://www.arista.com/en/products/7280r3a
+max_throughput:
+  value: 14.4
+  unit: Tbps
+typical_power_draw:
+  value: 1244.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load (Excluding
+    optics and cables)
+max_power_draw:
+  value: 1927.0
+  unit: W
+  description: Maximum power consumption measured with 2.5W SFP+ / 4.5W QSFP100 /
+    20W OSFP or QSFP-DD on all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Output power for PWR-1900AC
+  number_of_modules: 4
+  part_number: PWR-1900AC

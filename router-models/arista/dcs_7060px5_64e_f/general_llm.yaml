@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.arista.com/en/products/transceivers-cables
+max_throughput:
+  value: 25.6
+  unit: Tbps
+typical_power_draw:
+  value: 596.0
+  unit: W
+  description: Measured at 25C ambient with 50% load, excludes transceivers
+max_power_draw:
+  value: 1387.0
+  unit: W
+  description: Measured at 25C ambient with 50% load, excludes transceivers
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2400.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-2411-AC-RED

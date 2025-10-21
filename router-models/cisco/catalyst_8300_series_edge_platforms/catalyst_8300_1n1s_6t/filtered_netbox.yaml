@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 8300-1N1S-6T
+slug: cisco-c8300-1n1s-6t
+part_number: C8300-1N1S-6T
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

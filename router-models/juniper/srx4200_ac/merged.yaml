@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: SRX4200-AC
+slug: juniper-srx4200-ac
+part_number: SRX4200-SYS-JB-AC
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/security/srx4100-srx4200-firewall-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/us/en/products.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 80.0
+  unit: Gbps
+max_power_draw:
+  value: 650.0
+  unit: W
+  description: Power supply rating
+typical_power_draw:
+  value: 200.0
+  unit: W
+  description: Average power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: null
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  part_number: null

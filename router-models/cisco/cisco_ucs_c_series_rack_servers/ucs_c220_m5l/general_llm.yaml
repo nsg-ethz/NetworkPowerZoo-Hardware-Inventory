@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/datasheet-c78-739282.html
+max_throughput: null
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: The server supports up to two hot-swappable power supplies with options
+      of 770W, 1050W, 1050W DC, and 1600W. The maximum power rating is 1600W.
+  number_of_modules: 2
+  part_number: null

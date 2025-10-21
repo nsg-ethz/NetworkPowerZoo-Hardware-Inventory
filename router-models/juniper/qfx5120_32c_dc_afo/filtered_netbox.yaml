@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX5120-32C-DC-AFO
+slug: juniper-qfx5120-32c-dc-afo
+part_number: QFX5120-32C-DC-AFO
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5120-ethernet-switch-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

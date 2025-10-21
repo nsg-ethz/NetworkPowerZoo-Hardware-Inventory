@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c-series-rack-servers/ucs-c220-m6-rack-server-ds.pdf
+max_throughput: null
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 2300.0
+    unit: W
+    description: Hot-pluggable, redundant 1050W AC, 1050W DC, 1600W AC, and 2300W
+      AC
+  number_of_modules: 2
+  part_number: null

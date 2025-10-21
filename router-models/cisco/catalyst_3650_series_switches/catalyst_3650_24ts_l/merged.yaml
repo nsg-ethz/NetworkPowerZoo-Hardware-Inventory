@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: Catalyst 3650 Series Switches
+model: Catalyst 3650-24TS-L
+slug: cisco-ws-c3650-24ts-l
+part_number: WS-C3650-24TS-L
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/datasheet-c78-729449.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.pdf
+release_date: '2013-09-01'
+end_of_sale: '2021-10-31'
+end_of_support: '2026-10-31'
+max_throughput:
+  value: 392.0
+  unit: Gbps
+max_power_draw:
+  value: 95.8
+  unit: W
+  description: null
+typical_power_draw:
+  value: 88.4
+  unit: W
+  description: null
+is_poe_capable: true
+max_poe_draw:
+  value: 775.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 2 and 1
+  efficiency_rating: null
+  power_rating:
+    value: 975.0
+    unit: W
+    description: null
+  part_number: null

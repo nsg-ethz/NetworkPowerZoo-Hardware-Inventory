@@ -1,0 +1,14 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1850-series-access-points/datasheet-c78-734256.pdf
+max_throughput:
+  value: 2.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 20.9
+  unit: W
+  description: When deployed using a Power over Ethernet (PoE) specification, the
+    power drawn from the power sourcing equipment will be higher by some amount, depending
+    on the length of the interconnecting cable.
+psu: null

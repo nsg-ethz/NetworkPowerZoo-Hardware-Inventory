@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9600-series-switches/nb-06-cat9600-series-data-sheet-cte-en.pdf
+max_throughput:
+  value: 25.6
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 3000.0
+    unit: W
+    description: 3000W for AC PSU, 2000W for AC and DC PSU
+  number_of_modules: 4
+  part_number: null

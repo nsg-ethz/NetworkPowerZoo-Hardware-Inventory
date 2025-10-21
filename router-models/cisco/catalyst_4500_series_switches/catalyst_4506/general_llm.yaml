@@ -1,0 +1,22 @@
+datasheet_pdf: http://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-series-switches/data_sheet_c78-436089.pdf
+max_throughput:
+  value: 48.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 120.0
+  unit: W
+  description: Maximum rated power for WS-C4506-E
+is_poe_capable: true
+max_poe_draw:
+  value: 1500.0
+  unit: W
+  description: Maximum PoE per slot for WS-C4506-E
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 9000.0
+    unit: W
+    description: Maximum power supply supported for WS-C4506-E
+  number_of_modules: 2
+  part_number: null

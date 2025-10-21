@@ -1,0 +1,24 @@
+manufacturer: Cisco
+series: 1100 Series Industrial Integrated Services Routers
+model: ISR 1100-6G
+slug: cisco-isr1100-6g
+part_number: ISR1100-6G
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/1000-series-integrated-services-routers-isr/datasheet-c78-742893.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/1000-series-integrated-services-routers-isr/datasheet-c78-742893.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1889.0
+  unit: Mbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: '30 and {''value'': 30.0, ''unit'': ''W'', ''description'': ''External
+    Adapter: 30W 341-100891-01''}'
+  part_number: dc-terminal

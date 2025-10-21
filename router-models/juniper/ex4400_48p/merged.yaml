@@ -1,0 +1,29 @@
+manufacturer: Juniper
+series: null
+model: EX4400-48P
+slug: juniper-ex4400-48p
+part_number: EX4400-48P
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-system-overview.html
+datasheet_pdf: https://www.juniper.net/documentation/us/en/hardware/ex4400/topics/topic-map/ex4400-power-system.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 100.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 3600.0
+  unit: W
+  description: Supported with dual PSU operating in AC High voltage line
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Supported with dual PSU operating in AC High voltage line
+  part_number: null

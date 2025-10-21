@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4550-32T-DC-AFI
+slug: juniper-ex4550-32t-dc-afi
+part_number: EX4550-32T-DC-AFI
+u_height: 1
+datasheet_url: https://www.juniper.net/assets/br/pt/local/pdf/datasheets/1000414-en.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: SG250-10P
+slug: cisco-sg250-10p-k9
+part_number: SG250-10P-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/250-series-smart-switches/datasheet-c78-737061.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 85
+  part_number: iec-60320-c14

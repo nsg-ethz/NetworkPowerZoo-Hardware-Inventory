@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 9410R
+slug: cisco-catalyst-9410r
+part_number: C9410R
+u_height: 13
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-ser-data-sheet-cte-en.html
+psu:
+  number_of_modules: 8
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

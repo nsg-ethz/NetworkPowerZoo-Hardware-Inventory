@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: CCS-720DT-48S-2F
+slug: arista-ccs-720dt-48s-2f
+part_number: CCS-720DT-48S-2F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720D-Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 100
+  part_number: iec-60320-c14

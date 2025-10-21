@@ -1,0 +1,33 @@
+manufacturer: Cisco
+series: ISR 4000 Series
+model: ISR4461-X
+slug: cisco-isr4461-x
+part_number: ISR4461-X/K9
+u_height: 3
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-732542.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 10.0
+  unit: Gbps
+max_power_draw:
+  value: 1000.0
+  unit: W
+  description: No PoE
+typical_power_draw:
+  value: 158.0
+  unit: W
+  description: No modules
+is_poe_capable: true
+max_poe_draw:
+  value: 500.0
+  unit: W
+  description: With optional redundancy
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: '1000 and {''value'': 1000.0, ''unit'': ''W'', ''description'': ''No
+    PoE''}'
+  part_number: iec-60320-c14

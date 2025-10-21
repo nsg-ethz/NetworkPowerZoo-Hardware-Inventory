@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ISR2821
+slug: cisco-isr2821
+part_number: CISCO2821
+u_height: 2
+datasheet_url: https://www.cisco.com/c/dam/global/de_at/assets/unified_partners/smb/vertriebliche-positionierung/routing/downloads/isr_2800_datenblatt_e.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: iec-60320-c14

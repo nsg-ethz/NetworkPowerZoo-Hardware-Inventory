@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: CBS350-48FP-4X
+slug: cisco-cbs350-48fp-4x
+part_number: CBS350-48FP-4X
+u_height: 1.0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 889
+  part_number: iec-60320-c14

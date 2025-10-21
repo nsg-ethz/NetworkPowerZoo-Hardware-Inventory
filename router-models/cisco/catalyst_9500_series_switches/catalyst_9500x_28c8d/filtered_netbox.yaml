@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 9500X-28C8D
+slug: cisco-c9500x-28c8d
+part_number: C9500X-28C8D
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9500-series-switches/nb-06-cat9500-ser-data-sheet-cte-en.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

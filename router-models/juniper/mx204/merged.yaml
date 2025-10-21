@@ -1,0 +1,26 @@
+manufacturer: Juniper
+series: null
+model: MX204
+slug: juniper-mx204
+part_number: MX204
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/routers/mx-204-240-480-960-series-universal-routing-platforms-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/mx-series/mx-series.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 400.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: null
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  part_number: JPSU-650W-AC-AO

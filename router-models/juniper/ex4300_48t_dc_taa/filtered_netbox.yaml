@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX4300-48T-DC-TAA
+slug: juniper-ex4300-48t-dc-taa
+part_number: EX4300-48T-DC-TAA
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4300-line-of-ethernet-switches-datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

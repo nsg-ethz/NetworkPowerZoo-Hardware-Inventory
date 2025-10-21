@@ -1,0 +1,13 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/data_sheet_c78-709514.pdf
+max_throughput:
+  value: 450.0
+  unit: Mbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 15.4
+  unit: W
+  description: The power drawn from the power sourcing equipment may be as high as
+    15.4W including cabling.
+psu: null

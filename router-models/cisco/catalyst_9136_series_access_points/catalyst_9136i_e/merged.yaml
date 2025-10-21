@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Catalyst 9136 Series Access Points
+model: Catalyst 9136I-E
+slug: cisco-c9136i-e
+part_number: C9136I-E
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9136-access-point-ds-cte-en.html#Productspecifications
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9100ax-access-points/nb-06-cat9136-access-point-ds-cte-en.pdf
+release_date: '2022-02-03'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 10.2
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 47.3
+  unit: W
+  description: Max PoE Power Consumption with 802.3bt (UPOE)
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: Catalyst 9200 Series Switches
+model: Catalyst 9200L-24PXG-2Y
+slug: cisco-c9200l-24pxg-2y
+part_number: C9200L-24PXG-2Y
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+release_date: '2018-11-13'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 292.0
+  unit: Gbps
+max_power_draw:
+  value: 89.26
+  unit: W
+  description: Measured with 100% traffic, 115VAC input
+typical_power_draw:
+  value: 83.35
+  unit: W
+  description: Measured with 100% traffic, 115VAC input
+is_poe_capable: true
+max_poe_draw:
+  value: 740.0
+  unit: W
+  description: Available PoE power with additional secondary power supply
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 600.0
+    unit: W
+    description: null
+  part_number: PWR-C5-600WAC

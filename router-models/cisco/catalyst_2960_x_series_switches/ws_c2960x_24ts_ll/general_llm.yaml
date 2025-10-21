@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-x-series-switches/datasheet_c78-728232.pdf
+max_throughput:
+  value: 100.0
+  unit: Gbps
+typical_power_draw:
+  value: 32.0
+  unit: W
+  description: Weighted average
+max_power_draw:
+  value: 32.0
+  unit: W
+  description: 100% traffic
+is_poe_capable: false
+max_poe_draw: null
+psu: null

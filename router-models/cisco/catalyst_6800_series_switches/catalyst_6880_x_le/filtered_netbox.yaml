@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 6880-X-LE
+slug: cisco-c6880-x-le
+part_number: C6880-X-LE
+u_height: 5
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6880-x-switch/data_sheet_c78-728228.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

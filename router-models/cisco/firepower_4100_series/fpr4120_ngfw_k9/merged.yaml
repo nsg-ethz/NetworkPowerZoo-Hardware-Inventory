@@ -1,0 +1,24 @@
+manufacturer: Cisco
+series: Firepower 4100 Series
+model: FPR4120-NGFW-K9
+slug: cisco-fpr4120-ngfw-k9
+part_number: FPR4120-NGFW-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firepower-4100-series/datasheet-c78-742474.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firepower-4100-series/datasheet-c78-742474.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 45.0
+  unit: Gbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: '1100 and {''value'': 1100.0, ''unit'': ''W'', ''description'': ''Single
+    1100W AC, dual optional. Single/dual 950W DC optional''}'
+  part_number: iec-60320-c14

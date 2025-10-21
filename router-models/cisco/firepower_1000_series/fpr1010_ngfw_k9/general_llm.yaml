@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firepower-1000-series/datasheet-c78-742469.pdf
+max_throughput:
+  value: 2.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 115.0
+  unit: W
+  description: AC maximum power draw
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: 2 ports PoE+ (IEEE 802.3at)
+psu: null

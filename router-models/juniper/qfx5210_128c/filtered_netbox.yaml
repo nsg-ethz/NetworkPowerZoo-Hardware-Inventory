@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX5210-128C
+slug: juniper-qfx5210-128c
+part_number: null
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5200/
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 650
+  part_number: iec-60320-c14

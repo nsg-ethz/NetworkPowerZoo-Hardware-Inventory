@@ -1,0 +1,23 @@
+manufacturer: Cisco
+series: Nexus 7000 Series Switches
+model: N7K-C7009
+slug: cisco-n7k-c7009
+part_number: N7K-C7009
+u_height: 14
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/Data_Sheet_C78-437762.pdf
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/data_sheet_c78-437762.html
+release_date: '2008-01-25'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 9.9
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

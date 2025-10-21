@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 1000FE-48P-4G-L
+slug: cisco-c1000fe-48p-4g-l
+part_number: C1000FE-48P-4G-L
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 460
+  part_number: iec-60320-c14

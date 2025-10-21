@@ -1,0 +1,25 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 736.0
+  unit: Gbps
+typical_power_draw:
+  value: 103.9
+  unit: W
+  description: Weighted average Pw
+max_power_draw:
+  value: 110.2
+  unit: W
+  description: 100% Full port traffic
+is_poe_capable: true
+max_poe_draw:
+  value: 1440.0
+  unit: W
+  description: Limited by port number and port rating (e.g. 24 PoE+ 30W ports = 720W)
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: Upgrade option to 1100W primary PSU
+  number_of_modules: 2
+  part_number: PWR-C1-1100WAC-P

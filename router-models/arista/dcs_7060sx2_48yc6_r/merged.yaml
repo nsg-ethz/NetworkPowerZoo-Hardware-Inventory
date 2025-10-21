@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7060SX2-48YC6-R
+slug: arista-dcs-7060sx2-48yc6-r
+part_number: DCS-7060SX2-48YC6-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7060X_7260X_DS.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 3.6
+  unit: Tbps
+max_power_draw:
+  value: 385.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+typical_power_draw:
+  value: 240.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: 500W AC and 500W DC options available
+  part_number: null

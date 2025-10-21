@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2800-series-access-points/datasheet-c78-736497.pdf
+max_throughput:
+  value: 5.2
+  unit: Gbps
+typical_power_draw:
+  value: 20.0
+  unit: W
+  description: at the PD with all features enabled except for the USB 2.0 port
+max_power_draw:
+  value: 23.0
+  unit: W
+  description: at the PD with the USB 2.0 port enabled
+is_poe_capable: true
+max_poe_draw:
+  value: 26.5
+  unit: W
+  description: at the PSE with the USB 2.0 port enabled
+psu: null

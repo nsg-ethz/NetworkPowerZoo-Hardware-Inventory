@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7358-F
+slug: arista-dcs-7358-f
+part_number: DCS-7358-F
+u_height: 4
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7358X4-Datasheet.pdf
+datasheet_pdf: https://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 12.8
+  unit: Tbps
+max_power_draw:
+  value: 1547.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 821.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2 and 4
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Output Power for PWR-1900AC
+  part_number: null

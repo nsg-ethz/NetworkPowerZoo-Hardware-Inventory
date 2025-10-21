@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Cisco 300 Series Managed Switches
+model: SG300-10PP
+slug: cisco-sg300-10pp-k9
+part_number: SG300-10PP-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data_sheet_c78-610061.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-smart-switches/data_sheet_c78-610061.pdf
+release_date: '2010-08-01'
+end_of_sale: '2018-10-04'
+end_of_support: '2023-10-31'
+max_throughput:
+  value: 20.0
+  unit: Gbps
+max_power_draw:
+  value: 83.47
+  unit: W
+  description: 110V worst case power draw with PoE
+typical_power_draw:
+  value: 13.37
+  unit: W
+  description: 110V typical power draw
+is_poe_capable: true
+max_poe_draw:
+  value: 62.0
+  unit: W
+  description: PoE+ supported
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 82
+  part_number: iec-60320-c14

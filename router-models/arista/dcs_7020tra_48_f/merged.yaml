@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7020TRA-48-F
+slug: arista-dcs-7020tra-48-f
+part_number: DCS-7020TRA-48-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7020R-48_Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 216.0
+  unit: Gbps
+max_power_draw:
+  value: 125.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 115.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: null
+  part_number: PWR-500AC

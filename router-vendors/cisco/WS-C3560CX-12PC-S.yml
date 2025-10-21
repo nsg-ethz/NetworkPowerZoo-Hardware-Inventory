@@ -1,9 +1,0 @@
-model_id: 'WS-C3560CX-12PC-S'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/data_sheet-c78-729449.html'
-release_date: '2014-12-01'
-typical_power_W: 26 # int
-typical_power_descr: '26.1W: 10% throughput, no PoE'
-max_power_W: 26
-max_power_descr: '26.3W: 100% throughput, no PoE' # string
-max_capacity_Tbps: 0.032 # float (12+4)*2/1000

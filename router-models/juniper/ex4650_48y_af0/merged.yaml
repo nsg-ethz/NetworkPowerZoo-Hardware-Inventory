@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: EX4650-48Y-AF0
+slug: juniper-ex4650-48y-afo
+part_number: EX4650-48Y-AFO
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products/switches/ex-series/ex4650-ethernet-switch-datasheet.html
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4650-ethernet-switch-datasheet.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 4.0
+  unit: Tbps
+max_power_draw:
+  value: 450.0
+  unit: W
+  description: Max load
+typical_power_draw:
+  value: 260.0
+  unit: W
+  description: Typical load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: Silver
+  power_rating:
+    value: 650.0
+    unit: W
+    description: null
+  part_number: JPSU-650W-AC-AFO

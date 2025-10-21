@@ -1,0 +1,34 @@
+manufacturer: Arista
+series: null
+model: DCS-7289R3A-SC-F
+slug: arista-dcs-7289r3a-sc-f
+part_number: DCS-7289R3A-SC-F
+u_height: 4
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7280R3A-Modular-Datasheet.pdf
+datasheet_pdf: https://www.arista.com/en/products/7280r3a
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 14.4
+  unit: Tbps
+max_power_draw:
+  value: 1927.0
+  unit: W
+  description: Maximum power consumption measured with 2.5W SFP+ / 4.5W QSFP100 /
+    20W OSFP or QSFP-DD on all ports
+typical_power_draw:
+  value: 1244.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load (Excluding
+    optics and cables)
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2 and 4
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Output power for PWR-1900AC
+  part_number: PWR-1900AC

@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: Catalyst 9500 Series Switches
+model: Catalyst 9500X-28C8D
+slug: cisco-c9500x-28c8d
+part_number: C9500X-28C8D
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9500-series-switches/nb-06-cat9500-ser-data-sheet-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9500-series-switches/nb-06-cat9500-ser-data-sheet-cte-en.pdf
+release_date: '2017-06-20'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 12.8
+  unit: Tbps
+max_power_draw:
+  value: 4034.0
+  unit: BTU/hr
+  description: C9500X-28C8D with AC/DC PSU
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1500.0
+    unit: W
+    description: C9K-PWR-1500WAC and C9K-PWR-1500WDC
+  part_number: null

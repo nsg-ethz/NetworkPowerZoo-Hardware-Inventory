@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: QFX5100-48T-6Q
+slug: juniper-qfx5100-48t-6q
+part_number: null
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5100/
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: iec-60320-c14

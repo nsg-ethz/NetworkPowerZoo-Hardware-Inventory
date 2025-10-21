@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS125-48LP
+slug: cisco-meraki-ms125-48lp
+part_number: MS125-48LP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS125_Overview_and_Specifications
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

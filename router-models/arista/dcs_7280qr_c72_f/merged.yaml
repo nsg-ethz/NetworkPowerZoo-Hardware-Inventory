@@ -1,0 +1,34 @@
+manufacturer: Arista
+series: null
+model: DCS-7280QR-C72-F
+slug: arista-dcs-7280qr-c72-f
+part_number: DCS-7280QR-C72-F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7280R-DataSheet.pdf
+datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7280R_Datasheet.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 6.4
+  unit: Tbps
+max_power_draw:
+  value: 1200.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 50% load on
+    all ports
+typical_power_draw:
+  value: 696.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1900.0
+    unit: W
+    description: 1900W AC and 1900W DC options available
+  part_number: null

@@ -1,0 +1,33 @@
+manufacturer: Cisco
+series: Nexus 9000 Series Switches
+model: Nexus 93128TX
+slug: cisco-n9k-c93128tx
+part_number: N9K-C93128TX
+u_height: 3
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-729404.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-729404.pdf
+release_date: '2013-11-05'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 15.36
+  unit: Tbps
+max_power_draw:
+  value: 22.0
+  unit: W
+  description: per 100-Gigabit Ethernet port
+typical_power_draw:
+  value: 3.5
+  unit: W
+  description: per 10-Gigabit Ethernet port
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2 and 10
+  efficiency_rating: Platinum
+  power_rating:
+    value: 3150.0
+    unit: W
+    description: 3150W HV AC/DC power supply with two inputs, each providing up to
+      3150W
+  part_number: null

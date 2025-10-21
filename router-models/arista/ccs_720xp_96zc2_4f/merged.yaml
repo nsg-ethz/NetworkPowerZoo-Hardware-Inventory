@@ -1,0 +1,36 @@
+manufacturer: Arista
+series: null
+model: CCS-720XP-96ZC2-4F
+slug: arista-ccs-720xp-96zc2-4f
+part_number: CCS-720XP-96ZC2-4F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720XP-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/products/transceivers-cables
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 2240.0
+  unit: Gbps
+max_power_draw:
+  value: 236.0
+  unit: W
+  description: excluding PoE
+typical_power_draw:
+  value: 216.0
+  unit: W
+  description: excluding PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 1727.0
+  unit: W
+  description: Default Available PoE Power
+psu:
+  number_of_modules: 4
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Maximum power supply rating. Other options include 650W, 1050W, and
+      500W DC.
+  part_number: PWR-2021-AC-RED

@@ -1,0 +1,9 @@
+datasheet_pdf: https://www.juniper.net/us/en/products/switches/qfx-series/qfx5200-switch-datasheet.html
+max_throughput:
+  value: 6.4
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

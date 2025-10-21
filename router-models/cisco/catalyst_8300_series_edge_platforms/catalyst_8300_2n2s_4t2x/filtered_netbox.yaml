@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 8300-2N2S-4T2X
+slug: cisco-c8300-2n2s-4t2x
+part_number: C8300-2N2S-4T2X
+u_height: 2
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

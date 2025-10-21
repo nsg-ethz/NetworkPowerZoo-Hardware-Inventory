@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Catalyst 4500-X Series Switches
+model: Catalyst C4500X-32SFP+
+slug: cisco-catalyst-c4500x-32sfpp
+part_number: WS-C4500X-32SFP+
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/data_sheet_c78-696791.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-4500-x-series-switches/data_sheet_c78-696791.pdf
+release_date: '2012-01-23'
+end_of_sale: '2020-10-30'
+end_of_support: '2025-10-31'
+max_throughput:
+  value: 800.0
+  unit: Gbps
+max_power_draw:
+  value: 400.0
+  unit: W
+  description: max
+typical_power_draw:
+  value: 330.0
+  unit: W
+  description: nominal
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 750.0
+    unit: W
+    description: null
+  part_number: C4KX-PWR-750AC-R

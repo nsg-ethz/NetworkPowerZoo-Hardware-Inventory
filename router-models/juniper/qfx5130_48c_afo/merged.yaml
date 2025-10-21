@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: QFX5130-48C-AFO
+slug: juniper-qfx5130-48c-afo
+part_number: QFX5130-48C-AFO
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5130-line-of-switches-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/qfx5130/qfx5130.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 16.0
+  unit: Tbps
+max_power_draw:
+  value: 609.0
+  unit: W
+  description: Max power draw for QFX5130-48C at 220-240 V AC
+typical_power_draw:
+  value: 219.0
+  unit: W
+  description: Typical power draw for QFX5130-48C at 220-240 V AC
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: null
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: 1600 W AC/DC power supplies
+  part_number: null

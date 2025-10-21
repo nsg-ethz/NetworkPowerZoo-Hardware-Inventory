@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firepower-management-center/datasheet-c78-736775.html
+max_throughput:
+  value: 600.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 770.0
+  unit: W
+  description: Maximum power consumption for FMC 4600
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 770.0
+    unit: W
+    description: Maximum power supply rating for FMC 4600
+  number_of_modules: 2
+  part_number: null

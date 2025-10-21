@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: ACX7100-48L-DC-AO
+slug: juniper-acx7100-48l-dc-ao
+part_number: ACX7100-48L-DC-AO
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/us/en/hardware/acx7100-48L/topics/topic-map/acx7100-48L-system-overview.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: CCS-720XP-96ZC2-2F
+slug: arista-ccs-720xp-96zc2-2f
+part_number: CCS-720XP-96ZC2-2F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720XP-Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

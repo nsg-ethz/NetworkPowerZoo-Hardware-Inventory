@@ -1,0 +1,12 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.pdf
+max_throughput:
+  value: 12.8
+  unit: Tbps
+typical_power_draw:
+  value: 575.0
+  unit: W
+  description: Typical system power at 12.8 Tbps
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

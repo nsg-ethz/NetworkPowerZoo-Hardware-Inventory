@@ -1,0 +1,23 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.pdf
+max_throughput:
+  value: 1920.0
+  unit: Gbps
+typical_power_draw:
+  value: 660.0
+  unit: W
+  description: Typical operating power for Cisco Nexus 5596UP
+max_power_draw:
+  value: 972.0
+  unit: W
+  description: Maximum power with Layer 3 expansion module for Cisco Nexus 5596UP
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: Cisco Nexus 5596UP PSU Front-to-Back Airflow module spare, A/C, 100-240V,
+      1100W
+  number_of_modules: 2
+  part_number: N55-PAC-1100W

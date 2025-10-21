@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Meraki MX Series
+model: Meraki MX67
+slug: cisco-meraki-mx67
+part_number: MX67
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX67_and_MX68_Datasheet
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/1561/pdf/MX67%2band%2bMX68%2bDatasheet.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 700.0
+  unit: Mbps
+max_power_draw:
+  value: 14.0
+  unit: W
+  description: Maximum power load
+typical_power_draw:
+  value: 5.0
+  unit: W
+  description: Idle power load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating:
+    value: 18.0
+    unit: W
+    description: null
+  part_number: MA-PWR-30WAC

@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.arista.com/assets/data/pdf/DCS-7130-16G3S-R.pdf
+max_throughput:
+  value: 11.3
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 190.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: AC or DC power supply options available
+  number_of_modules: 2
+  part_number: PWR-500

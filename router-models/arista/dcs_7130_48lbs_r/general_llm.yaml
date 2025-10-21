@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7130LS_Series_Datasheet.pdf
+max_throughput:
+  value: 11.3
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 190.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1900.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-1900DC

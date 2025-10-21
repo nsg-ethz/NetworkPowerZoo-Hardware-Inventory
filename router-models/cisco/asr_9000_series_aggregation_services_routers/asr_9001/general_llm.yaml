@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9001-router/data_sheet_c78-685687.pdf
+max_throughput:
+  value: 120.0
+  unit: Gbps
+typical_power_draw:
+  value: 425.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 525.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 750.0
+    unit: W
+    description: The power supply part numbers are A9K-750W-AC and A9K-750W-DC.
+  number_of_modules: 2
+  part_number: null

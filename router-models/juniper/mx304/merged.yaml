@@ -1,0 +1,29 @@
+manufacturer: Juniper
+series: null
+model: MX304
+slug: juniper-mx304-base
+part_number: MX304-BASE
+u_height: 2
+datasheet_url: https://www.juniper.net/us/en/products/routers/mx-series/mx304-universal-routing-platform-datasheet.html
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/routers/mx304-universal-routing-platform-datasheet.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 4.8
+  unit: Tbps
+max_power_draw: null
+typical_power_draw:
+  value: 0.3
+  unit: W/Gb
+  description: Power consumption efficiency
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1 and 2
+  efficiency_rating: null
+  power_rating:
+    value: 2200.0
+    unit: W
+    description: null
+  part_number: JNP-PWR2200-AC

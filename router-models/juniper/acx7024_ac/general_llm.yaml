@@ -1,0 +1,20 @@
+datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/routers/acx7024-acx7024x-cloud-metro-routers-datasheet.pdf
+max_throughput:
+  value: 360.0
+  unit: Gbps
+typical_power_draw:
+  value: 97.0
+  unit: W
+  description: "Typical power consumption measured at 25\xBA C ambient with 50% load\
+    \ on all ports"
+max_power_draw:
+  value: 150.0
+  unit: W
+  description: Maximum power draw without optics
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 2
+  part_number: null

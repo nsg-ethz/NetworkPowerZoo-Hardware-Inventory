@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: Meraki MX Series
+model: Meraki MX105
+slug: cisco-meraki-mx105
+part_number: MX105
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX95%2F%2F105_Datasheet
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/5621/pdf/MX95%252F105%2bDatasheet.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 3.0
+  unit: Gbps
+max_power_draw:
+  value: 123.0
+  unit: W
+  description: Power load at max
+typical_power_draw:
+  value: 53.0
+  unit: W
+  description: Power load at idle
+is_poe_capable: true
+max_poe_draw:
+  value: 2.5
+  unit: Gbps
+  description: 1x RJ45 / 2.5 Gigabit Ethernet port (WAN) with PoE+ capabilities
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 150.0
+    unit: W
+    description: null
+  part_number: MA-PWR-150 W AC

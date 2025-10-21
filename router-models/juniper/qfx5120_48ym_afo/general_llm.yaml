@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/us/en/products.html
+max_throughput:
+  value: 4.0
+  unit: Tbps
+typical_power_draw:
+  value: 310.0
+  unit: W
+  description: Typical power draw without MACsec
+max_power_draw:
+  value: 446.0
+  unit: W
+  description: Max power draw without MACsec
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 850.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: JPSU-850W-AC-AFO

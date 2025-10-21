@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: ASA 5500 Series Adaptive Security Appliances
+model: ASA5520
+slug: cisco-asa5520-k8
+part_number: ASA5520-K8
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/data_sheet_c78-345385.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/data_sheet_c78-345385.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 450.0
+  unit: Mbps
+max_power_draw:
+  value: 190.0
+  unit: W
+  description: Maximum peak power consumption
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: iec-60320-c14

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: UCS-C220-M5SX
+slug: cisco-ucs-c220-m5sx
+part_number: UCSC-C220-M5SX
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/datasheet-c78-739281.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

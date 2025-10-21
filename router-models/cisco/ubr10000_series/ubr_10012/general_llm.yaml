@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/video/ubr10000-series-universal-broadband-routers/product_data_sheet09186a00801ed384.pdf
+max_throughput:
+  value: 1.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw:
+  value: 3300.0
+  unit: W
+  description: Maximum power consumption with 230 VAC or DC input voltage
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 3300.0
+    unit: W
+    description: Maximum power consumption with 230 VAC or DC input voltage
+  number_of_modules: 2
+  part_number: null

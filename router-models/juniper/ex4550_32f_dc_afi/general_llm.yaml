@@ -1,0 +1,24 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex4550.html
+max_throughput:
+  value: 480.0
+  unit: Gbps
+typical_power_draw:
+  value: 175.0
+  unit: W
+  description: EX4550-32F with no expansion modules installed; 32 SFP+ USR ports in
+    base, all ports forwarding (line rate)
+max_power_draw:
+  value: 215.0
+  unit: W
+  description: EX4550-32F with two expansion modules (8 x 10GbE SFP+ ports) installed;
+    32 USR ports in base, all ports forwarding (line rate)
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 650.0
+    unit: W
+    description: 650 W DC PS, PSU side to port side airflow
+  number_of_modules: 1
+  part_number: JPSU-650W-DC-AFI

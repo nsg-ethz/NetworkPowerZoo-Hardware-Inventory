@@ -1,0 +1,25 @@
+datasheet_pdf: http://www.cisco.com/en/US/products/hwithrouters/
+max_throughput:
+  value: 1.6
+  unit: Gbps
+typical_power_draw:
+  value: 170.0
+  unit: W
+  description: 580 BTU/hr
+max_power_draw:
+  value: 240.0
+  unit: W
+  description: 819 BTU/hr
+is_poe_capable: true
+max_poe_draw:
+  value: 360.0
+  unit: W
+  description: 1128 BTU/hr
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 280.0
+    unit: W
+    description: 955 BTU/hr
+  number_of_modules: 1
+  part_number: null

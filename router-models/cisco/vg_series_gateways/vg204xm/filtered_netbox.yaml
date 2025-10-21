@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: VG204XM
+slug: cisco-vg204xm
+part_number: VG204XM
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/unified-communications/vg-series-gateways/product_data_sheet09186a00801d87f6.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 30
+  part_number: iec-60320-c14

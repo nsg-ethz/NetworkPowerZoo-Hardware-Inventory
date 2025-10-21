@@ -1,0 +1,23 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 52.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+max_power_draw:
+  value: 65.0
+  unit: W
+  description: Maximum power draw
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 75.0
+    unit: W
+    description: Power Supply Model for 7010T-48 DC
+  number_of_modules: 2
+  part_number: null

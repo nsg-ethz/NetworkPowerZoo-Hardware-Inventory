@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 3650-24PD-L
+slug: cisco-ws-c3650-24pd-l
+part_number: WS-C3650-24PD-L
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3650-series-switches/datasheet-c78-729449.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

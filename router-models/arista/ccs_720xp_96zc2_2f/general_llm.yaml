@@ -1,0 +1,25 @@
+datasheet_pdf: http://www.arista.com/en/products/ccs-720xp-campus-switches
+max_throughput:
+  value: 1160.0
+  unit: Gbps
+typical_power_draw:
+  value: 216.0
+  unit: W
+  description: Typical 20% traffic @24C
+max_power_draw:
+  value: 236.0
+  unit: W
+  description: Max 100% traffic @46C
+is_poe_capable: true
+max_poe_draw:
+  value: 1707.0
+  unit: W
+  description: Default Available PoE Power
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: Maximum power rating for PWR-2021-AC-RED
+  number_of_modules: 4
+  part_number: PWR-2021-AC-RED

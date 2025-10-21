@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: ASR-9902
+slug: cisco-asr-9902
+part_number: ASR-9902
+u_height: 2.0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744663.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

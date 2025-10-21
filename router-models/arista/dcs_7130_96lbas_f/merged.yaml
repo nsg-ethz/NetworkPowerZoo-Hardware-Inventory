@@ -1,0 +1,26 @@
+manufacturer: Arista
+series: null
+model: DCS-7130-96LBAS-F
+slug: arista-dcs-7130-96lbas-f
+part_number: DCS-7130-96LBAS-F
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7130LS-Series-Data-Sheet.pdf
+datasheet_pdf: https://www.arista.com/assets/data/pdf/DCS-7130-96LBAS.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 11.3
+  unit: Gbps
+max_power_draw:
+  value: 388.0
+  unit: W
+  description: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating: '388 and {''value'': 1900.0, ''unit'': ''W'', ''description'': None}'
+  part_number: PWR-1900DC

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS250-48LP
+slug: cisco-meraki-ms250-48lp
+part_number: MS250-48LP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS250_Overview_and_Specifications
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

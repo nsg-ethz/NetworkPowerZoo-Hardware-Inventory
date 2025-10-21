@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: DCS-7160-48YC6-R
+slug: arista-dcs-7160-48yc6-r
+part_number: DCS-7160-48YC6-R
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7160-Datasheet.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 70.0
+  unit: Gbps
+typical_power_draw:
+  value: 24.7
+  unit: W
+  description: Measured with 64 byte packets
+max_power_draw:
+  value: 25.9
+  unit: W
+  description: Measured with 64 byte packets
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 80.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: null

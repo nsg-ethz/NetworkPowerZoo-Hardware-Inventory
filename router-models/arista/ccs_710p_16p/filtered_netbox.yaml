@@ -1,0 +1,11 @@
+manufacturer: Arista
+model: CCS-710P-16P
+slug: arista-ccs-710p-16p
+part_number: CCS-710P-16P
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-710P-Datasheet.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 280
+  part_number: dc-terminal

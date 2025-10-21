@@ -1,0 +1,29 @@
+manufacturer: Arista
+series: null
+model: DCS-7135LB-48Y4C-F
+slug: arista-dcs-7135lb-48y4c-f
+part_number: DCS-7135LB-48Y4C-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7135LB-Datasheet.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 25.8
+  unit: Gbps
+max_power_draw:
+  value: 1000.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 667.0
+  unit: W
+  description: Typical power draw depends on FPGA application configuration
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating: '1000 and {''value'': 1500.0, ''unit'': ''W'', ''description'': None}'
+  part_number: PWR-1511-AC or PWR-1511-DC or PWR-1512-AC

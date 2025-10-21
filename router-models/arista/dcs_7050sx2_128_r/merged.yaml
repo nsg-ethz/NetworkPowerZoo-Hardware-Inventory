@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7050SX2-128-R
+slug: arista-dcs-7050sx2-128-r
+part_number: DCS-7050SX2-128-R
+u_height: 2
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7050SX-128_64_Datasheet_S.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 2.56
+  unit: Tbps
+max_power_draw:
+  value: 396.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 214.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 750.0
+    unit: W
+    description: Spare 750 Watt AC power supply for Arista 7050SX-128 2RU Switches
+  part_number: PWR-750AC

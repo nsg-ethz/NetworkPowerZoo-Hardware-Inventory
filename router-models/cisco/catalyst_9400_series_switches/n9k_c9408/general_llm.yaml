@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/nexus9400-series-switches-ds.pdf
+max_throughput:
+  value: 25.6
+  unit: Tbps
+typical_power_draw:
+  value: 760.0
+  unit: W
+  description: N9K-C9400-SW-GX2A
+max_power_draw:
+  value: 990.0
+  unit: W
+  description: N9K-C9400-SW-GX2A
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 2000.0
+    unit: W
+    description: null
+  number_of_modules: 4
+  part_number: NXA-PAC-2KW-PI

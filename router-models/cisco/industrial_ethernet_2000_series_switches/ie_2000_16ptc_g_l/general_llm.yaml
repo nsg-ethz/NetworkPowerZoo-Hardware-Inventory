@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-2000-series-switches/datasheet-c78-730729.pdf
+max_throughput:
+  value: 7.6
+  unit: Gbps
+typical_power_draw:
+  value: 21.0
+  unit: W
+  description: 16-port downlink models
+max_power_draw:
+  value: 30.0
+  unit: W
+  description: 16-port downlink models
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: 16-port PoE/PoE+ models
+psu: null

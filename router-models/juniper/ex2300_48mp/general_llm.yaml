@@ -1,0 +1,18 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2300.html
+max_throughput:
+  value: 264.0
+  unit: Gbps
+typical_power_draw:
+  value: 90.0
+  unit: W
+  description: EX2300-48MP typical power consumption without PoE
+max_power_draw:
+  value: 750.0
+  unit: W
+  description: Total PoE power budget for EX2300-48MP
+is_poe_capable: true
+max_poe_draw:
+  value: 750.0
+  unit: W
+  description: Total PoE power budget for EX2300-48MP
+psu: null

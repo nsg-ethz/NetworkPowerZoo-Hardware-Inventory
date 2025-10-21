@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: EX2200-24T-4G
+slug: juniper-ex2200-24t-4g
+part_number: null
+u_height: 1
+datasheet_url: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2200/ex2200.pdf
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 100
+  part_number: iec-60320-c14

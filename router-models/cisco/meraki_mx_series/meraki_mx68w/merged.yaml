@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: Meraki MX Series
+model: Meraki MX68W
+slug: cisco-meraki-mx68w
+part_number: MX68W
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX67_and_MX68_Datasheet
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/1561/pdf/MX67%2band%2bMX68%2bDatasheet.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 700.0
+  unit: Mbps
+max_power_draw:
+  value: 87.0
+  unit: W
+  description: Maximum power load for MX68W
+typical_power_draw:
+  value: 19.0
+  unit: W
+  description: Idle power load for MX68W
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: 2x GbE RJ45 LAN Ports with PoE+ capability
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating:
+    value: 100.0
+    unit: W
+    description: null
+  part_number: MA-PWR-100WAC

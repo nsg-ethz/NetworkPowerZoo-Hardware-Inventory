@@ -1,0 +1,11 @@
+manufacturer: Juniper
+model: MX960
+slug: juniper-mx960
+part_number: null
+u_height: 16
+datasheet_url: https://www.juniper.net/us/en/products-services/routing/mx-series/mx960/
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

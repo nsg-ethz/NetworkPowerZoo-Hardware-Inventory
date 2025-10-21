@@ -1,0 +1,27 @@
+manufacturer: Arista
+series: null
+model: DCS-7130-48LS-F
+slug: arista-dcs-7130-48ls-f
+part_number: DCS-7130-48LS-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7130LS-Series-Data-Sheet.pdf
+datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7130LS_Series_Datasheet.pdf
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 11.3
+  unit: Gbps
+max_power_draw:
+  value: 190.0
+  unit: W
+  description: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating: '190 and {''value'': 1900.0, ''unit'': ''W'', ''description'': ''Includes
+    PWR-500 (AC or DC) and PWR-747AC options''}'
+  part_number: PWR-500 (AC or DC), PWR-747AC

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: SG350-28MP
+slug: cisco-sg350-28mp
+part_number: SG350-28MP-K9
+u_height: 1.0
+datasheet_url: https://www.cisco.com/c/en/us/support/switches/350-series-managed-switches/series.html
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 451
+  part_number: iec-60320-c14

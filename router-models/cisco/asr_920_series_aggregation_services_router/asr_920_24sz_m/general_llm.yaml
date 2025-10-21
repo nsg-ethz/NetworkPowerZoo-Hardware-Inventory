@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-920-series-aggregation-services-router/datasheet-c78-733397.pdf
+max_throughput:
+  value: 240.0
+  unit: Gbps
+typical_power_draw:
+  value: 110.0
+  unit: W
+  description: Typical power consumption for ASR-920-24SZ-M
+max_power_draw:
+  value: 145.0
+  unit: W
+  description: Maximum power consumption for ASR-920-24SZ-M
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 400.0
+    unit: W
+    description: Power rating for ASR 920 400W AC/DC PSU
+  number_of_modules: 2
+  part_number: null

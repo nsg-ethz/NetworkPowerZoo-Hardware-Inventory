@@ -1,9 +1,0 @@
-model_id: 'NCS-55A1-48Q6H'
-vendor: 'Cisco'
-datasheet_url: 'https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-742295.html?dtid=osscdc000283'
-release_date: # YYYY-MM-DD
-typical_power_W: 460
-typical_power_descr: 'at 25degC'
-max_power_W: 700
-max_power_descr: 'at 55degC'
-max_capacity_Tbps: 1.8

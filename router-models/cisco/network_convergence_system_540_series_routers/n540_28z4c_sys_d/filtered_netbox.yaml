@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: N540-28Z4C-SYS-D
+slug: cisco-n540-28z4c-sys-d
+part_number: N540-28Z4C-SYS-D
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-500-series-routers/datasheet-c78-740296.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 250
+  part_number: dc-terminal

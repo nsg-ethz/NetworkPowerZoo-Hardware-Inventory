@@ -1,0 +1,25 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 348.0
+  unit: Gbps
+typical_power_draw:
+  value: 67.0
+  unit: W
+  description: 20% traffic @24C
+max_power_draw:
+  value: 90.0
+  unit: W
+  description: 100% @46C
+is_poe_capable: true
+max_poe_draw:
+  value: 583.0
+  unit: W
+  description: Default Available PoE Power
+psu:
+  efficiency_rating: Gold
+  power_rating:
+    value: 1050.0
+    unit: W
+    description: Default Power Supply(ies) 1050 W, 650 W
+  number_of_modules: 2
+  part_number: PWR-1021-AC

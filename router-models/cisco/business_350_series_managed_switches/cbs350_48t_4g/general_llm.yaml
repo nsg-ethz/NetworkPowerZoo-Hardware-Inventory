@@ -1,0 +1,12 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/business-350-series-managed-switches/datasheet-c78-744156.pdf
+max_throughput:
+  value: 104.0
+  unit: Gbps
+typical_power_draw:
+  value: 48.27
+  unit: W
+  description: 110V typical power consumption
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

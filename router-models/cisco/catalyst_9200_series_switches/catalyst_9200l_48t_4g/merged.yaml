@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: Catalyst 9200 Series Switches
+model: Catalyst 9200L-48T-4G
+slug: cisco-c9200l-48t-4g
+part_number: C9200L-48T-4G
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
+release_date: '2018-11-13'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 104.0
+  unit: Gbps
+max_power_draw:
+  value: 40.34
+  unit: W
+  description: Measured at 115VAC with 100% traffic
+typical_power_draw:
+  value: 33.85
+  unit: W
+  description: Measured at 115VAC with 0.01%/EEE traffic
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: '125 and {''value'': 125.0, ''unit'': ''W'', ''description'': None}'
+  part_number: iec-60320-c14 and PWR-C5-125WAC

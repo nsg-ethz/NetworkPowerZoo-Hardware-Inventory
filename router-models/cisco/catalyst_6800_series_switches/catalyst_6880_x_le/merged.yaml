@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Catalyst 6800 Series Switches
+model: Catalyst 6880-X-LE
+slug: cisco-c6880-x-le
+part_number: C6880-X-LE
+u_height: 5
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6880-x-switch/data_sheet_c78-728228.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6880-x-switch/data_sheet_c78-728228.pdf
+release_date: '2013-06-21'
+end_of_sale: '2022-04-30'
+end_of_support: '2027-04-30'
+max_throughput:
+  value: 2.0
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 3000.0
+    unit: W
+    description: 'AC: 3000W, DC: 3000W'
+  part_number: null

@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/srx-series/srx100.html
+max_throughput:
+  value: 700.0
+  unit: Mbps
+typical_power_draw:
+  value: 10.0
+  unit: W
+  description: Average power consumption for both Low and High Memory models
+max_power_draw:
+  value: 21.5
+  unit: W
+  description: Maximum thermal output for both Low and High Memory models
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 30.0
+    unit: W
+    description: Power supply adapter rating
+  number_of_modules: 1
+  part_number: null

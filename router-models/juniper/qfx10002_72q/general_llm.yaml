@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/qfx10000/qfx10002.pdf
+max_throughput:
+  value: 5.76
+  unit: Tbps
+typical_power_draw:
+  value: 1050.0
+  unit: W
+  description: Typical power draw for QFX10002-72Q
+max_power_draw:
+  value: 1425.0
+  unit: W
+  description: Maximum power draw for QFX10002-72Q
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 1600.0
+    unit: W
+    description: null
+  number_of_modules: 4
+  part_number: JPSU-1600W-AC-AFO

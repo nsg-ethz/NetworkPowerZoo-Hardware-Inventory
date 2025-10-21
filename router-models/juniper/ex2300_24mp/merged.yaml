@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: EX2300-24MP
+slug: juniper-ex2300-24mp
+part_number: EX2300-24MP
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex2300-ethernet-switch-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2300.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 132.0
+  unit: Gbps
+max_power_draw:
+  value: 90.0
+  unit: W
+  description: Max. System Power Consumption (Input Power without PoE)
+typical_power_draw:
+  value: 55.0
+  unit: W
+  description: Max. System Power Consumption (Input Power without PoE)
+is_poe_capable: true
+max_poe_draw:
+  value: 750.0
+  unit: W
+  description: Total PoE Power Budget
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 380
+  part_number: iec-60320-c14

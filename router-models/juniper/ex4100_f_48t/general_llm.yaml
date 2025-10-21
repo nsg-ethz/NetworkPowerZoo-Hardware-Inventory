@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.juniper.net/documentation/us/en/software/license/licensing/topics/concept/flex-licenses-for-ex.html
+max_throughput:
+  value: 256.0
+  unit: Gbps
+typical_power_draw:
+  value: 70.0
+  unit: W
+  description: Max System Power Consumption (Input Power without PoE)
+max_power_draw:
+  value: 70.0
+  unit: W
+  description: Max System Power Consumption (Input Power without PoE)
+is_poe_capable: false
+max_poe_draw: null
+psu: null

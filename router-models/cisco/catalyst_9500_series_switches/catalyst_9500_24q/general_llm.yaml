@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9500-series-switches/nb-06-cat9500-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 1920.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 950.0
+    unit: W
+    description: PWR-C4-950WAC-R and PWR-C4-950WDC-R are the power supplies for C9500-24Q.
+  number_of_modules: 2
+  part_number: PWR-C4-950WAC-R

@@ -1,0 +1,24 @@
+datasheet_pdf: http://www.arista.com/en/service
+max_throughput:
+  value: 1.04
+  unit: Tbps
+typical_power_draw:
+  value: 191.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+max_power_draw:
+  value: 450.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 100% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 460.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-460AC-F

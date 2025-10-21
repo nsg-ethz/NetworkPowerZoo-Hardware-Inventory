@@ -1,0 +1,32 @@
+manufacturer: Juniper
+series: null
+model: EX2300-48MP
+slug: juniper-ex2300-48mp
+part_number: EX2300-48MP
+u_height: 1
+datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex2300-ethernet-switch-datasheet.pdf
+datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2300.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 264.0
+  unit: Gbps
+max_power_draw:
+  value: 750.0
+  unit: W
+  description: Total PoE power budget for EX2300-48MP
+typical_power_draw:
+  value: 90.0
+  unit: W
+  description: EX2300-48MP typical power consumption without PoE
+is_poe_capable: true
+max_poe_draw:
+  value: 750.0
+  unit: W
+  description: Total PoE power budget for EX2300-48MP
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 750
+  part_number: iec-60320-c14

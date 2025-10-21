@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MX84
+slug: cisco-meraki-mx84
+part_number: MX84
+u_height: 1
+datasheet_url: https://meraki.cisco.com/product-collateral/mx84-datasheet/?file
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

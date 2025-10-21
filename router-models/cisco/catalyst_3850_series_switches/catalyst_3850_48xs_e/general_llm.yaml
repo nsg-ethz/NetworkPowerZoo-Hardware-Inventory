@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3850-series-switches/datasheet_c78-720918.pdf
+max_throughput:
+  value: 1280.0
+  unit: Gbps
+typical_power_draw:
+  value: 270.1
+  unit: W
+  description: Weighted average power consumption for WS-C3850-48XS-E
+max_power_draw:
+  value: 288.1
+  unit: W
+  description: 100% traffic power consumption for WS-C3850-48XS-E
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 750.0
+    unit: W
+    description: 750WAC power supply for WS-C3850-48XS-E
+  number_of_modules: 2
+  part_number: PWR-C3-750WAC-R

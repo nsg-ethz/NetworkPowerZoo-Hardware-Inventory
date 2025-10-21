@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MX67C
+slug: cisco-meraki-mx67c
+part_number: MX67C
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX67_and_MX68_Datasheet
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

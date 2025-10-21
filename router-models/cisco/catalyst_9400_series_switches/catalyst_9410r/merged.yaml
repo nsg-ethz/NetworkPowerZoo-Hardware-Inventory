@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: Catalyst 9400 Series Switches
+model: Catalyst 9410R
+slug: cisco-catalyst-9410r
+part_number: C9410R
+u_height: 13
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-ser-data-sheet-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-ser-data-sheet-cte-en.pdf
+release_date: '2017-06-20'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 9.0
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 4320.0
+  unit: W
+  description: Maximum PoE per slot
+psu:
+  number_of_modules: 8 and 4
+  efficiency_rating: Platinum
+  power_rating:
+    value: 3200.0
+    unit: W
+    description: 3200W AC, 2100W AC, 3200W DC are supported
+  part_number: null

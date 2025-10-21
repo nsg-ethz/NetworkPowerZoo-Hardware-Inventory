@@ -1,30 +1,48 @@
 # Network Power Zoo Hardware Inventory
 
-Welcome to the **PowerDB_Datasheets** repository, an open-source project dedicated to collecting and maintaining detailed information about the power consumption of various network devices, including routers and transceivers. This repository is a part of the larger **Network Power Zoo** project, contributing data to the **NetPowerDB** database, which is accessible via an API.
+This repository contains structured data for router models. The data was aggregated from [NetBox Device Type Library](https://github.com/netbox-community/devicetype-library/tree/master), LLM prompting, and manual curation.
 
-> **Note:** Throughout this repository, the term "router" is used broadly to include both routers and switches.
+## Router Model Data
 
-## Repository Structure
+This repository is structured as follows:
 
-The repository is organized as follows:
+```
+router-models/
+├── arista
+│   └── <router_model_name>
+├── cisco
+│   └── <series_name>
+│       └── <router_model_name>
+└── juniper
+    └── <router_model_name>
+```
 
-- **router-vendors/**  
-  This directory contains subfolders for different router vendors. Each subfolder includes YAML files that contain power consumption data for specific router models. The filename of each YAML file corresponds to the `model_id` of the router.
+Every router model contains the following files:
 
-- **transceiver-vendors/**  
-  Similar to `router-vendors/`, this directory is structured with subfolders for different transceiver vendors. Each subfolder includes YAML files with power consumption data for specific transceiver models. The filename of each YAML file corresponds to the `model_id` of the transceiver.
+```
+filtered_netbox.yaml      # Data extracted from NetBox Device Type Library
+general_llm.yaml          # Data extracted from Datasheet via LLM prompting
+manual.yaml               # Exists if data has been manually checked. Contains manual corrections (if there are any)
+```
 
-- **Templates:**
+For Cisco routers, the `cisco/<series_name>/` folder contains series-level information. Whenever there are multiple models in a series, there is a `cisco/<series_name>/<router_model_name>` folder for each model. Additionally, every Cisco related router model contains the following file:
 
-  - **router-template.yml**  
-    This template file outlines the required structure and data types for router information. Contributors should use this template to ensure that their data submissions are correctly formatted.
-  - **transceiver-template.yml**  
-    This template file provides the structure and data types for transceiver information. Contributors should follow this template when adding new data.
+```
+date_llm.yaml             # Date information extracted from Cisco Datasheets via LLM prompting
+series.yaml               # Series information extracted manually
+```
 
-- **LICENSE**  
-  The repository is licensed under the CC0-1.0 license, making it free for public use.
+Finally, every router model folder contains all data from all available sources:
+
+```
+merged.yaml               # Merged data from all sources, manual overrides others
+```
+
+You can download all available router models in a single csv file here.
 
 ## How to Contribute
+
+The repository is licensed under the CC0-1.0 license, making it free for public use.
 
 We welcome contributions to expand and improve the data in this repository. Here’s how you can contribute:
 

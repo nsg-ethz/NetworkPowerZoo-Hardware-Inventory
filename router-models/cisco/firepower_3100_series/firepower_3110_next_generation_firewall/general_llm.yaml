@@ -1,0 +1,16 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.pdf
+max_throughput:
+  value: 18.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 400.0
+    unit: W
+    description: Single 400W AC, Dual 400W AC optional. Single/Dual 400W DC optional
+  number_of_modules: 2
+  part_number: null

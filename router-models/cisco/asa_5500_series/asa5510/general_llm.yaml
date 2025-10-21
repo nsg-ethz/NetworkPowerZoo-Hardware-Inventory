@@ -1,0 +1,15 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/security/asa-5500-series-next-generation-firewalls/data_sheet_c78-345385.pdf
+max_throughput:
+  value: 300.0
+  unit: Mbps
+typical_power_draw:
+  value: 20.0
+  unit: W
+  description: Steady state
+max_power_draw:
+  value: 96.0
+  unit: W
+  description: Maximum peak
+is_poe_capable: false
+max_poe_draw: null
+psu: null

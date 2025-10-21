@@ -1,0 +1,18 @@
+datasheet_pdf: https://meraki.cisco.com/lib/pdf/meraki_datasheet_sfp.pdf
+max_throughput:
+  value: 20.0
+  unit: Gbps
+typical_power_draw:
+  value: 13.0
+  unit: W
+  description: Idle power consumption
+max_power_draw:
+  value: 159.0
+  unit: W
+  description: Full load power consumption
+is_poe_capable: true
+max_poe_draw:
+  value: 124.0
+  unit: W
+  description: null
+psu: null

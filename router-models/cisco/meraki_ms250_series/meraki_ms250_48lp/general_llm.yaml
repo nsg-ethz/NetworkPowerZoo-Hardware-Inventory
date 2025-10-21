@@ -1,0 +1,25 @@
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/954/pdf/MS250%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 46.0
+  unit: W
+  description: Power Load (idle)
+max_power_draw:
+  value: 480.0
+  unit: W
+  description: Power Load (max)
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: PoE/PoE+ Capable
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 640.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: null

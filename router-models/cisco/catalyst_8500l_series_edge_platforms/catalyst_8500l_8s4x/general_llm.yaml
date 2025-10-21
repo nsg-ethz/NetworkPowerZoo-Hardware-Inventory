@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.pdf
+max_throughput:
+  value: 39.0
+  unit: Gbps
+typical_power_draw:
+  value: 64.0
+  unit: dBA
+  description: Typical sound power
+max_power_draw:
+  value: 82.0
+  unit: dBA
+  description: Maximum sound power
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Silver
+  power_rating:
+    value: 424.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-CH1-400WAC

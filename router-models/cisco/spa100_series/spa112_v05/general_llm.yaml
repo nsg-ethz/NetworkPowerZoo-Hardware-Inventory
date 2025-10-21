@@ -1,0 +1,17 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/unified-communications/small-business-voice-gateways-ata/datasheet_C78-691107.pdf
+max_throughput: null
+typical_power_draw: null
+max_power_draw:
+  value: 5.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 10.0
+    unit: W
+    description: 5V DC at 2.0A maximum
+  number_of_modules: 1
+  part_number: null

@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 9120AXI-K
+slug: cisco-c9120axi-k
+part_number: C9120AXI-K
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9120ax-series-access-points/datasheet-c78-742115.html
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

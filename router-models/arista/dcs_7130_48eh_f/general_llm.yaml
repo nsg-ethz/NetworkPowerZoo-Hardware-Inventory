@@ -1,0 +1,9 @@
+datasheet_pdf: https://www.arista.com/assets/data/pdf/DCS-7130-48EH-F.pdf
+max_throughput:
+  value: 10.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu: null

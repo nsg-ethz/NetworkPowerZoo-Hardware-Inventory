@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Catalyst 8500L-8S4X
+slug: cisco-c8500l-8s4x
+part_number: C8500L-8S4X
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.html
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

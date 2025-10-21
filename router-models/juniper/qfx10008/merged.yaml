@@ -1,0 +1,23 @@
+manufacturer: Juniper
+series: null
+model: QFX10008
+slug: juniper-qfx10008
+part_number: front-to-rear
+u_height: 13.0
+datasheet_url: https://www.juniper.net/us/en/products/switches/qfx-series/qfx10000-qfx10008-qfx10016-spine-and-core-switches.html/
+datasheet_pdf: https://www.juniper.net/us/en/products/switches/qfx-series/qfx10000-modular-ethernet-switches-datasheet.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 96.0
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

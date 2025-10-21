@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Catalyst 1000 Series Switches
+model: Catalyst 1000-16P-2G-L
+slug: cisco-c1000-16p-2g-l
+part_number: C1000-16P-2G-L
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.pdf
+release_date: '2019-11-04'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 36.0
+  unit: Gbps
+max_power_draw:
+  value: 16.68
+  unit: W
+  description: 100% traffic
+typical_power_draw:
+  value: 15.88
+  unit: W
+  description: Weighted average
+is_poe_capable: true
+max_poe_draw:
+  value: 120.0
+  unit: W
+  description: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 190
+  part_number: iec-60320-c14

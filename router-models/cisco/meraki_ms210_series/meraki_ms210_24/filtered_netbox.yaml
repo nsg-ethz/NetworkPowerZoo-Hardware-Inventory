@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: Meraki MS210-24
+slug: cisco-meraki-ms210-24
+part_number: MS210-24-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS210_Overview_and_Specifications
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: 24
+  part_number: dc-terminal

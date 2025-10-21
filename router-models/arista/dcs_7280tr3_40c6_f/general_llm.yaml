@@ -1,0 +1,24 @@
+datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
+max_throughput:
+  value: 800.0
+  unit: Gbps
+typical_power_draw:
+  value: 186.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load on
+    all ports
+max_power_draw:
+  value: 242.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 100% load on
+    all ports
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 500.0
+    unit: W
+    description: null
+  number_of_modules: 2
+  part_number: PWR-511

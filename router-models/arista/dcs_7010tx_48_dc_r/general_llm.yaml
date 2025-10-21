@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.arista.com/en/service
+max_throughput:
+  value: 296.0
+  unit: Gbps
+typical_power_draw:
+  value: 56.0
+  unit: W
+  description: Typical power consumption measured at 25C ambient with 50% load
+max_power_draw:
+  value: 75.0
+  unit: W
+  description: Maximum power consumption measured at 25C ambient with 50% load
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 75.0
+    unit: W
+    description: Maximum power consumption measured at 25C ambient with 50% load
+  number_of_modules: 2
+  part_number: null

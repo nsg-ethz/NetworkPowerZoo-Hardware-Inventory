@@ -1,0 +1,29 @@
+manufacturer: Cisco
+series: 350X Series Stackable Managed Switches
+model: SG350XG-24T
+slug: cisco-sg350xg-24t
+part_number: SG350XG-24T-K9
+u_height: 1
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/350x-series-stackable-managed-switches/datasheet-c78-735986.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/350x-series-stackable-managed-switches/datasheet-c78-735986.pdf
+release_date: '2015-06-30'
+end_of_sale: '2022-07-30'
+end_of_support: '2027-07-31'
+max_throughput:
+  value: 480.0
+  unit: Gbps
+max_power_draw:
+  value: 144.7
+  unit: W
+  description: 220V typical power consumption
+typical_power_draw:
+  value: 146.7
+  unit: W
+  description: 110V typical power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 1
+  efficiency_rating: null
+  power_rating: null
+  part_number: iec-60320-c14

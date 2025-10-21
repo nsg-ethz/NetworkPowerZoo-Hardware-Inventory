@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: N7K-C7009
+slug: cisco-n7k-c7009
+part_number: N7K-C7009
+u_height: 14
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/Data_Sheet_C78-437762.pdf
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

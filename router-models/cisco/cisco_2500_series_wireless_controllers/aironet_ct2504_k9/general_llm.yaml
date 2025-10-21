@@ -1,0 +1,16 @@
+datasheet_pdf: http://www.cisco.com/en/US/products/ps6366/index.html
+max_throughput:
+  value: 1.0
+  unit: Gbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 30.0
+  unit: W
+  description: Two PoE ports available for access points
+psu:
+  efficiency_rating: null
+  power_rating: null
+  number_of_modules: 1
+  part_number: PWR-2504-AC=

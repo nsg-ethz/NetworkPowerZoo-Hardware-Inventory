@@ -1,0 +1,19 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-ser-data-sheet-cte-en.pdf
+max_throughput:
+  value: 9.0
+  unit: Tbps
+typical_power_draw: null
+max_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 4320.0
+  unit: W
+  description: Maximum PoE per slot
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 3200.0
+    unit: W
+    description: 3200W AC, 2100W AC, 3200W DC are supported
+  number_of_modules: 4
+  part_number: null

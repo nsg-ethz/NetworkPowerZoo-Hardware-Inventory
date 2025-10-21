@@ -1,0 +1,23 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-729404.pdf
+max_throughput:
+  value: 15.36
+  unit: Tbps
+typical_power_draw:
+  value: 3.5
+  unit: W
+  description: per 10-Gigabit Ethernet port
+max_power_draw:
+  value: 22.0
+  unit: W
+  description: per 100-Gigabit Ethernet port
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: Platinum
+  power_rating:
+    value: 3150.0
+    unit: W
+    description: 3150W HV AC/DC power supply with two inputs, each providing up to
+      3150W
+  number_of_modules: 10
+  part_number: null

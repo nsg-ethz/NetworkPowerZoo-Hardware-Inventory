@@ -1,0 +1,35 @@
+manufacturer: Cisco
+series: Meraki MS250 Series
+model: Meraki MS250-48LP
+slug: cisco-meraki-ms250-48lp
+part_number: MS250-48LP-HW
+u_height: 1
+datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS250_Overview_and_Specifications
+datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/954/pdf/MS250%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 176.0
+  unit: Gbps
+max_power_draw:
+  value: 480.0
+  unit: W
+  description: Power Load (max)
+typical_power_draw:
+  value: 46.0
+  unit: W
+  description: Power Load (idle)
+is_poe_capable: true
+max_poe_draw:
+  value: 370.0
+  unit: W
+  description: PoE/PoE+ Capable
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating:
+    value: 640.0
+    unit: W
+    description: null
+  part_number: null

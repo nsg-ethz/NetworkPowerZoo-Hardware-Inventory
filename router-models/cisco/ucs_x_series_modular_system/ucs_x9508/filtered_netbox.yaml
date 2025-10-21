@@ -1,0 +1,11 @@
+manufacturer: Cisco
+model: UCS-X9508
+slug: cisco-ucs-x9508
+part_number: UCS-X9508
+u_height: 7
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-x-series-modular-system/datasheet-c78-2472574.html
+psu:
+  number_of_modules: 6
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

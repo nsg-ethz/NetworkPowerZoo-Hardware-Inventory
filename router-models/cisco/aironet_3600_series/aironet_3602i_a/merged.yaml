@@ -1,0 +1,26 @@
+manufacturer: Cisco
+series: Aironet 3600 Series
+model: Aironet 3602I-A
+slug: cisco-air-cap3602i-a-k9
+part_number: AIR-CAP3602I-A-K9
+u_height: 0
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3600-series/data_sheet_c78-686782.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-3600-series/data_sheet_c78-686782.pdf
+release_date: '2011-10-03'
+end_of_sale: '2016-12-29'
+end_of_support: '2021-12-31'
+max_throughput:
+  value: 450.0
+  unit: Mbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: true
+max_poe_draw:
+  value: 19.6
+  unit: W
+  description: 19.6W for 3600 + 802.11ac Module
+psu:
+  number_of_modules: 0
+  efficiency_rating: null
+  power_rating: null
+  part_number: null

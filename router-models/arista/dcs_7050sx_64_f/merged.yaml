@@ -1,0 +1,32 @@
+manufacturer: Arista
+series: null
+model: DCS-7050SX-64-F
+slug: arista-dcs-7050sx-64-f
+part_number: DCS-7050SX-64-F
+u_height: 1
+datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7050SX-128_64_Datasheet_S.pdf
+datasheet_pdf: http://www.arista.com/en/service
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 1.28
+  unit: Tbps
+max_power_draw:
+  value: 220.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 140.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 750.0
+    unit: W
+    description: null
+  part_number: PWR-500AC

@@ -1,0 +1,32 @@
+manufacturer: Cisco
+series: Nexus 9000 Series Switches
+model: Nexus 9332D-GX2b
+slug: cisco-n9k-c9332d-gx2b
+part_number: N9K-C9332D-GX2B
+u_height: 2
+datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742282.html
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-742282.pdf
+release_date: '2013-11-05'
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 7.2
+  unit: Tbps
+max_power_draw:
+  value: 708.0
+  unit: W
+  description: null
+typical_power_draw:
+  value: 298.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: Platinum
+  power_rating:
+    value: 1100.0
+    unit: W
+    description: null
+  part_number: NXA-PAC-1100W-PI2

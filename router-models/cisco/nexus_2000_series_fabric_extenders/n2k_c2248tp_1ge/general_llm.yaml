@@ -1,0 +1,23 @@
+datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-2000-series-fabric-extenders/data_sheet_c78-507093.pdf
+max_throughput:
+  value: 176.0
+  unit: Gbps
+typical_power_draw:
+  value: 95.0
+  unit: W
+  description: null
+max_power_draw:
+  value: 110.0
+  unit: W
+  description: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 400.0
+    unit: W
+    description: N2200-PAC-400W, N2200-PAC-400W-B, N2200-PDC-400W, and N2200-PDC-350W-B
+      are compatible power supplies.
+  number_of_modules: 2
+  part_number: N2200-PAC-400W

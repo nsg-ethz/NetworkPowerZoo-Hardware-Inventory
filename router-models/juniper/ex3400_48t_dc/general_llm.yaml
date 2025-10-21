@@ -1,0 +1,22 @@
+datasheet_pdf: https://www.juniper.net/documentation/us/en/products-services/switching/ex-series/ex3400/ex3400.pdf
+max_throughput:
+  value: 336.0
+  unit: Gbps
+typical_power_draw:
+  value: 120.0
+  unit: W
+  description: Input power without PoE
+max_power_draw:
+  value: 150.0
+  unit: W
+  description: Max system power consumption
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  efficiency_rating: null
+  power_rating:
+    value: 150.0
+    unit: W
+    description: null
+  number_of_modules: 1
+  part_number: null

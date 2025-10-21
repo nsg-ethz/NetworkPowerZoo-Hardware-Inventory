@@ -1,0 +1,23 @@
+manufacturer: Juniper
+series: null
+model: QFX5210-128C
+slug: juniper-qfx5210-128c
+part_number: null
+u_height: 1
+datasheet_url: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5200/
+datasheet_pdf: https://www.juniper.net/us/en/products/switches/qfx-series/qfx5200-switch-datasheet.html
+release_date: null
+end_of_sale: null
+end_of_support: null
+max_throughput:
+  value: 6.4
+  unit: Tbps
+max_power_draw: null
+typical_power_draw: null
+is_poe_capable: false
+max_poe_draw: null
+psu:
+  number_of_modules: 2
+  efficiency_rating: null
+  power_rating: 650
+  part_number: iec-60320-c14
