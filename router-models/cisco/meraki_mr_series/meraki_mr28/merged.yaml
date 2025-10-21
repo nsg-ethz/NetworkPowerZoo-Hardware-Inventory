@@ -5,10 +5,10 @@ slug: cisco-meraki-mr28
 part_number: MR28
 u_height: 0.0
 datasheet_url: https://meraki.cisco.com/product-collateral/mr28-datasheet/?file
-datasheet_pdf: ''
+datasheet_pdf: ""
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null

@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4300-line-of-ethernet-switches-datasheet.pdf
 datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex4300.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 224.0
   unit: Gbps

@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firewalls/secure-firewall-3100-series-ds.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 18.0
   unit: Gbps

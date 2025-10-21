@@ -6,9 +6,9 @@ part_number: C9120AXI-K
 u_height: 0
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9120ax-series-access-points/datasheet-c78-742115.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9120ax-series-access-points/datasheet-c78-742115.pdf
-release_date: '2019-04-28'
-end_of_sale: null
-end_of_support: null
+release_date: "2019-04-28"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 5.2
   unit: Gbps

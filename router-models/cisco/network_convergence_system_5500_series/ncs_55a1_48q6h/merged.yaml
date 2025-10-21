@@ -6,9 +6,9 @@ part_number: NCS-55A1-48Q6H
 u_height: null
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-742295.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-742295.pdf
-release_date: '2015-11-16'
-end_of_sale: null
-end_of_support: null
+release_date: "2015-11-16"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 1800.0
   unit: Gbps

@@ -6,9 +6,9 @@ part_number: SG500-52-K9
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-500-series-stackable-managed-switches/c78-695646_data_sheet.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-500-series-stackable-managed-switches/c78-695646_data_sheet.pdf
-release_date: '2012-03-30'
-end_of_sale: '2018-04-12'
-end_of_support: '2023-04-30'
+release_date: "2012-03-30"
+end_of_sale_date: "2018-04-12"
+end_of_support_date: "2023-04-30"
 max_throughput:
   value: 120.0
   unit: Gbps

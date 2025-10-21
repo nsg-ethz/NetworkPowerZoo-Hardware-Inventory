@@ -5,10 +5,10 @@ slug: cisco-meraki-cw9164
 part_number: CW9164
 u_height: 0.0
 datasheet_url: https://meraki.cisco.com/product-collateral/cw9164-datasheet/?file
-datasheet_pdf: ''
-release_date: '2022-06-14'
-end_of_sale: null
-end_of_support: null
+datasheet_pdf: ""
+release_date: "2022-06-14"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null

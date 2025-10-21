@@ -6,9 +6,9 @@ part_number: IE-2000-16PTC-G-L
 u_height: 3
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-2000-series-switches/datasheet-c78-730729.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/industrial-ethernet-2000-series-switches/datasheet-c78-730729.pdf
-release_date: '2012-04-19'
-end_of_sale: '2024-07-26'
-end_of_support: '2029-07-31'
+release_date: "2012-04-19"
+end_of_sale_date: "2024-07-26"
+end_of_support_date: "2029-07-31"
 max_throughput:
   value: 7.6
   unit: Gbps

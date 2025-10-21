@@ -6,9 +6,9 @@ part_number: AIR-AP1852I-E-K9
 u_height: 0
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1850-series-access-points/datasheet-c78-734256.html#Productspecifications
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-1850-series-access-points/datasheet-c78-734256.pdf
-release_date: '2015-06-02'
-end_of_sale: '2022-05-01'
-end_of_support: '2027-04-30'
+release_date: "2015-06-02"
+end_of_sale_date: "2022-05-01"
+end_of_support_date: "2027-04-30"
 max_throughput:
   value: 2.0
   unit: Gbps
@@ -18,7 +18,8 @@ is_poe_capable: true
 max_poe_draw:
   value: 20.9
   unit: W
-  description: When deployed using a Power over Ethernet (PoE) specification, the
+  description:
+    When deployed using a Power over Ethernet (PoE) specification, the
     power drawn from the power sourcing equipment will be higher by some amount, depending
     on the length of the interconnecting cable.
 psu:

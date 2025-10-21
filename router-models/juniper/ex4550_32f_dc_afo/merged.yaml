@@ -7,20 +7,22 @@ u_height: 1
 datasheet_url: https://www.juniper.net/assets/br/pt/local/pdf/datasheets/1000414-en.pdf
 datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex4550/ex4550.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 480.0
   unit: Gbps
 max_power_draw:
   value: 215.0
   unit: W
-  description: EX4550-32F with two expansion modules (8 x 10GbE SFP+ ports) installed;
+  description:
+    EX4550-32F with two expansion modules (8 x 10GbE SFP+ ports) installed;
     32 USR ports in base, all ports forwarding (line rate)
 typical_power_draw:
   value: 175.0
   unit: W
-  description: EX4550-32F with no expansion modules installed; 32 SFP+ USR ports in
+  description:
+    EX4550-32F with no expansion modules installed; 32 SFP+ USR ports in
     base, all ports forwarding (line rate)
 is_poe_capable: false
 max_poe_draw: null

@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firepower-2100-series/datasheet-c78-742473.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firepower-2100-series/datasheet-c78-742473.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 20.0
   unit: Gbps
@@ -19,6 +19,6 @@ max_poe_draw: null
 psu:
   number_of_modules: 2
   efficiency_rating: null
-  power_rating: '400 and {''value'': 400.0, ''unit'': ''W'', ''description'': ''Dual
-    400W AC. Single/dual 350W DC optional''}'
+  power_rating: "400 and {'value': 400.0, 'unit': 'W', 'description': 'Dual
+    400W AC. Single/dual 350W DC optional'}"
   part_number: iec-60320-c14

@@ -6,9 +6,9 @@ part_number: SLM2048T
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-200-series-smart-switches/data_sheet_c78-634369.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/small-business-100-series-unmanaged-switches/data_sheet_c78-667827.html
-release_date: '2010-12-06'
-end_of_sale: '2018-10-04'
-end_of_support: '2023-10-31'
+release_date: "2010-12-06"
+end_of_sale_date: "2018-10-04"
+end_of_support_date: "2023-10-31"
 max_throughput:
   value: 1000.0
   unit: Mbps

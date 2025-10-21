@@ -7,20 +7,22 @@ u_height: 1
 datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5130-line-of-switches-datasheet.pdf
 datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/qfx5130/qfx5130.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 25.6
   unit: Tbps
 max_power_draw:
   value: 839.0
   unit: W
-  description: "Max power consumption measured at 40\xB0C ambient temperature with\
+  description:
+    "Max power consumption measured at 40\xB0C ambient temperature with\
     \ SR optics at 100% load with IMIX traffic."
 typical_power_draw:
   value: 323.0
   unit: W
-  description: "Typical power consumption measured at 25\xB0C ambient temperature\
+  description:
+    "Typical power consumption measured at 25\xB0C ambient temperature\
     \ with DACs at 50% load with IMIX traffic, excluding transceivers."
 is_poe_capable: false
 max_poe_draw: null

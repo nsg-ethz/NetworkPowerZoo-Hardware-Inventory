@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7010T-48_Datasheet.pdf
 datasheet_pdf: http://www.arista.com/en/service
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 176.0
   unit: Gbps
@@ -19,13 +19,14 @@ max_power_draw:
 typical_power_draw:
   value: 52.0
   unit: W
-  description: Typical power consumption measured at 25C ambient with 50% load on
+  description:
+    Typical power consumption measured at 25C ambient with 50% load on
     all ports
 is_poe_capable: false
 max_poe_draw: null
 psu:
   number_of_modules: 2
   efficiency_rating: null
-  power_rating: '65 and {''value'': 65.0, ''unit'': ''W'', ''description'': ''Power
-    Supply Model for AC''}'
+  power_rating: "65 and {'value': 65.0, 'unit': 'W', 'description': 'Power
+    Supply Model for AC'}"
   part_number: iec-60320-c14

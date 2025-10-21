@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7130E-Series-Data-Sheet.pdf
 datasheet_pdf: https://www.arista.com/assets/data/pdf/DCS-7130-48EH-R.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 10.0
   unit: Gbps

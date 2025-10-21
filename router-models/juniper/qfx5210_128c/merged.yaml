@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.juniper.net/us/en/products-services/switching/qfx-series/qfx5200/
 datasheet_pdf: https://www.juniper.net/us/en/products/switches/qfx-series/qfx5200-switch-datasheet.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 6.4
   unit: Tbps

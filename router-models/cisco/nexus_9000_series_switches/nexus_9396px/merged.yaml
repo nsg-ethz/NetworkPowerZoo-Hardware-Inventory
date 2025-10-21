@@ -6,9 +6,9 @@ part_number: N9K-C9396PX
 u_height: 2
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-729404.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/datasheet-c78-729404.pdf
-release_date: '2013-11-05'
-end_of_sale: null
-end_of_support: null
+release_date: "2013-11-05"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 15.36
   unit: Tbps

@@ -6,9 +6,9 @@ part_number: ASR-9901
 u_height: 2
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-740540.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-740540.pdf
-release_date: '2008-11-11'
-end_of_sale: null
-end_of_support: null
+release_date: "2008-11-11"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 456.0
   unit: Gbps

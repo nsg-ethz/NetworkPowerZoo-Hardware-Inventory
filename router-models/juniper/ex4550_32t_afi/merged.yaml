@@ -7,20 +7,22 @@ u_height: 1
 datasheet_url: https://www.juniper.net/assets/br/pt/local/pdf/datasheets/1000414-en.pdf
 datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex4550/ex4550.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 480.0
   unit: Gbps
 max_power_draw:
   value: 413.0
   unit: W
-  description: EX4550-32T with two expansion modules (8 x 10GT copper ports) installed;
+  description:
+    EX4550-32T with two expansion modules (8 x 10GT copper ports) installed;
     32 RJ-45 ports in base, all ports forwarding (line rate), <10m
 typical_power_draw:
   value: 330.0
   unit: W
-  description: EX4550-32T with no expansion modules installed; 32 RJ-45 ports in base,
+  description:
+    EX4550-32T with no expansion modules installed; 32 RJ-45 ports in base,
     all ports forwarding (line rate), <10m
 is_poe_capable: false
 max_poe_draw: null

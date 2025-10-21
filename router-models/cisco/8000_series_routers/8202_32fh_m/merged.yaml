@@ -6,9 +6,9 @@ part_number: 8202-32FH-M
 u_height: 2
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/8000-series-routers/datasheet-c78-742571.pdf
-release_date: '2021-01-25'
-end_of_sale: null
-end_of_support: null
+release_date: "2021-01-25"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 12.8
   unit: Tbps

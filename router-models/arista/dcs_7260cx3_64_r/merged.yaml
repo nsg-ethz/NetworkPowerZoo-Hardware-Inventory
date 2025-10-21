@@ -7,20 +7,22 @@ u_height: 2
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7260X3_Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 12.8
   unit: Tbps
 max_power_draw:
   value: 616.0
   unit: W
-  description: Maximum power consumption measured at 40C with 100% load and maximum
+  description:
+    Maximum power consumption measured at 40C with 100% load and maximum
     power optical transceivers.
 typical_power_draw:
   value: 314.0
   unit: W
-  description: Typical power consumption measured at 25C ambient with 50% load and
+  description:
+    Typical power consumption measured at 25C ambient with 50% load and
     DAC cables.
 is_poe_capable: false
 max_poe_draw: null
@@ -30,6 +32,7 @@ psu:
   power_rating:
     value: 1900.0
     unit: W
-    description: Spare 1900 Watt AC power supply for Arista 7260CX and 7280R Series
+    description:
+      Spare 1900 Watt AC power supply for Arista 7260CX and 7280R Series
       Switches.
   part_number: PWR-1900AC-F/R

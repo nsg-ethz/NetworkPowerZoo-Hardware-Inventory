@@ -5,10 +5,10 @@ slug: cisco-c7201
 part_number: C7201
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/7201-router/product_data_sheet0900aecd80630b58.html
-datasheet_pdf: ''
+datasheet_pdf: ""
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null

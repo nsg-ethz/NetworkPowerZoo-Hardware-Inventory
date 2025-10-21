@@ -7,8 +7,8 @@ u_height: 16.0
 datasheet_url: https://www.juniper.net/us/en/products/security/srx-series/srx5800-large-enterprise-data-center-firewall.html
 datasheet_pdf: https://www.juniper.net/us/en/products/security/srx-series/srx5400-srx5600-srx5800-firewall-datasheet.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 3.36
   unit: Tbps

@@ -6,9 +6,9 @@ part_number: N9K-C9408
 u_height: 4
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/nexus9400-series-switches-ds.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-switches/nexus9400-series-switches-ds.pdf
-release_date: '2017-06-20'
-end_of_sale: null
-end_of_support: null
+release_date: "2017-06-20"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 25.6
   unit: Tbps

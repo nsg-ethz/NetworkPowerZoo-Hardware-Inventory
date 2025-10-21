@@ -6,9 +6,9 @@ part_number: ISR4321/K9
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/datasheet-c78-732542.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/4000-series-integrated-services-routers-isr/data_sheet-c78-732542.pdf
-release_date: '2014-09-16'
-end_of_sale: null
-end_of_support: null
+release_date: "2014-09-16"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 1.5
   unit: Gbps

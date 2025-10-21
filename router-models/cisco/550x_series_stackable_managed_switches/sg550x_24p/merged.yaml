@@ -6,9 +6,9 @@ part_number: SG550X-24P-K9
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/550x-series-stackable-managed-switches/datasheet-c78-735874.pdf
-release_date: '2015-06-20'
-end_of_sale: '2022-07-30'
-end_of_support: '2027-07-31'
+release_date: "2015-06-20"
+end_of_sale_date: "2022-07-30"
+end_of_support_date: "2027-07-31"
 max_throughput:
   value: 128.0
   unit: Gbps

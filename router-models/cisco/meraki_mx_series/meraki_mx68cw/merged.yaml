@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX67_and_MX68_Datasheet
 datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/1561/pdf/MX67%2band%2bMX68%2bDatasheet.pdf?stylesheet=default
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 700.0
   unit: Mbps

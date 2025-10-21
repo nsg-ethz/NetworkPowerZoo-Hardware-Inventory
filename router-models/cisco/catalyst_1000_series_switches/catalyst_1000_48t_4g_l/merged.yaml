@@ -6,9 +6,9 @@ part_number: C1000-48T-4G-L
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-1000-series-switches/nb-06-cat1k-ser-switch-ds-cte-en.pdf
-release_date: '2019-11-04'
-end_of_sale: null
-end_of_support: null
+release_date: "2019-11-04"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 104.0
   unit: Gbps

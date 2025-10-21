@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720D-Datasheet.pdf
 datasheet_pdf: http://www.arista.com/en/products/transceivers-cables
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 320.0
   unit: Gbps
@@ -28,6 +28,6 @@ max_poe_draw:
 psu:
   number_of_modules: 2
   efficiency_rating: null
-  power_rating: '1800 and {''value'': 1800.0, ''unit'': ''W'', ''description'': ''2
-    x 1800W AC for CCS-720DP-48ZS''}'
+  power_rating: "1800 and {'value': 1800.0, 'unit': 'W', 'description': '2
+    x 1800W AC for CCS-720DP-48ZS'}"
   part_number: iec-60320-c14

@@ -6,9 +6,9 @@ part_number: C1111-4PLTEEA
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/1000-series-integrated-services-routers-isr/datasheet-c78-739512.html#Cisco111xISRsFlexibleWANandLANconnectivity
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/1000-series-integrated-services-routers-isr/datasheet-c78-739512.pdf
-release_date: '2017-07-03'
-end_of_sale: null
-end_of_support: null
+release_date: "2017-07-03"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 1889.0
   unit: Mbps
@@ -25,6 +25,6 @@ max_poe_draw:
 psu:
   number_of_modules: 1
   efficiency_rating: null
-  power_rating: '150 and {''value'': 115.0, ''unit'': ''W'', ''description'': ''Requires
-    115W power supply for optional PoE and PoE+''}'
+  power_rating: "150 and {'value': 115.0, 'unit': 'W', 'description': 'Requires
+    115W power supply for optional PoE and PoE+'}"
   part_number: iec-60320-c14

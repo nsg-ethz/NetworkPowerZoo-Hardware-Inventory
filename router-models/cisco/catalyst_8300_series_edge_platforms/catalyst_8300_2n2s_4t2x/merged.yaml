@@ -6,9 +6,9 @@ part_number: C8300-2N2S-4T2X
 u_height: 2
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8300-series-edge-platforms/datasheet-c78-744088.pdf
-release_date: '2020-10-19'
-end_of_sale: null
-end_of_support: null
+release_date: "2020-10-19"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 19.7
   unit: Gbps
@@ -16,7 +16,8 @@ max_power_draw: null
 typical_power_draw:
   value: 275.0
   unit: W
-  description: Typical power consumption for C8300-2N2S-4T2X with no modules, single
+  description:
+    Typical power consumption for C8300-2N2S-4T2X with no modules, single
     PSU
 is_poe_capable: true
 max_poe_draw:
@@ -29,5 +30,5 @@ psu:
   power_rating:
     value: 1000.0
     unit: W
-    description: 'PWR-CC1-1000WAC with PoE Budget: 500W'
+    description: "PWR-CC1-1000WAC with PoE Budget: 500W"
   part_number: null

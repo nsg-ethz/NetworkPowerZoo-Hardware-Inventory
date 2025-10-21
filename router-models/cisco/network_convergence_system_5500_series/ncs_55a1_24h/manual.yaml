@@ -6,9 +6,9 @@ part_number: NCS-55A1-24H
 u_height: null
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-739905.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/network-convergence-system-5500-series/datasheet-c78-739905.pdf
-release_date: '2015-11-16'
-end_of_sale: null
-end_of_support: null
+release_date: "2015-11-16"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 1.8
   unit: Tbps
@@ -25,7 +25,7 @@ max_poe_draw: null
 psu:
   number_of_modules: 2
   efficiency_rating: null
-  power_rating: 
+  power_rating:
     value: 1100.0
     unit: W
     description: NCS 5500 AC 1100W Power Supply Port-S Intake / Front-to-back, NCS 5500 AC 1100W Power Supply Port-S Exhaust/Back-to-Front, NCS 5500 DC 1100W Power Supply Port-S Exhaust/Back-to-Front, NCS 5500 DC 950W Power Supply Port-S Intake/Front-to-back

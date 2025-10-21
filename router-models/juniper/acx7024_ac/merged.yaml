@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.juniper.net/us/en/products/routers/acx-series/acx7000-family-cloud-metro-routers/acx7000-line/acx7024-acx7024x-cloud-metro-routers-datasheet.html
 datasheet_pdf: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/routers/acx7024-acx7024x-cloud-metro-routers-datasheet.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 360.0
   unit: Gbps
@@ -19,7 +19,8 @@ max_power_draw:
 typical_power_draw:
   value: 97.0
   unit: W
-  description: "Typical power consumption measured at 25\xBA C ambient with 50% load\
+  description:
+    "Typical power consumption measured at 25\xBA C ambient with 50% load\
     \ on all ports"
 is_poe_capable: false
 max_poe_draw: null

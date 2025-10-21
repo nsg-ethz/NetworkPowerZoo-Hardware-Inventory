@@ -6,9 +6,9 @@ part_number: WS-C2960L-16PS-LL
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-l-series-switches/nb-06-cat2960-l-ser-data-sheet-cte-en.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-2960-l-series-switches/nb-06-cat2960-l-ser-data-sheet-cte-en.pdf
-release_date: '2016-08-23'
-end_of_sale: '2021-10-31'
-end_of_support: '2026-10-31'
+release_date: "2016-08-23"
+end_of_sale_date: "2021-10-31"
+end_of_support_date: "2026-10-31"
 max_throughput:
   value: 36.0
   unit: Gbps

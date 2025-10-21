@@ -7,20 +7,22 @@ u_height: 1
 datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/qfx5200-switch-datasheet.pdf
 datasheet_pdf: https://www.juniper.net/us/en/products.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 6.4
   unit: Tbps
 max_power_draw:
   value: 312.0
   unit: W
-  description: "Max power consumption is measured at 40\xB0C ambient temperature with\
+  description:
+    "Max power consumption is measured at 40\xB0C ambient temperature with\
     \ SR optics, and at 100% load with IMIX traffic"
 typical_power_draw:
   value: 184.0
   unit: W
-  description: "Typical power consumption is measured at 25\xB0C ambient temperature\
+  description:
+    "Typical power consumption is measured at 25\xB0C ambient temperature\
     \ with DACs, and at 50% load with IMIX traffic, excluding transceiver"
 is_poe_capable: false
 max_poe_draw: null

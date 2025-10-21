@@ -6,9 +6,9 @@ part_number: AIR-CAP2602E-A-K9
 u_height: 0
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/data_sheet_c78-709514.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/wireless/aironet-2600-series/data_sheet_c78-709514.pdf
-release_date: '2012-08-03'
-end_of_sale: '2016-12-29'
-end_of_support: '2021-12-31'
+release_date: "2012-08-03"
+end_of_sale_date: "2016-12-29"
+end_of_support_date: "2021-12-31"
 max_throughput:
   value: 450.0
   unit: Mbps
@@ -18,7 +18,8 @@ is_poe_capable: true
 max_poe_draw:
   value: 15.4
   unit: W
-  description: The power drawn from the power sourcing equipment may be as high as
+  description:
+    The power drawn from the power sourcing equipment may be as high as
     15.4W including cabling.
 psu:
   number_of_modules: 0

@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7135LB-Datasheet.pdf
 datasheet_pdf: http://www.arista.com/en/service
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 25.8
   unit: Gbps
@@ -25,5 +25,5 @@ max_poe_draw: null
 psu:
   number_of_modules: 2
   efficiency_rating: Platinum
-  power_rating: '1000 and {''value'': 1500.0, ''unit'': ''W'', ''description'': None}'
+  power_rating: "1000 and {'value': 1500.0, 'unit': 'W', 'description': None}"
   part_number: PWR-1511-AC or PWR-1511-DC or PWR-1512-AC

@@ -7,8 +7,8 @@ u_height: 4
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7358X4-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/service
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 12.8
   unit: Tbps

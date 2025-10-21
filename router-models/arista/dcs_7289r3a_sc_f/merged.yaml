@@ -7,20 +7,22 @@ u_height: 4
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7280R3A-Modular-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/products/7280r3a
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 14.4
   unit: Tbps
 max_power_draw:
   value: 1927.0
   unit: W
-  description: Maximum power consumption measured with 2.5W SFP+ / 4.5W QSFP100 /
+  description:
+    Maximum power consumption measured with 2.5W SFP+ / 4.5W QSFP100 /
     20W OSFP or QSFP-DD on all ports
 typical_power_draw:
   value: 1244.0
   unit: W
-  description: Typical power consumption measured at 25C ambient with 50% load (Excluding
+  description:
+    Typical power consumption measured at 25C ambient with 50% load (Excluding
     optics and cables)
 is_poe_capable: false
 max_poe_draw: null

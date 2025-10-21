@@ -6,15 +6,16 @@ part_number: IE-3200-8P2S
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-ie3200-rugged-series/cat-ie3200-rugged-series-ds.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-ie3200-rugged-series/cat-ie3200-rugged-series-ds.pdf
-release_date: '2019-01-28'
-end_of_sale: null
-end_of_support: null
+release_date: "2019-01-28"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw:
   value: 32.0
   unit: W
-  description: Power consumption for PoE supported model is measured at 54V. Power
+  description:
+    Power consumption for PoE supported model is measured at 54V. Power
     consumption does not include PoE power.
 is_poe_capable: true
 max_poe_draw:

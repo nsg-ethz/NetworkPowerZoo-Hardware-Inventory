@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c-series-rack-servers/ucs-c220-m6-rack-server-ds.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/servers-unified-computing/ucs-c-series-rack-servers/ucs-c220-m6-rack-server-ds.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null
@@ -20,6 +20,7 @@ psu:
   power_rating:
     value: 2300.0
     unit: W
-    description: Hot-pluggable, redundant 1050W AC, 1050W DC, 1600W AC, and 2300W
+    description:
+      Hot-pluggable, redundant 1050W AC, 1050W DC, 1600W AC, and 2300W
       AC
   part_number: null

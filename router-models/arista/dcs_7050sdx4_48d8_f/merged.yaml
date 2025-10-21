@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7050X4-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/service
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 8.0
   unit: Tbps
@@ -28,6 +28,7 @@ psu:
   power_rating:
     value: 1500.0
     unit: W
-    description: PWR-1512-AC-RED/BLUE and PWR-1511-DC-RED/BLUE are 1500W, PWR-1011-AC-RED/BLUE
+    description:
+      PWR-1512-AC-RED/BLUE and PWR-1511-DC-RED/BLUE are 1500W, PWR-1011-AC-RED/BLUE
       and PWR-1011-DC-RED/BLUE are 1000W
   part_number: PWR-1512-AC-RED/BLUE

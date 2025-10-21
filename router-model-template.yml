@@ -7,18 +7,18 @@ u_height: # int
 datasheet_url: # string
 datasheet_pdf: # string
 release_date: # YYYY-MM-DD
-end_of_sale: # YYYY-MM-DD
-end_of_support: # YYYY-MM-DD
+end_of_sale_date: # YYYY-MM-DD
+end_of_support_date: # YYYY-MM-DD
 max_throughput:
   value: # float
-  unit: Tbps
+  unit: # string
 max_power_draw:
   value: # float
-  unit: W
+  unit: # string
   description: # string
 typical_power_draw:
   value: # float
-  unit: W
+  unit: # string
   description: # string
 is_poe_capable: false
 max_poe_draw: null
@@ -27,6 +27,6 @@ psu:
   efficiency_rating: null
   power_rating:
     value: # float
-    unit: W
+    unit: # string
     description: # string
   part_number: # string

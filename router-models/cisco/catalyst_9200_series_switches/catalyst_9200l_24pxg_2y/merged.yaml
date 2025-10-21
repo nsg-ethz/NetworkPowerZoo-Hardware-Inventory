@@ -6,9 +6,9 @@ part_number: C9200L-24PXG-2Y
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-cat9200-ser-data-sheet-cte-en.pdf
-release_date: '2018-11-13'
-end_of_sale: null
-end_of_support: null
+release_date: "2018-11-13"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 292.0
   unit: Gbps

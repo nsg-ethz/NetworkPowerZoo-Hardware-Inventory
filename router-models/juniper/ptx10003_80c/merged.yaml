@@ -7,8 +7,8 @@ u_height: 3.0
 datasheet_url: https://www.juniper.net/us/en/products/routers/ptx-series/ptx10003-packet-transport-router.html
 datasheet_pdf: https://www.juniper.net/us/en/products/routers/ptx-series/ptx10001-ptx10003-fixed-configuration-packet-transport-routers-datasheet.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 16.0
   unit: Tbps

@@ -5,10 +5,10 @@ slug: juniper-srx110h2-va
 part_number: srx110h2-va
 u_height: 1
 datasheet_url: https://www.juniper.net/documentation/product/us/en/srx110/#cat=product_literature
-datasheet_pdf: ''
+datasheet_pdf: ""
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null

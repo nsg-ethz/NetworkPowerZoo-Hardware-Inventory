@@ -7,8 +7,8 @@ u_height: 2
 datasheet_url: https://www.cisco.com/c/dam/global/de_at/assets/unified_partners/smb/vertriebliche-positionierung/routing/downloads/isr_2800_datenblatt_e.pdf
 datasheet_pdf: http://www.cisco.com/en/US/products/hwithrouters/
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 1.6
   unit: Gbps

@@ -6,9 +6,9 @@ part_number: ASR-9001
 u_height: 2
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9001-router/data_sheet_c78-685687.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9001-router/data_sheet_c78-685687.pdf
-release_date: '2011-09-09'
-end_of_sale: '2022-02-11'
-end_of_support: '2027-02-28'
+release_date: "2011-09-09"
+end_of_sale_date: "2022-02-11"
+end_of_support_date: "2027-02-28"
 max_throughput:
   value: 120.0
   unit: Gbps

@@ -7,8 +7,8 @@ u_height: 16
 datasheet_url: https://www.juniper.net/us/en/products-services/routing/mx-series/mx960/
 datasheet_pdf: https://www.juniper.net/documentation/en_US/day-one-books/DO_MX5G.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 12.0
   unit: Tbps

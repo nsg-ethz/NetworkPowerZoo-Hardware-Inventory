@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://documentation.meraki.com/MX/MX_Overviews_and_Specifications/MX95%2F%2F105_Datasheet
 datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/5621/pdf/MX95%252F105%2bDatasheet.pdf?stylesheet=default
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 3.0
   unit: Gbps

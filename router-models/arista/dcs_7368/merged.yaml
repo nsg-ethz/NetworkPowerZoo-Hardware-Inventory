@@ -7,25 +7,27 @@ u_height: 4
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7368X4-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/service
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 12.8
   unit: Tbps
 max_power_draw:
   value: 1526.0
   unit: W
-  description: 'System configuration: 1 x Sup, 1 x Switch Card, 8 x 16C line cards,
-    5 x fans, 2 x power supplies'
+  description:
+    "System configuration: 1 x Sup, 1 x Switch Card, 8 x 16C line cards,
+    5 x fans, 2 x power supplies"
 typical_power_draw:
   value: 810.0
   unit: W
-  description: 'System configuration: 1 x Sup, 1 x Switch Card, 8 x 16C line cards,
-    5 x fans, 2 x power supplies'
+  description:
+    "System configuration: 1 x Sup, 1 x Switch Card, 8 x 16C line cards,
+    5 x fans, 2 x power supplies"
 is_poe_capable: false
 max_poe_draw: null
 psu:
   number_of_modules: 4
   efficiency_rating: Platinum
-  power_rating: '2000 and {''value'': 1900.0, ''unit'': ''W'', ''description'': None}'
+  power_rating: "2000 and {'value': 1900.0, 'unit': 'W', 'description': None}"
   part_number: iec-60320-c20 and PWR-1900AC-F/R

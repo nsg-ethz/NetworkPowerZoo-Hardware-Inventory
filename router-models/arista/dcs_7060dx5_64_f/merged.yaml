@@ -7,20 +7,22 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7060X5-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/products/7060x5-series
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 25.6
   unit: Tbps
 max_power_draw:
   value: 1247.0
   unit: W
-  description: Maximum power consumption measured at 25C ambient with 50% load, excludes
+  description:
+    Maximum power consumption measured at 25C ambient with 50% load, excludes
     transceivers
 typical_power_draw:
   value: 548.0
   unit: W
-  description: Typical power consumption measured at 25C ambient with 50% load, excludes
+  description:
+    Typical power consumption measured at 25C ambient with 50% load, excludes
     transceivers
 is_poe_capable: false
 max_poe_draw: null

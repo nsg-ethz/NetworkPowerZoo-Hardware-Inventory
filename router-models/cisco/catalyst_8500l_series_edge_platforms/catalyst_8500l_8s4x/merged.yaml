@@ -6,9 +6,9 @@ part_number: C8500L-8S4X
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8500-series-edge-platforms/datasheet-c78-744089.pdf
-release_date: '2021-01-25'
-end_of_sale: null
-end_of_support: null
+release_date: "2021-01-25"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 39.0
   unit: Gbps

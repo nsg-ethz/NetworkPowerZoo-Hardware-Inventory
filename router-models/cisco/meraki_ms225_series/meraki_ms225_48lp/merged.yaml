@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://documentation.meraki.com/MS/MS_Overview_and_Specifications/MS225_Overview_and_Specifications
 datasheet_pdf: https://documentation.meraki.com/@api/deki/pages/952/pdf/MS225%2bOverview%2band%2bSpecifications.pdf?stylesheet=default
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 176.0
   unit: Gbps

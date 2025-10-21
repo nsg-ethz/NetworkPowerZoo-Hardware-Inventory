@@ -6,9 +6,9 @@ part_number: C6880-X-LE
 u_height: 5
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6880-x-switch/data_sheet_c78-728228.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-6880-x-switch/data_sheet_c78-728228.pdf
-release_date: '2013-06-21'
-end_of_sale: '2022-04-30'
-end_of_support: '2027-04-30'
+release_date: "2013-06-21"
+end_of_sale_date: "2022-04-30"
+end_of_support_date: "2027-04-30"
 max_throughput:
   value: 2.0
   unit: Tbps
@@ -22,5 +22,5 @@ psu:
   power_rating:
     value: 3000.0
     unit: W
-    description: 'AC: 3000W, DC: 3000W'
+    description: "AC: 3000W, DC: 3000W"
   part_number: null

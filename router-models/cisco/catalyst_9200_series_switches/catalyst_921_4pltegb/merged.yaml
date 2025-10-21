@@ -5,10 +5,10 @@ slug: cisco-c921-4pltegb
 part_number: C921-4PLTEGB
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/900-series-integrated-services-routers-isr/datasheet-c78-741615.html]
-datasheet_pdf: ''
-release_date: '2018-11-13'
-end_of_sale: null
-end_of_support: null
+datasheet_pdf: ""
+release_date: "2018-11-13"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null

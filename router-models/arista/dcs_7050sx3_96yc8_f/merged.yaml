@@ -7,8 +7,8 @@ u_height: 2
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7050X3-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/support/product-documentation/supported-features
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 6.4
   unit: Tbps

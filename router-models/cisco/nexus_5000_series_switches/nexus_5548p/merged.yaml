@@ -6,9 +6,9 @@ part_number: N5K-C5548P
 u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/switches/nexus-5000-series-switches/data_sheet_c78-618603.pdf
-release_date: '2008-04-08'
-end_of_sale: '2021-05-05'
-end_of_support: '2026-05-31'
+release_date: "2008-04-08"
+end_of_sale_date: "2021-05-05"
+end_of_support_date: "2026-05-31"
 max_throughput:
   value: 960.0
   unit: Gbps

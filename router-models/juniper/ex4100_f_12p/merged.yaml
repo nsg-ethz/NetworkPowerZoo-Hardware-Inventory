@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/switches/ex4100-f-line-of-ethernet-datasheet.pdf
 datasheet_pdf: https://www.juniper.net/documentation/us/en/software/license/licensing/topics/concept/flex-licenses-for-ex.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 72.0
   unit: Gbps
@@ -24,7 +24,8 @@ is_poe_capable: true
 max_poe_draw:
   value: 300.0
   unit: W
-  description: With external AC power adapter and two uplink ports connected to external
+  description:
+    With external AC power adapter and two uplink ports connected to external
     90W PSE
 psu:
   number_of_modules: 1

@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/security/firesight-management-center/datasheet-c78-736775.pdf
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/security/firepower-management-center/datasheet-c78-736775.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 600.0
   unit: Gbps

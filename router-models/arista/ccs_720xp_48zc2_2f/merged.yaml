@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/CCS-720XP-Datasheet.pdf
 datasheet_pdf: http://www.arista.com/en/products/ccs-720xp
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 1120.0
   unit: Gbps

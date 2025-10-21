@@ -7,8 +7,8 @@ u_height: 0
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/unified-communications/small-business-voice-gateways-ata/datasheet_C78-691107.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/unified-communications/small-business-voice-gateways-ata/datasheet_C78-691107.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw:
   value: 5.0
@@ -20,6 +20,6 @@ max_poe_draw: null
 psu:
   number_of_modules: 1
   efficiency_rating: null
-  power_rating: '5 and {''value'': 10.0, ''unit'': ''W'', ''description'': ''5V DC
-    at 2.0A maximum''}'
+  power_rating: "5 and {'value': 10.0, 'unit': 'W', 'description': '5V DC
+    at 2.0A maximum'}"
   part_number: dc-terminal

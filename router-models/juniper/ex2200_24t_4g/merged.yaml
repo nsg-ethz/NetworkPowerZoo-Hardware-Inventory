@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/pathway-pages/ex-series/ex2200/ex2200.pdf
 datasheet_pdf: https://www.juniper.net/documentation/en_US/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex2200/ex2200.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 56.0
   unit: Gbps
@@ -25,6 +25,6 @@ max_poe_draw: null
 psu:
   number_of_modules: 1
   efficiency_rating: null
-  power_rating: '100 and {''value'': 100.0, ''unit'': ''W'', ''description'': ''Power
-    supply output for EX2200-24T-4G''}'
+  power_rating: "100 and {'value': 100.0, 'unit': 'W', 'description': 'Power
+    supply output for EX2200-24T-4G'}"
   part_number: iec-60320-c14

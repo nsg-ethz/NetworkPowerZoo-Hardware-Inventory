@@ -7,20 +7,22 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7280R-DataSheet.pdf
 datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7280R_Datasheet.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 4.32
   unit: Tbps
 max_power_draw:
   value: 499.0
   unit: W
-  description: Maximum power consumption measured at 25C ambient with 50% load on
+  description:
+    Maximum power consumption measured at 25C ambient with 50% load on
     all ports
 typical_power_draw:
   value: 324.0
   unit: W
-  description: Typical power consumption measured at 25C ambient with 50% load on
+  description:
+    Typical power consumption measured at 25C ambient with 50% load on
     all ports
 is_poe_capable: false
 max_poe_draw: null
@@ -30,6 +32,7 @@ psu:
   power_rating:
     value: 1900.0
     unit: W
-    description: Spare 1900 Watt AC power supply for Arista 7260CX and 7280R Series
+    description:
+      Spare 1900 Watt AC power supply for Arista 7260CX and 7280R Series
       Switches
   part_number: null

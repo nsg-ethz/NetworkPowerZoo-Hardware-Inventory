@@ -6,9 +6,9 @@ part_number: ASR-9903
 u_height: 3.0
 datasheet_url: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744035.html
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/routers/asr-9000-series-aggregation-services-routers/datasheet-c78-744035.pdf
-release_date: '2008-11-11'
-end_of_sale: null
-end_of_support: null
+release_date: "2008-11-11"
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 3.6
   unit: Tbps
@@ -22,6 +22,7 @@ psu:
   power_rating:
     value: 1600.0
     unit: W
-    description: '1.6 kW AC or DC power module, up to 4 modules, redundancy: 2+2 for
-      AC high line (200-240V) and 3+1 for AC low line (90-130V)'
+    description:
+      "1.6 kW AC or DC power module, up to 4 modules, redundancy: 2+2 for
+      AC high line (200-240V) and 3+1 for AC low line (90-130V)"
   part_number: null

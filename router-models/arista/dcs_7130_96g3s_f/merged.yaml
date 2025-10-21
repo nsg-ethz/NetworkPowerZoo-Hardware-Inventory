@@ -7,8 +7,8 @@ u_height: 2
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7130-Connect-S-Series-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/assets/data/pdf/Datasheets/7130S_Connect_Series.pdf
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 11.3
   unit: Gbps
@@ -22,6 +22,6 @@ max_poe_draw: null
 psu:
   number_of_modules: 2
   efficiency_rating: Platinum
-  power_rating: '388 and {''value'': 1900.0, ''unit'': ''W'', ''description'': ''PWR-500
-    (AC or DC) and PWR-747AC are also compatible with this model.''}'
+  power_rating: "388 and {'value': 1900.0, 'unit': 'W', 'description': 'PWR-500
+    (AC or DC) and PWR-747AC are also compatible with this model.'}"
   part_number: PWR-1900-DC

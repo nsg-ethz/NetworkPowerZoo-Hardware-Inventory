@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.arista.com/assets/data/pdf/Datasheets/7010TX-Datasheet.pdf
 datasheet_pdf: https://www.arista.com/en/service
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput:
   value: 296.0
   unit: Gbps
@@ -25,6 +25,6 @@ max_poe_draw: null
 psu:
   number_of_modules: 2
   efficiency_rating: Platinum
-  power_rating: '106 and {''value'': 75.0, ''unit'': ''W'', ''description'': ''Maximum
-    power consumption measured at 25C ambient with 50% load''}'
+  power_rating: "106 and {'value': 75.0, 'unit': 'W', 'description': 'Maximum
+    power consumption measured at 25C ambient with 50% load'}"
   part_number: dc-terminal

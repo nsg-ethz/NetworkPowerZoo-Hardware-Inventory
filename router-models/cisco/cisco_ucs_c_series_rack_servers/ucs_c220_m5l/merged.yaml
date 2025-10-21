@@ -7,8 +7,8 @@ u_height: 1
 datasheet_url: https://www.cisco.com/c/dam/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/c220m5-lff-specsheet.pdf
 datasheet_pdf: https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-c-series-rack-servers/datasheet-c78-739282.html
 release_date: null
-end_of_sale: null
-end_of_support: null
+end_of_sale_date: null
+end_of_support_date: null
 max_throughput: null
 max_power_draw: null
 typical_power_draw: null
@@ -20,6 +20,7 @@ psu:
   power_rating:
     value: 1600.0
     unit: W
-    description: The server supports up to two hot-swappable power supplies with options
+    description:
+      The server supports up to two hot-swappable power supplies with options
       of 770W, 1050W, 1050W DC, and 1600W. The maximum power rating is 1600W.
   part_number: null
