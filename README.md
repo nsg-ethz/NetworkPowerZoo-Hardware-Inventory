@@ -1,8 +1,8 @@
 # Network Power Zoo Hardware Inventory
 
-This repository contains structured data for router models. The data was aggregated from [NetBox Device Type Library](https://github.com/netbox-community/devicetype-library/tree/master), LLM prompting, and manual curation.
+This repository contains structured data for router models from multiple manufacturers. The data was aggregated from [NetBox Device Type Library](https://github.com/netbox-community/devicetype-library/tree/master), LLM-assisted parsing of datasheets, and manual curation.
 
-## Router Model Data
+## Overview
 
 This repository is structured as follows:
 
@@ -12,73 +12,68 @@ router-models/
 │   └── <router_model_name>
 ├── cisco
 │   └── <series_name>
-│       └── <router_model_name>
+│       (└── <router_model_name>)
 └── juniper
     └── <router_model_name>
 ```
 
-Every router model contains the following files:
+Files per router model:
 
 ```
-filtered_netbox.yaml      # Data extracted from NetBox Device Type Library
-general_llm.yaml          # Data extracted from Datasheet via LLM prompting
-manual.yaml               # Exists if data has been manually checked. Contains manual corrections (if there are any)
+filtered_netbox.yaml      # Data extracted from the NetBox Device Type Library
+general_llm.yaml          # Data extracted from manufacturer datasheets via LLM prompting
+manual.yaml               # (Optional) Only exists if data has been manually verified
 ```
 
-For Cisco routers, the `cisco/<series_name>/` folder contains series-level information. Whenever there are multiple models in a series, there is a `cisco/<series_name>/<router_model_name>` folder for each model. Additionally, every Cisco related router model contains the following file:
+For Cisco router models, `cisco/<series_name>/` contains series-level metadata. If a series has multiple models, each model lives under `cisco/<series_name>/<router_model_name>/`.
+
+Additional Cisco files:
 
 ```
-date_llm.yaml             # Date information extracted from Cisco Datasheets via LLM prompting
+date_llm.yaml             # Date information extracted from Cisco datasheets via LLM prompting
 series.yaml               # Series information extracted manually
 ```
 
-Finally, every router model folder contains all data from all available sources:
+Eventually, all data from all available sources is merged into a single file per router model:
 
 ```
-merged.yaml               # Merged data from all sources, manual overrides others
+merged.yaml               # Merged data from all sources, manually extracted data overrides others
 ```
-
-You can download all available router models in a single csv file here.
-
-## How to Contribute
-
-The repository is licensed under the CC0-1.0 license, making it free for public use.
-
-We welcome contributions to expand and improve the data in this repository. Here’s how you can contribute:
-
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/PowerDB_Datasheets.git
-   ```
-2. **Navigate to the Appropriate Directory:**
-   - For routers, go to `router-vendors/`.
-   - For transceivers, go to `transceiver-vendors/`.
-3. **Add New Data:**
-
-   - Copy the relevant template file (`router-template.yml` or `transceiver-template.yml`) and fill in the data for the new device model.
-   - Ensure that the file name matches the `model_id` of the device.
-
-4. **Submit a Pull Request:**
-   - Once your changes are made, submit a pull request. In the future, we may require pull requests for data submission to ensure consistency and accuracy.
 
 ## Retrieving Data
 
-You can retrieve data either directly from this repository or via the **NetPowerDB API**.
+All router models can be downloaded as a single csv file [here](https://networkpowerzoo.ethz.ch/api/static/router-models.zip).
 
-### From the Repository
+## Contributing
 
-Access the YAML files in `router-vendors/` or `transceiver-vendors/` to view individual device power consumption details.
+We welcome contributions to expand and improve the data. Here’s how you can contribute:
 
-### Using the NetPowerDB API
+1. Clone the repository
 
-The NetPowerDB API provides access to a comprehensive database of power consumption data for network devices. For detailed instructions on how to use the API, please visit the [Network Power Zoo API Documentation](https://networkpowerzoo.ethz.ch/).
+   ```sh
+   git clone https://github.com/nsg-ethz/NetworkPowerZoo-Hardware-Inventory.git
+   ```
 
-## License
+2. Add a new router model
 
-This project is licensed under the CC0-1.0 License. For more information, see the [LICENSE](LICENSE) file.
+   - Create the folder following the layout above.
+   - Copy `router-model-template.yml` into the new folder as `manual.yaml`.
+   - Fill in accurate attributes for the model.
+   - Duplicate `manual.yaml` as `merged.yaml`.
+
+3. Verify or correct an existing model
+
+   - Create (or edit) `manual.yaml` in the model folder.
+   - Review `merged.yaml`.
+   - If all attributes are correct, keep `manual.yaml` empty.
+   - If any attribute is incorrect or missing, add only the changed/missing fields to `manual.yaml` and update `merged.yaml` accordingly.
+
+4. Submit a pull request with your changes.
 
 ## Contact
 
-For questions or suggestions, feel free to open an issue in this repository or contact us through the [Network Power Zoo](https://networkpowerzoo.ethz.ch/) website.
+Questions or suggestions? Open an issue here or reach us via the [Network Power Zoo](https://networkpowerzoo.ethz.ch/) website.
 
-Happy contributing!
+## License
+
+CC0-1.0. See [LICENSE](LICENSE).

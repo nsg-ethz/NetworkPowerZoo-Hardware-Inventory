@@ -6,30 +6,30 @@ part_number: # string
 u_height: # int
 datasheet_url: # string
 datasheet_pdf: # string
-release_date: # YYYY-MM-DD
-end_of_sale_date: # YYYY-MM-DD
-end_of_support_date: # YYYY-MM-DD
+release_date: # string, e.g. "YYYY-MM-DD"
+end_of_sale_date: # string, e.g. "YYYY-MM-DD"
+end_of_support_date: # string, e.g. "YYYY-MM-DD"
 max_throughput:
-  value: # float
+  value: # float, e.g. 100.0
   unit: # string, e.g. Tbps, Gbps, Mbps
 max_power_draw:
-  value: # float
+  value: # float, e.g. 100.0
   unit: # string, e.g. W, dB(A)
   description: # string
 typical_power_draw:
-  value: # float
+  value: # float, e.g. 100.0
   unit: # string, e.g. W, dB(A)
   description: # string
 is_poe_capable: # boolean
 max_poe_draw:
-  value: # float
+  value: # float, e.g. 100.0
   unit: # string, e.g. W
   description: # string
 psu:
   number_of_modules: # string
   efficiency_rating: # string
   power_rating:
-    value: # float
+    value: # float, e.g. 100.0
     unit: # string, e.g. W
     description: # string
   part_number: # string
