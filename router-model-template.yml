@@ -1,6 +1,6 @@
-manufacturer: # string (mandatory)
+manufacturer: # string (required)
 series: # string
-model: # string (mandatory)
+model: # string (required)
 slug: # string
 part_number: # string
 u_height: # int
@@ -11,22 +11,25 @@ end_of_sale_date: # YYYY-MM-DD
 end_of_support_date: # YYYY-MM-DD
 max_throughput:
   value: # float
-  unit: # string
+  unit: # string, e.g. Tbps, Gbps, Mbps
 max_power_draw:
   value: # float
-  unit: # string
+  unit: # string, e.g. W, dB(A)
   description: # string
 typical_power_draw:
   value: # float
-  unit: # string
+  unit: # string, e.g. W, dB(A)
   description: # string
-is_poe_capable: false
-max_poe_draw: null
+is_poe_capable: # boolean
+max_poe_draw:
+  value: # float
+  unit: # string, e.g. W
+  description: # string
 psu:
   number_of_modules: # string
-  efficiency_rating: null
+  efficiency_rating: # string
   power_rating:
     value: # float
-    unit: # string
+    unit: # string, e.g. W
     description: # string
   part_number: # string
